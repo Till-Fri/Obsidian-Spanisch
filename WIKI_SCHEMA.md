@@ -26,6 +26,8 @@ When a new source is provided:
     - **Subjunctive Focus**: Specifically flag and analyze all uses of Subjuntivo.
 3. **Update Wiki**:
     - **Grammar Pages**: Use the semantic `::` format for rules and examples.
+<!--ID: 1776631557055-->
+
     - **Vocab Pages**: Use the bidirectional semantic format with hidden HTML comments for metadata.
     - Create new pages if the topic is novel.
 4. **Index**: Add/update entries in `wiki/index.md`.
@@ -44,13 +46,21 @@ When asked about a word or rule:
 - **Casing**: Use natural lowercase for vocabulary and grammar points.
 - **Verbs**: Always include the most common preposition(s) required for the verb.
 - **Anki Semantic Style**: Use the double colon `::` for the main card content.
+<!--ID: 1776631557067-->
+
 - **Bidirectional Vocab**: Provide both Spanish $\rightarrow$ German and German $\rightarrow$ Spanish versions.
 - **Vocabulary Entries**:
     - `el/la word :: German Translation`
+<!--ID: 1776631557078-->
+
     - `<!--context: [[Source File]]-->`
     - `<!--ejemplo: "Sentence"-->`
     - `<!--nivel: B1/B2-->`
     - `<!--ID: [Unique ID]-->`
 - **Grammar Entries**: 
     - `grammar point/question :: German Explanation`
+<!--ID: 1776631557087-->
+
     - `Spanish Sentence :: German Translation [[Source File]]`
+<!--ID: 1776631557094-->
+

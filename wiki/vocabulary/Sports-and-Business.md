@@ -9,6 +9,8 @@
 <!--ID: 1776620497794-->
 
 - Entscheidung :: la decisión (f)
+<!--ID: 1776631556125-->
+
 <!--context: [[Rebajas para Lewandowski]]-->
 <!--ejemplo: El FC Barcelona tiene sobre la mesa una decisión urgente.-->
 <!--nivel: B1-->
@@ -21,6 +23,8 @@
 <!--ID: 1776620497796-->
 
 - Vertrag :: el contrato (m)
+<!--ID: 1776631556157-->
+
 <!--context: [[Rebajas para Lewandowski]]-->
 <!--ejemplo: El delantero polaco finaliza contrato.-->
 <!--nivel: B1-->
@@ -33,6 +37,8 @@
 <!--ID: 1776620497798-->
 
 - Gehalt :: el salario (m)
+<!--ID: 1776631556182-->
+
 <!--context: [[Rebajas para Lewandowski]]-->
 <!--ejemplo: ...una inversión millonaria, tanto en traspaso como en salario.-->
 <!--nivel: B1-->
@@ -45,6 +51,8 @@
 <!--ID: 1776620497800-->
 
 - Leistung :: el rendimiento (m)
+<!--ID: 1776631556210-->
+
 <!--context: [[Rebajas para Lewandowski]]-->
 <!--ejemplo: ...el rendimiento del delantero ha generado dudas.-->
 <!--nivel: B1-->
@@ -57,6 +65,8 @@
 <!--ID: 1776620497802-->
 
 - dringend :: urgente (adj)
+<!--ID: 1776631556238-->
+
 <!--context: [[Rebajas para Lewandowski]]-->
 <!--ejemplo: El FC Barcelona tiene sobre la mesa una decisión urgente.-->
 <!--nivel: B1-->
@@ -69,6 +79,8 @@
 <!--ID: 1776620497804-->
 
 - Saison :: la temporada (f)
+<!--ID: 1776631556258-->
+
 <!--context: [[Rebajas para Lewandowski]]-->
 <!--ejemplo: ...la reconfiguración de la la delantera de cara a la próxima temporada.-->
 <!--nivel: B1-->
@@ -81,6 +93,8 @@
 <!--ID: 1776620497806-->
 
 - Angelegenheit / Sache :: el asunto (m)
+<!--ID: 1776631556283-->
+
 <!--context: [[Rebajas para Lewandowski]]-->
 <!--ejemplo: Conscientes de la importancia del asunto...-->
 <!--nivel: B1-->
@@ -93,6 +107,8 @@
 <!--ID: 1776620497808-->
 
 - Umfeld :: el entorno (m)
+<!--ID: 1776631556306-->
+
 <!--context: [[Rebajas para Lewandowski]]-->
 <!--ejemplo: Así se lo han trasladado a su entorno.-->
 <!--nivel: B1-->
@@ -106,6 +122,8 @@
 <!--ID: 1776620497810-->
 
 - auf dem Tisch / in Diskussion :: sobre la mesa
+<!--ID: 1776631556332-->
+
 <!--context: [[Rebajas para Lewandowski]]-->
 <!--ejemplo: El FC Barcelona tiene sobre la mesa una decisión la decisión urgente.-->
 <!--nivel: B2 Idiom-->
@@ -118,6 +136,8 @@
 <!--ID: 1776620497812-->
 
 - Gehalt/Vertrag (Sport) :: la ficha (f)
+<!--ID: 1776631556359-->
+
 <!--context: [[Rebajas para Lewandowski]]-->
 <!--ejemplo: ...mitad de ficha, suplente...-->
 <!--nivel: B2 Note-->
@@ -130,6 +150,8 @@
 <!--ID: 1776620497814-->
 
 - Fahrplan / Strategie :: la hoja de ruta (f)
+<!--ID: 1776631556386-->
+
 <!--context: [[Rebajas para Lewandowski]]-->
 <!--ejemplo: ...para trasladarle de primera mano la hoja de ruta de la entidad.-->
 <!--nivel: B2 Business-->
@@ -142,6 +164,8 @@
 <!--ID: 1776620497816-->
 
 - ausüben / erfüllen (eine Rolle) :: desempeñar [regular]
+<!--ID: 1776631556412-->
+
 <!--context: [[Rebajas para Lewandowski]]-->
 <!--ejemplo: ...un nuevo rol que quiere que desempeñe Lewandowski.-->
 <!--nivel: B2 Formal-->
@@ -154,6 +178,8 @@
 <!--ID: 1776620497818-->
 
 - vermindern / schwächen :: mermar [regular]
+<!--ID: 1776631556438-->
+
 <!--context: [[Rebajas la Lewandowski]]-->
 <!--ejemplo: ...las lesiones también han mermado su continuidad.-->
 <!--nivel: B2 Advanced-->
@@ -166,6 +192,8 @@
 <!--ID: 1776620497820-->
 
 - unbestrittener Stammspieler :: el titular indiscutible (m)
+<!--ID: 1776631556468-->
+
 <!--context: [[Rebajas para Lewandowski]]-->
 <!--ejemplo: ...ya no partiría como titular indiscutible.-->
 <!--nivel: B2 Sports-->
@@ -178,6 +206,8 @@
 <!--ID: 1776620497822-->
 
 - sesshaft / eingelebt :: asentados (adj)
+<!--ID: 1776631556500-->
+
 <!--context: [[Rebajas para Lewandowski]]-->
 <!--ejemplo: "Tanto él como su familia están plenamente asentados in Barcelona."-->
 <!--nivel: B2-->
@@ -190,6 +220,8 @@
 <!--ID: 1776620497824-->
 
 - einen guten Ruf haben / gefragt sein :: tener cartel
+<!--ID: 1776631556532-->
+
 <!--context: [[Rebajas para Lewandowski]]-->
 <!--ejemplo: "El polaco sigue teniendo cartel internacional."-->
 <!--nivel: B2 Idiom-->
@@ -202,6 +234,8 @@
 <!--ID: 1776620497826-->
 
 - beeinflussen / bedingen :: condicionar [regular]
+<!--ID: 1776631556560-->
+
 <!--context: [[Rebajas para Lewandowski]]-->
 <!--ejemplo: "...su continuidad o salida condicionará de manera decisiva la reconfiguración..."-->
 <!--nivel: B2-->
@@ -214,6 +248,8 @@
 <!--ID: 1776620497828-->
 
 - Führungsebene / Spitze :: la cúpula (f)
+<!--ID: 1776631556584-->
+
 <!--context: [[Rebajas para Lewandowski]]-->
 <!--ejemplo: "La cúpula deportiva se ha reunido con Pini Zahavi..."-->
 <!--nivel: B2-->
@@ -226,6 +262,8 @@
 <!--ID: 1776620497830-->
 
 - übermitteln / mitteilen :: trasladar [regular]
+<!--ID: 1776631556607-->
+
 <!--context: [[Rebajas para Lewandowski]]-->
 <!--ejemplo: "...para trasladarle de primera mano la hoja de ruta..." [[Rebajas para Lewandowski]]-->
 <!--nivel: B2-->
@@ -238,6 +276,8 @@
 <!--ID: 1776620497832-->
 
 - Torschütze :: el goleador (m)
+<!--ID: 1776631556628-->
+
 <!--context: [[Reb কাহার la Lewandowski]]-->
 <!--ejemplo: "Atrás queda aquel goleador determinante..."-->
 <!--nivel: B2 Sports-->
@@ -250,6 +290,8 @@
 <!--ID: 1776620497834-->
 
 - entscheidend :: determinante (adj)
+<!--ID: 1776631556660-->
+
 <!--context: [[Rebajas para Lewandowski]]-->
 <!--ejemplo: "Atrás queda aquel goleador determinante..."-->
 <!--nivel: B2-->
@@ -262,6 +304,8 @@
 <!--ID: 1776620497836-->
 
 - landen / ankommen :: aterrizar [regular]
+<!--ID: 1776631556686-->
+
 <!--context: [[Rebajas para Lewandowski]]-->
 <!--ejemplo: "...que aterrizó en el Camp Nou hace cuatro temporadas..."-->
 <!--nivel: B2-->
@@ -274,6 +318,8 @@
 <!--ID: 1776620497838-->
 
 - Transfer :: el traspaso (m)
+<!--ID: 1776631556716-->
+
 <!--context: [[Rebajas para Lewandowski]]-->
 <!--ejemplo: "...tanto en traspaso como en salario."-->
 <!--nivel: B2 Sports-->
@@ -286,6 +332,8 @@
 <!--ID: 1776620497840-->
 
 - abnehmen / sinken :: disminuir [regular]
+<!--ID: 1776631556737-->
+
 <!--context: [[Rebajas para Lewandowski]]-->
 <!--ejemplo: "...sus cifras han disminuido..."-->
 <!--nivel: B2-->
@@ -298,6 +346,8 @@
 <!--ID: 1776620497842-->
 
 - verknüpfen / verbinden :: ligar [regular]
+<!--ID: 1776631556762-->
+
 <!--context: [[Rebajas para Lewandowski]]-->
 <!--ejemplo: "...compensada en parte por variables ligadas al rendimiento."-->
 <!--nivel: B2-->
@@ -310,6 +360,8 @@
 <!--ID: 1776620497844-->
 
 - Reflexionsphase :: la fase de reflexión (f)
+<!--ID: 1776631556784-->
+
 <!--context: [[Rebajas para Lewandowski]]-->
 <!--ejemplo: "El jugador, por su parte, se encuentra en fase de reflexión."-->
 <!--nivel: B2-->
@@ -322,6 +374,8 @@
 <!--ID: 1776620497846-->
 
 - schwer wiegen / eine Rolle spielen :: pesar [irregular]
+<!--ID: 1776631556802-->
+
 <!--context: [[Rebajas para Lewandowski]]-->
 <!--ejemplo: "...en su decisión pesan factores personales."-->
 <!--nivel: B2-->
@@ -334,6 +388,8 @@
 <!--ID: 1776620497848-->
 
 - nahestehende Quellen :: las fuentes cercanas (pl)
+<!--ID: 1776631556821-->
+
 <!--context: [[Rebajas para Lewandowski]]-->
 <!--ejemplo: "Según fuentes cercanas, Lewandowski no se pronunciará..."-->
 <!--nivel: B2 Journalistic-->
