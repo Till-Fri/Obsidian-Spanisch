@@ -68,7 +68,7 @@
       "Tag": "Obsidian_to_Anki",
       "Deck": "Spanisch-Obsidian",
       "Scheduling Interval": 0,
-      "Add File Link": true,
+      "Add File Link": false,
       "Add Context": false,
       "CurlyCloze": false,
       "CurlyCloze - Highlights to Clozes": false,
