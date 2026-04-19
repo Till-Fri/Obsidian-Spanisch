@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/grammar/Preterito Perfecto.md",
+                "file": "wiki/log.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Preterito Perfecto"
+              "title": "log"
             }
           }
         ]
@@ -198,16 +198,16 @@
   },
   "active": "059cb21b8fa162e2",
   "lastOpenFiles": [
-    "wiki/grammar/Presente.md",
-    "wiki/vocabulary/Sports-and-Business.md",
-    "wiki/grammar/Preterito Perfecto.md",
     "wiki/test.md",
-    "raw/archive/Vokabeln.md",
-    "WIKI_SCHEMA.md",
     "wiki/log.md",
+    "wiki/index.md",
+    "WIKI_SCHEMA.md",
+    "wiki/vocabulary/Sports-and-Business.md",
+    "wiki/grammar/Presente.md",
+    "wiki/grammar/Preterito Perfecto.md",
+    "raw/archive/Vokabeln.md",
     "raw/incoming/Vokabeln.md",
     "raw/archive/Rebajas para Lewandowski.md",
-    "wiki/index.md",
     "raw/incoming/Clippings/Rebajas para Lewandowski.md",
     "raw/incoming/Clippings",
     "raw/incoming",
