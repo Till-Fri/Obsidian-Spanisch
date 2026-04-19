@@ -1,20 +1,20 @@
 # Sports and Business Vocabulary
 
 ## B1 Recap Vocabulary
-- **Decisión (f)** - Decision [B1] ["El FC Barcelona tiene sobre la mesa una decisión urgente."]
-- **Contrato (m)** - Contract [B1] ["El delantero polaco finaliza contrato."]
-- **Salarío (m)** - Salary [B1] ["...una inversión millonaria, tanto en traspaso como en salario."]
-- **Rendimiento (m)** - Performance [B1] ["...el rendimiento del delantero ha generado dudas."]
+- **Decisión (f)** - Entscheidung [B1] ["El FC Barcelona tiene sobre la mesa una decisión urgente." [[Rebajas para Lewandowski]]]
+- **Contrato (m)** - Vertrag [B1] ["El delantero polaco finaliza contrato." [[Rebajas para Lewandowski]]]
+- **Salarío (m)** - Gehalt [B1] ["...una inversión millonaria, tanto en traspaso como en salario." [[Rebajas para Lewandowski]]]
+- **Rendimiento (m)** - Leistung [B1] ["...el rendimiento del delantero ha generado dudas." [[Rebajas para Lewandowski]]]
 
 ## B2 Expansion Vocabulary
-- **Sobre la mesa** - On the table / under consideration [B2 Idiom] ["El FC Barcelona tiene sobre la mesa una decisión urgente."]
-- **Ficha (f)** - Salary/Contract (sports) [B2 Note: Refers to player payroll/contract] ["...mitad de ficha, suplente..."]
-- **Hoja de ruta (f)** - Roadmap / Plan of action [B2 Business] ["...para trasladarle de primera mano la hoja de ruta de la entidad."]
-- **Desempeñar (v)** - To carry out / perform (a role) [B2 Formal] ["...un nuevo rol que quiere que desempeñe Lewandowski."]
-- **Mermar (v)** - To diminish / weaken [B2 Advanced] ["...las lesiones también han mermado su continuidad."]
-- **Titular indiscutible (m)** - Undisputable starter [B2 Sports] ["...ya no partiría como titular indiscutible."]
-- **Asentados (adj)** - Settled / established [B2] ["Tanto él como su familia están plenamente asentados en Barcelona."]
-- **Tener cartel** - To have a reputation / be sought after [B2 Idiom] ["El polaco sigue teniendo cartel internacional."]
+- **Sobre la mesa** - Auf dem Tisch / in Diskussion [B2 Idiom] ["El FC Barcelona tiene sobre la mesa una decisión urgente." [[Rebajas para Lewandowski]]]
+- **Ficha (f)** - Gehalt/Vertrag (im Sport) [B2 Note: Bezieht sich auf die Gehaltsliste eines Spielers] ["...mitad de ficha, suplente..." [[Rebajas para Lewandowski]]]
+- **Hoja de ruta (f)** - Fahrplan / Strategie [B2 Business] ["...para trasladarle de primera mano la hoja de ruta de la entidad." [[Rebajas para Lewandowski]]]
+- **Desempeñar (v)** - ausüben / erfüllen (eine Rolle) [B2 Formal] ["...un nuevo rol que quiere que desempeñe Lewandowski." [[Rebajas para Lewandowski]]]
+- **Mermar (v)** - vermindern / schwächen [B2 Advanced] ["...las lesiones también han mermado su continuidad." [[Rebajas para Lewandowski]]]
+- **Titular indiscutible (m)** - unbestrittener Stammspieler [B2 Sports] ["...ya no partiría como titular indiscutible." [[Rebajas para Lewandowski]]]
+- **Asentados (adj)** - sesshaft / eingelebt [B2] ["Tanto él como su familia están plenamente asentados en Barcelona." [[Rebajas para Lewandowski]]]
+- **Tener cartel** - einen guten Ruf haben / gefragt sein [B2 Idiom] ["El polaco sigue teniendo cartel internacional." [[Rebajas para Lewandowski]]]
 
 ## Related Grammar
 - [[Presente]]
