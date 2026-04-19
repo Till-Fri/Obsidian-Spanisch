@@ -19,12 +19,13 @@ Transform raw Spanish input (texts, audio, conversations) into a compounding kno
 When a new source is provided:
 1. **Log**: Add entry to `wiki/log.md` (e.g., `## [YYYY-MM-DD] ingest | Topic/Source`).
 2. **Analyze**:
-    - **Vocab Filtering**: Filter out A1-B1 basic vocabulary. Extract "B2-bridge" words, nuanced adjectives, and idiomatic expressions.
-    - **Tense Mapping**: Identify ALL tenses used. Even for basic tenses, extract the usage as a "Recap Example."
+    - **B1 Review Vocab**: Extract key B1 level words that are essential for the "Recap" phase.
+    - **B2-bridge Vocab**: Extract nuanced adjectives, idiomatic expressions, and academic verbs.
+    - **Tense Mapping**: Identify ALL tenses used. Extract the usage as a "Recap Example."
     - **Subjunctive Focus**: Specifically flag and analyze all uses of Subjuntivo (especially Imperfecto and Futuro).
 3. **Update Wiki**:
-    - **Grammar Pages**: Update the relevant page (e.g., `wiki/grammar/Preterito.md` for recap, `wiki/grammar/Subjuntivo_Imperfecto.md` for focus).
-    - **Vocab Pages**: Update the relevant theme page (e.g., `wiki/vocabulary/Professional.md`).
+    - **Grammar Pages**: Update the relevant page (e.g., `wiki/grammar/Preterito.md` for recap).
+    - **Vocab Pages**: Update relevant theme pages. Separate "B1 Recap" from "B2 Expansion" sections within the page.
     - Create new pages if the topic is novel.
 4. **Index**: Add/update entries in `wiki/index.md`.
 
@@ -37,10 +38,11 @@ When asked about a word or rule:
 ### 🧹 Lint Flow (Periodic)
 - Identify "Orphan" vocabulary.
 - Suggest review topics based on the `log.md`.
-- **Tense Audit**: Identify which grammar pages haven't been "recapitulated" recently and suggest a text/topic to cover that tense.
+- **Tense Audit**: Identify which grammar pages haven't been "recapitulated" recently.
 
 ## Formatting Conventions
-- **Links**: Use `[[Page Name]]` for all internal references.
-- **Vocabulary Entries**: `Word (Gender/Plural) - Translation [B2 Note/Nuance] [Example Sentence]`
+- **Links**: MUST use double brackets for all internal references: `[[Page Name]]`.
+- **Vocabulary Entries**: `Word (Gender/Plural) - Translation [Level: B1/B2] [Example Sentence]`
 - **Grammar Entries**: Use clear headings for "Rule", "Exceptions", and "Usage Examples (Recaps)".
+
 

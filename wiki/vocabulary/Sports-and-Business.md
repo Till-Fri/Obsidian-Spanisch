@@ -1,15 +1,21 @@
 # Sports and Business Vocabulary
 
-## Terminology
-- **Sobre la mesa** - On the table / under consideration [Idiom: Used for proposals or decisions being discussed].
-- **Ficha** - Salary/Contract (specifically in sports) [B2 Note: In a general context, *ficha* is a token or chip, but in sports, it refers to the player's payroll/contract].
-- **Hoja de ruta** - Roadmap / Plan of action [B2 Note: Common in business and political contexts].
-- **Desempeñar** - To carry out / perform (a role) [B2 Note: More formal than *hacer*].
-- **Mermar** - To diminish / weaken / erode [B2 Note: High-level verb for reduction in quality or quantity].
-- **Titular indiscutible** - Undisputable starter [Context: Sports].
-- **Asentados** - Settled / established [B2 Note: Used for people living in a place for a long time].
-- **Tener cartel** - To have a reputation / to be highly sought after [Idiom: *Tener cartel* means to be a "big name" or have high market value].
+## B1 Recap Vocabulary
+- **Decisión (f)** - Decision [B1] ["El FC Barcelona tiene sobre la mesa una decisión urgente."]
+- **Contrato (m)** - Contract [B1] ["El delantero polaco finaliza contrato."]
+- **Salarío (m)** - Salary [B1] ["...una inversión millonaria, tanto en traspaso como en salario."]
+- **Rendimiento (m)** - Performance [B1] ["...el rendimiento del delantero ha generado dudas."]
 
-## Examples from text
-- "...el club azulgrana ya han dado los primeros pasos."
-- "...su continuidad o salida condicionará de manera decisiva la reconfiguración..."
+## B2 Expansion Vocabulary
+- **Sobre la mesa** - On the table / under consideration [B2 Idiom] ["El FC Barcelona tiene sobre la mesa una decisión urgente."]
+- **Ficha (f)** - Salary/Contract (sports) [B2 Note: Refers to player payroll/contract] ["...mitad de ficha, suplente..."]
+- **Hoja de ruta (f)** - Roadmap / Plan of action [B2 Business] ["...para trasladarle de primera mano la hoja de ruta de la entidad."]
+- **Desempeñar (v)** - To carry out / perform (a role) [B2 Formal] ["...un nuevo rol que quiere que desempeñe Lewandowski."]
+- **Mermar (v)** - To diminish / weaken [B2 Advanced] ["...las lesiones también han mermado su continuidad."]
+- **Titular indiscutible (m)** - Undisputable starter [B2 Sports] ["...ya no partiría como titular indiscutible."]
+- **Asentados (adj)** - Settled / established [B2] ["Tanto él como su familia están plenamente asentados en Barcelona."]
+- **Tener cartel** - To have a reputation / be sought after [B2 Idiom] ["El polaco sigue teniendo cartel internacional."]
+
+## Related Grammar
+- [[Presente]]
+- [[Preterito Perfecto]]
