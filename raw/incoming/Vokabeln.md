@@ -15,3 +15,14 @@ aterrizó
 traspaso
 disminuido
 mermado
+la propuesta pasa
+ligadas
+partiría 
+trasladado
+entorno
+por el puesto
+fase de reflexión
+pesan
+plenamente asentados
+cartel internacional
+fuentes cercanas
