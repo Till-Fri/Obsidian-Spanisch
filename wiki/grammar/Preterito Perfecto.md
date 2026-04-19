@@ -6,7 +6,7 @@ pretérito perfecto :: Wird für Handlungen verwendet, die in der Vergangenheit 
 
 ## anwendungsbeispiele (recaps)
 "...desde el club azulgrana ya han dado los primeros pasos." :: ...seit dem blaugrana Verein wurden bereits die ersten Schritte unternommen. [[Rebajas para Lewandowski]]
-"El rendimiento del delantero ha generado dudas in den letzten Monaten." :: Die Leistung des Stürmers hat in den letzten Monaten Zweifel hervorgerufen. [[Rebajas para Lewandowski]]
+"El rendimiento del delantero ha generado dudas en los últimos meses." :: Die Leistung des Stürmers hat in den letzten Monaten Zweifel hervorgerufen. [[Rebajas para Lewandowski]]
 
 ## konjugation (beispiel: haber + participio)
 yo he [participio] :: ich habe [partizip]
@@ -15,5 +15,3 @@ tú has [participio] :: du hast [partizip]
 nosotros hemos [participio] :: wir haben [partizip]
 vosotros habéis [participio] :: ihr habt [partizip]
 ellos/ellas/ustedes han [participio] :: sie haben [partizip]
-
-

@@ -1,4 +1,4 @@
-# Obsidian_to_Anki
+﻿# Obsidian_to_Anki
 # log.md
 
 ## [2026-04-19] ingest | Vokabeln.md

@@ -1,4 +1,4 @@
-# Spanish Learning Wiki Schema
+﻿# Spanish Learning Wiki Schema
 
 ## Objective
 Transform raw Spanish input (texts, audio, conversations) into a compounding knowledge base of grammar and vocabulary, supporting the transition from B1 to B2.1.

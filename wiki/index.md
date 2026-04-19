@@ -1,9 +1,9 @@
-# Obsidian_to_Anki
+﻿# Obsidian_to_Anki
 # Index de la Wiki de Español
 
 ## 📚 Gramática
-- [[presente]] - Recap de uso actual.
-- [[preterito perfecto]] - Recap de acciones recientes.
+- [[Presente]] - Recap de uso actual.
+- [[Preterito Perfecto]] - Recap de acciones recientes.
 
 ## 🔤 Vocabulario
 - [[Sports-and-Business]] - Términos de contratos, rendimiento y deportes.
