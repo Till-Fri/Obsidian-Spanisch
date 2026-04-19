@@ -25,6 +25,7 @@ When a new source is provided:
     - **Tense Mapping**: Identify ALL tenses used for "Recap Examples."
     - **Subjunctive Focus**: Specifically flag and analyze all uses of Subjuntivo.
 3. **Update Wiki**:
+    - **Tags**: Every wiki page MUST start with the tag `#Obsidian_to_Anki` to be recognized by the sync plugin.
     - **Grammar Pages**: Use the semantic `::` format for rules to enable Anki export.
     - **Vocab Pages**: Use the semantic `::` format for all entries. Separate "b1 recap" from "b2 expansion" sections.
     - Create new pages if the topic is novel.
@@ -44,10 +45,7 @@ When asked about a word or rule:
 - **Links**: MUST use double brackets: `[[Page Name]]`.
 - **Source Links**: Every example must be linked to its source: "Sentence" [[Source File]].
 - **Casing**: Use natural lowercase for vocabulary and grammar points.
-- **Verbs - Normalization**: Always use the **Infinitive form** (basic form) for verbs (e.g., *tengo* $\rightarrow$ *tener*).
-- **Verbs - Details**: Always include common prepositions (e.g., *depender de*) and specify if the verb is **regular** or **irregular**.
+- **Verbs**: Always include the most common preposition(s) required for the verb (e.g., *depender de*).
 - **Anki Semantic Style**: Use the double colon `::` to separate the Front (Spanish) from the Back (German/Explanation).
-- **Vocabulary Entries**: 
-    - Nouns: `el/la word :: German Translation (Level) "Sentence" [[Source File]]`
-    - Verbs: `verb (infinitive) [regular/irregular] :: German Translation (Level) "Sentence" [[Source File]]`
-- **Grammar Entries**: `grammar point/question :: German Explanation "Example" [[Source File]]`
+- **Vocabulary Entries**: `el/la word :: German Translation [Level: B1/B2] "Sentence" [[Source File]]`
+- **Grammar Entries**: `grammar point/question :: German Explanation [Example] [[Source File]]`

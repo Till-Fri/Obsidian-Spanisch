@@ -1,3 +1,4 @@
+# Obsidian_to_Anki
 # Pretérito Perfecto (Recap)
 
 ## Regel
@@ -5,4 +6,4 @@ Pretérito Perfecto :: Wird für Handlungen verwendet, die in der Vergangenheit 
 
 ## Anwendungsbeispiele (Recaps)
 - Kürzliche Handlung :: "...desde el club azulgrana ya **han dado** los primeros pasos." [[Rebajas para Lewandowski]]
-- Kürzlicher Zustand/Änderung :: "El rendimiento del delantero **ha generado** dudas en los últimos meses." [[Rebajas para Lewandowski]]
+- Kürzlicher Zustand/Änderung :: "El rendimiento del delantero **ha generado** dudas in den letzten Monaten." [[Rebajas para Lewandowski]]

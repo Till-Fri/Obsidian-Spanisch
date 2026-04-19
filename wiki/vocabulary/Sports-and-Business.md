@@ -1,7 +1,8 @@
-# Sports and Business Vocabulary
+# Obsidian_to_Anki
+# sports and business vocabulary
 
 ## b1 recap vocabulary
-- la decisión (f) :: Entscheidung [B1] "El FC Barcelona tiene sobre la mesa una decisión urgente." [[Rebajas para Lewandowski]]
+- la decisión (f) :: Entscheidung [B1] "El FC Barcelona tiene sobre la mesa una decisión la decisión urgente." [[Rebajas para Lewandowski]]
 - el contrato (m) :: Vertrag [B1] ["El delantero polaco finaliza contrato." [[Rebajas para Lewandowski]]]
 - el salario (m) :: Gehalt [B1] ["...una inversión millonaria, tanto en traspaso como en salario." [[Rebajas para Lewandowski]]]
 - el rendimiento (m) :: Leistung [B1] ["...el rendimiento del delantero ha generado dudas." [[Rebajas para Lewandowski]]]
