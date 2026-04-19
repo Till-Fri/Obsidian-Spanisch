@@ -1,0 +1,69 @@
+{
+  "settings": {
+    "CUSTOM_REGEXPS": {
+      "B+R+hint on side 2": "",
+      "Basic": "",
+      "Basic (and reversed card)": "",
+      "Basic (optional reversed card)": "",
+      "Basic (type in the answer)": "",
+      "Basic (with Audio)": "",
+      "Basic+": "",
+      "Bildverdeckung": "",
+      "Cloze": "",
+      "Einfach": "",
+      "Einfach-44783": "",
+      "Image Occlusion Enhanced": "",
+      "n2a-basic": "",
+      "RemNoteExport_Till-Friedrich_anki_2024-11-13_12-27": "",
+      "Ultimate Spanish Conjugation [Ankiweb]": ""
+    },
+    "FILE_LINK_FIELDS": {
+      "B+R+hint on side 2": "ID",
+      "Basic": "Front",
+      "Basic (and reversed card)": "Front",
+      "Basic (optional reversed card)": "Front",
+      "Basic (type in the answer)": "Front",
+      "Basic (with Audio)": "Front",
+      "Basic+": "Front",
+      "Bildverdeckung": "Verdeckung",
+      "Cloze": "Text",
+      "Einfach": "Vorderseite",
+      "Einfach-44783": "Vorderseite",
+      "Image Occlusion Enhanced": "ID (hidden)",
+      "n2a-basic": "Front",
+      "RemNoteExport_Till-Friedrich_anki_2024-11-13_12-27": "Front",
+      "Ultimate Spanish Conjugation [Ankiweb]": "UUID"
+    },
+    "CONTEXT_FIELDS": {},
+    "FOLDER_DECKS": {},
+    "FOLDER_TAGS": {},
+    "Syntax": {
+      "Begin Note": "START",
+      "End Note": "END",
+      "Begin Inline Note": "STARTI",
+      "End Inline Note": "ENDI",
+      "Target Deck Line": "TARGET DECK",
+      "File Tags Line": "FILE TAGS",
+      "Delete Note Line": "DELETE",
+      "Frozen Fields Line": "FROZEN"
+    },
+    "Defaults": {
+      "Scan Directory": "",
+      "Tag": "Obsidian_to_Anki",
+      "Deck": "Default",
+      "Scheduling Interval": 0,
+      "Add File Link": false,
+      "Add Context": false,
+      "CurlyCloze": false,
+      "CurlyCloze - Highlights to Clozes": false,
+      "ID Comments": true,
+      "Add Obsidian Tags": false
+    },
+    "IGNORED_FILE_GLOBS": [
+      "**/*.excalidraw.md"
+    ]
+  },
+  "Added Media": [],
+  "File Hashes": {},
+  "fields_dict": {}
+}
