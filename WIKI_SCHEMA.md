@@ -25,10 +25,8 @@ When a new source is provided:
     - **Tense Mapping**: Identify ALL tenses used for "Recap Examples."
     - **Subjunctive Focus**: Specifically flag and analyze all uses of Subjuntivo.
 3. **Update Wiki**:
-    - **Grammar Pages**: Use the semantic `::` format for rules and examples.
-<!--ID: 1776631557055-->
-
-    - **Vocab Pages**: Use the bidirectional semantic format with hidden HTML comments for metadata.
+    - **Grammar Pages**: Use `::` for Rules $\rightarrow$ Explanation and for Examples $\rightarrow$ Translation.
+    - **Vocab Pages**: Use `::` for bidirectional learning. **Crucial: Do NOT use bullet points (hyphens/asterisks) for the entries, as these are exported to Anki.**
     - Create new pages if the topic is novel.
 4. **Index**: Add/update entries in `wiki/index.md`.
 
@@ -43,24 +41,17 @@ When asked about a word or rule:
 
 ## Formatting Conventions
 - **Links**: MUST use double brackets: `[[Page Name]]`.
+- **Source Links**: Every example must be linked to its source: "Sentence" [[Source File]].
 - **Casing**: Use natural lowercase for vocabulary and grammar points.
 - **Verbs**: Always include the most common preposition(s) required for the verb.
-- **Anki Semantic Style**: Use the double colon `::` for the main card content.
-<!--ID: 1776631557067-->
-
+- **Anki Semantic Style**: Use the double colon `::` for flashcards.
 - **Bidirectional Vocab**: Provide both Spanish $\rightarrow$ German and German $\rightarrow$ Spanish versions.
-- **Vocabulary Entries**:
+- **Vocabulary Entries (Strictly NO BULLETS)**: 
     - `el/la word :: German Translation`
-<!--ID: 1776631557078-->
-
     - `<!--context: [[Source File]]-->`
     - `<!--ejemplo: "Sentence"-->`
     - `<!--nivel: B1/B2-->`
     - `<!--ID: [Unique ID]-->`
 - **Grammar Entries**: 
     - `grammar point/question :: German Explanation`
-<!--ID: 1776631557087-->
-
-    - `Spanish Sentence :: German Translation [[Source File]]`
-<!--ID: 1776631557094-->
-
+    - `Spanish Sentence :: German Translation [Grammar Point] [[Source File]]`
