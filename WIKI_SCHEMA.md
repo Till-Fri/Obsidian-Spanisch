@@ -20,7 +20,7 @@ Transform raw Spanish input (texts, audio, conversations) into a compounding kno
 When a new source is provided:
 1. **Log**: Add entry to `wiki/log.md` (e.g., `## [YYYY-MM-DD] ingest | Topic/Source`).
 2. **Analyze**:
-    - **B1 Review Vocab**: MANDATORY. Extract key B1 level words that are essential for the "Recap" phase. Do not skip these; they are the foundation for the B2 transition.
+    - **B1 Review Vocab**: MANDATORY. Extract key B1 level words.
     - **B2-bridge Vocab**: Extract nuanced adjectives, idiomatic expressions, and academic verbs.
     - **Tense Mapping**: Identify ALL tenses used for "Recap Examples."
     - **Subjunctive Focus**: Specifically flag and analyze all uses of Subjuntivo.
@@ -43,8 +43,11 @@ When asked about a word or rule:
 ## Formatting Conventions
 - **Links**: MUST use double brackets: `[[Page Name]]`.
 - **Source Links**: Every example must be linked to its source: "Sentence" [[Source File]].
-- **Casing**: Use natural lowercase for vocabulary and grammar points (only capitalize if it's a proper noun).
-- **Verbs**: Always include the most common preposition(s) required for the verb (e.g., *depender de*).
+- **Casing**: Use natural lowercase for vocabulary and grammar points.
+- **Verbs - Normalization**: Always use the **Infinitive form** (basic form) for verbs (e.g., *tengo* $\rightarrow$ *tener*).
+- **Verbs - Details**: Always include common prepositions (e.g., *depender de*) and specify if the verb is **regular** or **irregular**.
 - **Anki Semantic Style**: Use the double colon `::` to separate the Front (Spanish) from the Back (German/Explanation).
-- **Vocabulary Entries**: `el/la word :: German Translation [Level: B1/B2] "Sentence" [[Source File]]`
+- **Vocabulary Entries**: 
+    - Nouns: `el/la word :: German Translation [Level] "Sentence" [[Source File]]`
+    - Verbs: `verb (infinitive) [regular/irregular] :: German Translation [Level] "Sentence" [[Source File]]`
 - **Grammar Entries**: `grammar point/question :: German Explanation [Example] [[Source File]]`
