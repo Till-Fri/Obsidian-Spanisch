@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/vocabulary/Sports-and-Business.md",
+                "file": "wiki/grammar/Preterito Perfecto.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sports-and-Business"
+              "title": "Preterito Perfecto"
             }
           }
         ]
@@ -196,16 +196,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "059cb21b8fa162e2",
+  "active": "6d01f5724b477a3c",
   "lastOpenFiles": [
+    "wiki/grammar/Presente.md",
+    "wiki/vocabulary/Sports-and-Business.md",
     "raw/archive/Vokabeln.md",
     "WIKI_SCHEMA.md",
     "wiki/log.md",
     "raw/incoming/Vokabeln.md",
     "wiki/grammar/Preterito Perfecto.md",
-    "wiki/grammar/Presente.md",
     "raw/archive/Rebajas para Lewandowski.md",
-    "wiki/vocabulary/Sports-and-Business.md",
     "wiki/index.md",
     "raw/incoming/Clippings/Rebajas para Lewandowski.md",
     "raw/incoming/Clippings",

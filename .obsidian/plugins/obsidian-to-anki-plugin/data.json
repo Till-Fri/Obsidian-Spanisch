@@ -35,8 +35,24 @@
       "Ultimate Spanish Conjugation [Ankiweb]": "UUID"
     },
     "CONTEXT_FIELDS": {},
-    "FOLDER_DECKS": {},
-    "FOLDER_TAGS": {},
+    "FOLDER_DECKS": {
+      "raw": "",
+      "wiki": "",
+      "raw/archive": "",
+      "raw/incoming": "",
+      "wiki/grammar": "",
+      "wiki/vocabulary": "",
+      "wiki/entities": ""
+    },
+    "FOLDER_TAGS": {
+      "raw": "",
+      "wiki": "",
+      "raw/archive": "",
+      "raw/incoming": "",
+      "wiki/grammar": "",
+      "wiki/vocabulary": "",
+      "wiki/entities": ""
+    },
     "Syntax": {
       "Begin Note": "START",
       "End Note": "END",
@@ -48,11 +64,11 @@
       "Frozen Fields Line": "FROZEN"
     },
     "Defaults": {
-      "Scan Directory": "",
+      "Scan Directory": "/wiki",
       "Tag": "Obsidian_to_Anki",
-      "Deck": "Default",
+      "Deck": "Spanisch",
       "Scheduling Interval": 0,
-      "Add File Link": false,
+      "Add File Link": true,
       "Add Context": false,
       "CurlyCloze": false,
       "CurlyCloze - Highlights to Clozes": false,
@@ -64,6 +80,105 @@
     ]
   },
   "Added Media": [],
-  "File Hashes": {},
-  "fields_dict": {}
+  "File Hashes": {
+    "wiki/index.md": "bfb86d19db7586f2b06d322601a62d4d",
+    "wiki/vocabulary/Sports-and-Business.md": "9784ecca1f27525b189e9f55b03fe2ee",
+    "wiki/log.md": "483c49c7021bc5a1af5d69cc425716be",
+    "wiki/grammar/Preterito Perfecto.md": "4ab6d5a899de222e65438e99f3463f21",
+    "wiki/grammar/Presente.md": "3f2f082cebd468ae5e30ef991529984e",
+    "WIKI_SCHEMA.md": "65904d08c2f49b1a08e4cc18db76a73d",
+    "raw/archive/Vokabeln.md": "2996a1d2f9b464291c6bf8cb687a6d8a",
+    "raw/archive/Rebajas para Lewandowski.md": "3d9cf4a6e730ef3cc3a459004e92fb09"
+  },
+  "fields_dict": {
+    "B+R+hint on side 2": [
+      "ID",
+      "Deutsch",
+      "Spanisch",
+      "Beispiel",
+      "AudioS",
+      "Einheit",
+      "Thematische Einheit",
+      "BildD",
+      "BildS",
+      "Bild3",
+      "Bild4",
+      "Frequency Dictionary Ranking",
+      "Nummer"
+    ],
+    "Basic": [
+      "Front",
+      "Back"
+    ],
+    "Basic (and reversed card)": [
+      "Front",
+      "Back"
+    ],
+    "Basic (optional reversed card)": [
+      "Front",
+      "Back",
+      "Add Reverse"
+    ],
+    "Basic (type in the answer)": [
+      "Front",
+      "Back"
+    ],
+    "Basic (with Audio)": [
+      "Front",
+      "Back",
+      "Audio",
+      "Transcription"
+    ],
+    "Basic+": [
+      "Front",
+      "Back"
+    ],
+    "Bildverdeckung": [
+      "Verdeckung",
+      "Bild",
+      "Kopfzeile",
+      "Rückseite Extra",
+      "Kommentare"
+    ],
+    "Cloze": [
+      "Text",
+      "Back Extra"
+    ],
+    "Einfach": [
+      "Vorderseite",
+      "Rückseite"
+    ],
+    "Einfach-44783": [
+      "Vorderseite",
+      "Rückseite"
+    ],
+    "Image Occlusion Enhanced": [
+      "ID (hidden)",
+      "Header",
+      "Image",
+      "Question Mask",
+      "Footer",
+      "Remarks",
+      "Sources",
+      "Extra 1",
+      "Extra 2",
+      "Answer Mask",
+      "Original Mask"
+    ],
+    "n2a-basic": [
+      "Front",
+      "Back",
+      "MyMedia"
+    ],
+    "RemNoteExport_Till-Friedrich_anki_2024-11-13_12-27": [
+      "Front",
+      "Back"
+    ],
+    "Ultimate Spanish Conjugation [Ankiweb]": [
+      "UUID",
+      "Prompt",
+      "Similar",
+      "Notes"
+    ]
+  }
 }
