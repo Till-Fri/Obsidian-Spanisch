@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WIKI_SCHEMA.md",
+                "file": "wiki/grammar/Preterito Perfecto.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WIKI_SCHEMA"
+              "title": "Preterito Perfecto"
             }
           }
         ]
@@ -198,12 +198,12 @@
   },
   "active": "059cb21b8fa162e2",
   "lastOpenFiles": [
+    "wiki/grammar/Presente.md",
     "wiki/vocabulary/Sports-and-Business.md",
+    "WIKI_SCHEMA.md",
     "wiki/index.md",
     "wiki/log.md",
-    "WIKI_SCHEMA.md",
     "wiki/test.md",
-    "wiki/grammar/Presente.md",
     "wiki/grammar/Preterito Perfecto.md",
     "raw/archive/Vokabeln.md",
     "raw/incoming/Vokabeln.md",
