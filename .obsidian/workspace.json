@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "4ebe54f8c7018ace",
+    "type": "split",
+    "children": [
+      {
+        "id": "96f941942af5b7ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66fa7ecf45705414",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "raw/incoming/Clippings/Rebajas para Lewandowski.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rebajas para Lewandowski"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9f98a92609575881",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7305e94a913f250",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d01f5724b477a3c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Dateiexplorer"
+            }
+          },
+          {
+            "id": "bfa20728a1d8f8d5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Suchen"
+            }
+          },
+          {
+            "id": "e0505991883a37b5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Lesezeichen"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2f93654380fb47e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "7af0ed96e18adff3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29e8dc5427b1791b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "raw/incoming/Clippings/Rebajas para Lewandowski.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rückverweise auf Rebajas para Lewandowski"
+            }
+          },
+          {
+            "id": "5c953f26d6ab9b5b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "raw/incoming/Clippings/Rebajas para Lewandowski.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Ausgehende Links von Rebajas para Lewandowski öffnen"
+            }
+          },
+          {
+            "id": "0beee097db6259a8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9480c746e1e24633",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Alle Eigenschaften"
+            }
+          },
+          {
+            "id": "ca7f74b251f02e80",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "raw/incoming/Clippings/Rebajas para Lewandowski.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Gliederung von Rebajas para Lewandowski"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graph-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
+      "bases:Neue Base erstellen": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "6d01f5724b477a3c",
+  "lastOpenFiles": [
+    "raw/incoming/Clippings/Rebajas para Lewandowski.md",
+    "raw/incoming/Clippings",
+    "raw/incoming",
+    "raw/archive"
+  ]
+}
