@@ -15,3 +15,5 @@ tú has [participio] :: du hast [partizip]
 nosotros hemos [participio] :: wir haben [partizip]
 vosotros habéis [participio] :: ihr habt [partizip]
 ellos/ellas/ustedes han [participio] :: sie haben [partizip]
+
+
