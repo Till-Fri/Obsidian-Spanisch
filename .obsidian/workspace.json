@@ -11,14 +11,10 @@
             "id": "059cb21b8fa162e2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wiki/grammar/Preterito Perfecto.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Preterito Perfecto"
+              "title": "Neuer Tab"
             }
           }
         ]
@@ -206,10 +202,12 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "a6a8c71c548fd4d8",
+  "active": "6d01f5724b477a3c",
   "lastOpenFiles": [
-    "copilot/copilot-conversations/hi@20260420_004154.md",
     "copilot/copilot-conversations/hi@20260420_003411.md",
+    "wiki/vocabulary/Sports-and-Business.md",
+    "wiki/grammar/Preterito Perfecto.md",
+    "copilot/copilot-conversations/hi@20260420_004154.md",
     "copilot/copilot-conversations",
     "copilot/copilot-custom-prompts/Clip Web Page.md",
     "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
@@ -229,12 +227,10 @@
     "copilot/copilot-custom-prompts",
     "copilot",
     "wiki/index.md",
-    "wiki/grammar/Preterito Perfecto.md",
     "wiki/grammar/Presente.md",
     "WIKI_SCHEMA.md",
     "raw/archive/Rebajas para Lewandowski.md",
     "wiki/log.md",
-    "wiki/vocabulary/Sports-and-Business.md",
     "wiki/test.md",
     "sports and business vocabulary.md",
     "raw/incoming/Clippings",
