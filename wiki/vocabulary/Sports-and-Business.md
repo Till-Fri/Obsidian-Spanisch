@@ -2,15 +2,15 @@
 # sports and business vocabulary
 
 ## b1 recap vocabulary
-la decisiÃ³n (f) :: Entscheidung
+la decisión (f) :: Entscheidung
 <!--context: [[Rebajas para Lewandowski]]-->
-<!--ejemplo: El FC Barcelona tiene sobre la mesa una decisiÃ³n urgente.-->
+<!--ejemplo: El FC Barcelona tiene sobre la mesa una decisión urgente.-->
 <!--nivel: B1-->
 <!--ID: 1776620497794-->
 
-Entscheidung :: la decisiÃ³n (f)
+Entscheidung :: la decisión (f)
 <!--context: [[Rebajas para Lewandowski]]-->
-<!--ejemplo: El FC Barcelona tiene sobre la mesa una decisiÃ³n urgente.-->
+<!--ejemplo: El FC Barcelona tiene sobre la mesa una decisión urgente.-->
 <!--nivel: B1-->
 <!--ID: 1776620497795-->
 
@@ -28,13 +28,13 @@ Vertrag :: el contrato (m)
 
 el salario (m) :: Gehalt
 <!--context: [[Rebajas para Lewandowski]]-->
-<!--ejemplo: ...una inversiÃ³n millonaria, tanto en traspaso como en salario.-->
+<!--ejemplo: ...una inversión millonaria, tanto en traspaso como en salario.-->
 <!--nivel: B1-->
 <!--ID: 1776620497798-->
 
 Gehalt :: el salario (m)
 <!--context: [[Rebajas para Lewandowski]]-->
-<!--ejemplo: ...una inversiÃ³n millonaria, tanto en traspaso como en salario.-->
+<!--ejemplo: ...una inversión millonaria, tanto en traspaso como en salario.-->
 <!--nivel: B1-->
 <!--ID: 1776620497799-->
 
@@ -52,25 +52,25 @@ Leistung :: el rendimiento (m)
 
 urgente (adj) :: dringend
 <!--context: [[Rebajas para Lewandowski]]-->
-<!--ejemplo: El FC Barcelona tiene sobre la mesa eine decisiÃ³n urgente.-->
+<!--ejemplo: El FC Barcelona tiene sobre la mesa una decisión urgente.-->
 <!--nivel: B1-->
 <!--ID: 1776620497802-->
 
 dringend :: urgente (adj)
 <!--context: [[Rebajas para Lewandowski]]-->
-<!--ejemplo: El FC Barcelona tiene sobre la mesa eine decisiÃ³n urgente.-->
+<!--ejemplo: El FC Barcelona tiene sobre la mesa una decisión urgente.-->
 <!--nivel: B1-->
 <!--ID: 1776620497803-->
 
 la temporada (f) :: Saison
 <!--context: [[Rebajas para Lewandowski]]-->
-<!--ejemplo: ...la reconfiguraciÃ³n de la la delantera de cara a la prÃ³xima temporada.-->
-<!--nivel: BB1-->
+<!--ejemplo: ...la reconfiguración de la delantera de cara a la próxima temporada.-->
+<!--nivel: B1-->
 <!--ID: 1776620497804-->
 
 Saison :: la temporada (f)
 <!--context: [[Rebajas para Lewandowski]]-->
-<!--ejemplo: ...la reconfiguraciÃ³n de la la delantera de cara a la prÃ³xima temporada.-->
+<!--ejemplo: ...la reconfiguración de la delantera de cara a la próxima temporada.-->
 <!--nivel: B1-->
 <!--ID: 1776620497805-->
 
@@ -88,26 +88,26 @@ Angelegenheit / Sache :: el asunto (m)
 
 el entorno (m) :: Umfeld
 <!--context: [[Rebajas para Lewandowski]]-->
-<!--ejemplo: AsÃ­ se lo han trasladado a su entorno.-->
+<!--ejemplo: Así se lo han trasladado a su entorno.-->
 <!--nivel: B1-->
 <!--ID: 1776620497808-->
 
 Umfeld :: el entorno (m)
 <!--context: [[Rebajas para Lewandowski]]-->
-<!--ejemplo: AsÃ­ se lo han trasladado a su entorno.-->
+<!--ejemplo: Así se lo han trasladado a su entorno.-->
 <!--nivel: B1-->
 <!--ID: 1776620497809-->
 
 ## b2 expansion vocabulary
 sobre la mesa :: auf dem Tisch / in Diskussion
 <!--context: [[Rebajas para Lewandowski]]-->
-<!--ejemplo: El FC Barcelona tiene sobre la mesa una decisiÃ³n la decisiÃ³n urgente.-->
+<!--ejemplo: El FC Barcelona tiene sobre la mesa una decisión urgente.-->
 <!--nivel: B2 Idiom-->
 <!--ID: 1776620497810-->
 
 auf dem Tisch / in Diskussion :: sobre la mesa
 <!--context: [[Rebajas para Lewandowski]]-->
-<!--ejemplo: El FC Barcelona tiene sobre la mesa una decisiÃ³n la decisiÃ³n urgente.-->
+<!--ejemplo: El FC Barcelona tiene sobre la mesa una decisión urgente.-->
 <!--nivel: B2 Idiom-->
 <!--ID: 1776620497811-->
 
@@ -135,135 +135,123 @@ Fahrplan / Strategie :: la hoja de ruta (f)
 <!--nivel: B2 Business-->
 <!--ID: 1776620497815-->
 
-desempeÃ±ar [regular] :: ausÃ¼ben / erfÃ¼llen (eine Rolle)
+desempeñar [regular] :: ausüben / erfüllen (eine Rolle)
 <!--context: [[Rebajas para Lewandowski]]-->
-<!--ejemplo: ...un nuevo rol que quiere que desempeÃ±e Lewandowski.-->
+<!--ejemplo: ...un nuevo rol que quiere que desempeñe Lewandowski.-->
 <!--nivel: B2 Formal-->
 <!--ID: 1776620497816-->
 
-ausÃ¼ben / erfÃ¼llen (eine Rolle) :: desempeÃ±ar [regular]
+ausüben / erfüllen (eine Rolle) :: desempeñar [regular]
 <!--context: [[Rebajas para Lewandowski]]-->
-<!--ejemplo: ...un nuevo rol que quiere que desempeÃ±e Lewandowski.-->
+<!--ejemplo: ...un nuevo rol que quiere que desempeñe Lewandowski.-->
 <!--nivel: B2 Formal-->
 <!--ID: 1776620497817-->
 
-mermar [regular] :: vermindern / schwÃ¤chen
-<!--context: [[Rebajas la Lewandowski]]-->
-<!--ejemplo: ...las lesiones tambiÃ©n han mermado su continuidad.-->
-<!--nivel: B2 Advanced-->
+mermar [regular] :: vermindern / schwächen
+<!--context: [[Rebajas para Lewandowski]]-->
+<!--ejemplo: ...las lesiones también han mermado su físico.-->
+<!--nivel: B2-->
 <!--ID: 1776620497818-->
 
-vermindern / schwÃ¤chen :: mermar [regular]
-<!--context: [[Rebajas la Lewandowski]]-->
-<!--ejemplo: ...las lesiones tambiÃ©n han mermado su continuidad.-->
-<!--nivel: B2 Advanced-->
+vermindern / schwächen :: mermar [regular]
+<!--context: [[Rebajas para Lewandowski]]-->
+<!--ejemplo: ...las lesiones también han mermado su físico.-->
+<!--nivel: B2-->
 <!--ID: 1776620497819-->
 
-el titular indiscutible (m) :: unbestrittener Stammspieler
+la lesión (f) :: Verletzung
 <!--context: [[Rebajas para Lewandowski]]-->
-<!--ejemplo: ...ya no partirÃ­a como titular indiscutible.-->
-<!--nivel: B2 Sports-->
+<!--ejemplo: ...las lesiones también han mermado su físico.-->
+<!--nivel: B1-->
 <!--ID: 1776620497820-->
 
-unbestrittener Stammspieler :: el titular indiscutible (m)
+Verletzung :: la lesión (f)
 <!--context: [[Rebajas para Lewandowski]]-->
-<!--ejemplo: ...ya no partirÃ­a como titular indiscutible.-->
-<!--nivel: B2 Sports-->
+<!--ejemplo: ...las lesiones también han mermado su físico.-->
+<!--nivel: B1-->
 <!--ID: 1776620497821-->
 
-asentados (adj) :: sesshaft / eingelebt
+el suplente (m) :: Ersatzspieler
 <!--context: [[Rebajas para Lewandowski]]-->
-<!--ejemplo: "Tanto Ã©l como su familia estÃ¡n plenamente asentados in Barcelona."-->
-<!--nivel: B2-->
+<!--ejemplo: ...mitad de ficha, suplente...-->
+<!--nivel: B1 Sports-->
 <!--ID: 1776620497822-->
 
-sesshaft / eingelebt :: asentados (adj)
+Ersatzspieler :: el suplente (m)
 <!--context: [[Rebajas para Lewandowski]]-->
-<!--ejemplo: "Tanto Ã©l como su familia estÃ¡n plenamente asentados in Barcelona."-->
-<!--nivel: B2-->
+<!--ejemplo: ...mitad de ficha, suplente...-->
+<!--nivel: B1 Sports-->
 <!--ID: 1776620497823-->
-
-tener cartel :: einen guten Ruf haben / gefragt sein
-<!--context: [[Rebajas para Lewandowski]]-->
-<!--ejemplo: "El polaco sigue teniendo cartel internacional."-->
-<!--nivel: B2 Idiom-->
-<!--ID: 1776620497824-->
-
-einen guten Ruf haben / gefragt sein :: tener cartel
-<!--context: [[Rebajas para Lewandowski]]-->
-<!--ejemplo: "El polaco sigue teniendo cartel internacional."-->
-<!--nivel: B2 Idiom-->
-<!--ID: 1776620497825-->
 
 condicionar [regular] :: beeinflussen / bedingen
 <!--context: [[Rebajas para Lewandowski]]-->
-<!--ejemplo: "...su continuidad o salida condicionarÃ¡ de manera decisiva la reconfiguraciÃ³n..."-->
+<!--ejemplo: "...su continuidad o salida condicionará de manera decisiva la reconfiguración..."-->
 <!--nivel: B2-->
 <!--ID: 1776620497826-->
 
 beeinflussen / bedingen :: condicionar [regular]
 <!--context: [[Rebajas para Lewandowski]]-->
-<!--ejemplo: "...su continuidad o salida condicionarÃ¡ de manera decisiva la reconfiguraciÃ³n..."-->
+<!--ejemplo: "...su continuidad o salida condicionará de manera decisiva la reconfiguración..."-->
 <!--nivel: B2-->
 <!--ID: 1776620497827-->
 
-la cÃºpula (f) :: FÃ¼hrungsebene / Spitze
+la cúpula (f) :: Führungsebene / Spitze
 <!--context: [[Rebajas para Lewandowski]]-->
-<!--ejemplo: "La cÃºpula deportiva se ha reunido con Pini Zahavi..."-->
+<!--ejemplo: "La cúpula deportiva se ha reunido con Pini Zahavi..."-->
 <!--nivel: B2-->
 <!--ID: 1776620497828-->
 
-FÃ¼hrungsebene / Spitze :: la cÃºpula (f)
+Führungsebene / Spitze :: la cúpula (f)
 <!--context: [[Rebajas para Lewandowski]]-->
-<!--ejemplo: "La cÃºpula deportiva se ha reunido mit Pini Zahavi..."-->
+<!--ejemplo: "La cúpula deportiva se ha reunido con Pini Zahavi..."-->
 <!--nivel: B2-->
 <!--ID: 1776620497829-->
 
-trasladar [regular] :: Ã¼bermitteln / mitteilen
+trasladar [regular] :: übermitteln / mitteilen
 <!--context: [[Rebajas para Lewandowski]]-->
 <!--ejemplo: "...para trasladarle de primera mano la hoja de ruta..." [[Rebajas para Lewandowski]]-->
 <!--nivel: B2-->
 <!--ID: 1776620497830-->
 
-Ã¼bermitteln / mitteilen :: trasladar [regular]
+übermitteln / mitteilen :: trasladar [regular]
 <!--context: [[Rebajas para Lewandowski]]-->
 <!--ejemplo: "...para trasladarle de primera mano la hoja de ruta..." [[Rebajas para Lewandowski]]-->
 <!--nivel: B2-->
 <!--ID: 1776620497831-->
 
-el goleador (m) :: TorschÃ¼tze
+el goleador (m) :: Torschütze
 <!--context: [[Rebajas para Lewandowski]]-->
-<!--ejemplo: "AtrÃ¡s queda aquel goleador determinante..."-->
+<!--ejemplo: "Atrás queda aquel goleador determinante..."-->
 <!--nivel: B2 Sports-->
 <!--ID: 1776620497832-->
 
-TorschÃ¼tze :: el goleador (m)
+Torschütze :: el goleador (m)
 <!--context: [[Rebajas para Lewandowski]]-->
-<!--ejemplo: "AtrÃ¡s queda aquel goleador determinante..."-->
+<!--ejemplo: "Atrás queda aquel goleador determinante..."-->
 <!--nivel: B2 Sports-->
 <!--ID: 1776620497833-->
 
 determinante (adj) :: entscheidend
 <!--context: [[Rebajas para Lewandowski]]-->
-<!--ejemplo: "AtrÃ¡s queda aquel goleador determinante..."-->
+<!--ejemplo: "Atrás queda aquel goleador determinante..."-->
 <!--nivel: B2-->
 <!--ID: 1776620497834-->
 
 entscheidend :: determinante (adj)
 <!--context: [[Rebajas para Lewandowski]]-->
-<!--ejemplo: "AtrÃ¡s queda aquel goleador determinante..."-->
+<!--ejemplo: "Atrás queda aquel goleador determinante..."-->
 <!--nivel: B2-->
 <!--ID: 1776620497835-->
 
 aterrizar [regular] :: landen / ankommen
 <!--context: [[Rebajas para Lewandowski]]-->
-<!--ejemplo: "...que aterrizÃ³ en el Camp Nou hace cuatro temporadas..."-->
+<!--ejemplo: "...que aterrizó en el Camp Nou hace cuatro temporadas..."-->
 <!--nivel: B2-->
 <!--ID: 1776620497836-->
 
 landen / ankommen :: aterrizar [regular]
 <!--context: [[Rebajas para Lewandowski]]-->
-<!--ejemplo: "...que aterrizÃ³ en el Camp Nou hace cuatro temporadas..."-->
+<!--ejemplo: "...que aterrizó en el Camp Nou hace cuatro temporadas..."-->
 <!--nivel: B2-->
 <!--ID: 1776620497837-->
 
@@ -291,50 +279,50 @@ abnehmen / sinken :: disminuir [regular]
 <!--nivel: B2-->
 <!--ID: 1776620497841-->
 
-ligar [regular] :: verknÃ¼pfen / verbinden
+ligar [regular] :: verknüpfen / verbinden
 <!--context: [[Rebajas para Lewandowski]]-->
 <!--ejemplo: "...compensada en parte por variables ligadas al rendimiento."-->
 <!--nivel: B2-->
 <!--ID: 1776620497842-->
 
-verknÃ¼pfen / verbinden :: ligar [regular]
+verknüpfen / verbinden :: ligar [regular]
 <!--context: [[Rebajas para Lewandowski]]-->
 <!--nivel: B2-->
 <!--ID: 1776620497843-->
 
-la fase de reflexiÃ³n (f) :: Reflexionsphase
+la fase de reflexión (f) :: Reflexionsphase
 <!--context: [[Rebajas para Lewandowski]]-->
-<!--ejemplo: "El jugador, por su parte, se encuentra en fase de reflexiÃ³n."-->
+<!--ejemplo: "El jugador, por su parte, se encuentra en fase de reflexión."-->
 <!--nivel: B2-->
 <!--ID: 1776620497844-->
 
-Reflexionsphase :: la fase de reflexiÃ³n (f)
+Reflexionsphase :: la fase de reflexión (f)
 <!--context: [[Rebajas para Lewandowski]]-->
-<!--ejemplo: "El jugador, por su parte, se encuentra in fase de reflexiÃ³n."-->
+<!--ejemplo: "El jugador, por su parte, se encuentra en fase de reflexión."-->
 <!--nivel: B2-->
 <!--ID: 1776620497845-->
 
 pesar [irregular] :: schwer wiegen / eine Rolle spielen
-<!--context: [[Rebajas para la Lewandowski]]-->
-<!--ejemplo: "...en su decisiÃ³n pesan factores personales."-->
+<!--context: [[Rebajas para Lewandowski]]-->
+<!--ejemplo: "...en su decisión pesan factores personales."-->
 <!--nivel: B2-->
 <!--ID: 1776620497846-->
 
 schwer wiegen / eine Rolle spielen :: pesar [irregular]
-<!--context: [[Rebajas la Lewandowski]]-->
-<!--ejemplo: "...en su decisiÃ³n pesan factores personales."-->
+<!--context: [[Rebajas para Lewandowski]]-->
+<!--ejemplo: "...en su decisión pesan factores personales."-->
 <!--nivel: B2-->
 <!--ID: 1776620497847-->
 
 las fuentes cercanas (pl) :: nahestehende Quellen
 <!--context: [[Rebajas para Lewandowski]]-->
-<!--ejemplo: "SegÃºn fuentes cercanas, Lewandowski no se pronunciarÃ¡..."-->
+<!--ejemplo: "Según fuentes cercanas, Lewandowski no se pronunciará..."-->
 <!--nivel: B2 Journalistic-->
 <!--ID: 1776620497848-->
 
 nahestehende Quellen :: las fuentes cercanas (pl)
 <!--context: [[Rebajas para Lewandowski]]-->
-<!--ejemplo: "SegÃºn fuentes cercanas, Lewandowski no se pronunciarÃ¡..."-->
+<!--ejemplo: "Según fuentes cercanas, Lewandowski no se pronunciará..."-->
 <!--nivel: B2 Journalistic-->
 <!--ID: 1776620497849-->
 
