@@ -48,6 +48,6 @@ When asked about a word or rule:
 - **Verbs - Details**: Always include common prepositions (e.g., *depender de*) and specify if the verb is **regular** or **irregular**.
 - **Anki Semantic Style**: Use the double colon `::` to separate the Front (Spanish) from the Back (German/Explanation).
 - **Vocabulary Entries**: 
-    - Nouns: `el/la word :: German Translation [Level] "Sentence" [[Source File]]`
-    - Verbs: `verb (infinitive) [regular/irregular] :: German Translation [Level] "Sentence" [[Source File]]`
-- **Grammar Entries**: `grammar point/question :: German Explanation [Example] [[Source File]]`
+    - Nouns: `el/la word :: German Translation (Level) "Sentence" [[Source File]]`
+    - Verbs: `verb (infinitive) [regular/irregular] :: German Translation (Level) "Sentence" [[Source File]]`
+- **Grammar Entries**: `grammar point/question :: German Explanation "Example" [[Source File]]`
