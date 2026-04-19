@@ -42,7 +42,9 @@ When asked about a word or rule:
 
 ## Formatting Conventions
 - **Links**: MUST use double brackets: `[[Page Name]]`.
-- **Source Links**: Every example must be linked to its source: `"Sentence" [[Source File]]`.
+- **Source Links**: Every example must be linked to its source: "Sentence" [[Source File]].
+- **Casing**: Use natural lowercase for vocabulary and grammar points (only capitalize if it's a proper noun).
+- **Verbs**: Always include the most common preposition(s) required for the verb (e.g., *depender de*).
 - **Anki Semantic Style**: Use the double colon `::` to separate the Front (Spanish) from the Back (German/Explanation).
-- **Vocabulary Entries**: `Spanish Word (Gender) :: German Translation [Level] ["Sentence" [[Source File]]]`
-- **Grammar Entries**: `Grammar Point/Question :: German Explanation [Example] [[Source File]]`
+- **Vocabulary Entries**: `word (gender) :: German Translation [Level] "Sentence" [[Source File]]`
+- **Grammar Entries**: `grammar point/question :: German Explanation [Example] [[Source File]]`
