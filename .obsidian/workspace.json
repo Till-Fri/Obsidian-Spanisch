@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8279a5f124dfc338",
+        "id": "7b2871fdc3c1962a",
         "type": "tabs",
         "children": [
           {
-            "id": "52268bbffc47899d",
+            "id": "059cb21b8fa162e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -180,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,10 +195,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6d01f5724b477a3c",
+  "active": "059cb21b8fa162e2",
   "lastOpenFiles": [
-    "raw/archive/Rebajas para Lewandowski.md",
     "wiki/vocabulary/Sports-and-Business.md",
+    "raw/archive/Rebajas para Lewandowski.md",
     "wiki/grammar/Preterito Perfecto.md",
     "WIKI_SCHEMA.md",
     "wiki/index.md",

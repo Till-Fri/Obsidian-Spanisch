@@ -2,9 +2,9 @@
 
 ## b1 recap vocabulary
 - decisión (f) :: Entscheidung [B1] "El FC Barcelona tiene sobre la mesa una decisión urgente." [[Rebajas para Lewandowski]]
-- contrato (m) :: Vertrag [B1] ["El delantero polaco finaliza contrato." [[Rebajas para Lewandowski]]]
-- salario (m) :: Gehalt [B1] ["...una inversión millonaria, tanto en traspaso como en salario." [[Rebajas para Lewandowski]]]
-- rendimiento (m) :: Leistung [B1] ["...el rendimiento del delantero ha generado dudas." [[Rebajas para Lewandowski]]]
+- contrato (m) :: Vertrag [B1] "El delantero polaco finaliza contrato." [[Rebajas para Lewandowski]]
+- salario (m) :: Gehalt [B1] "...una inversión millonaria, tanto en traspaso como en salario." [[Rebajas para Lewandowski]]
+- rendimiento (m) :: Leistung [B1] "...el rendimiento del delantero ha generado dudas." [[Rebajas para Lewandowski]]
 
 ## b2 expansion vocabulary
 - sobre la mesa :: auf dem Tisch / in Diskussion [B2 Idiom] "El FC Barcelona tiene sobre la mesa una decisión urgente." [[Rebajas para Lewandowski]]
