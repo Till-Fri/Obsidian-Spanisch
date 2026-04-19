@@ -1,4 +1,4 @@
-# Obsidian_to_Anki
+# TARGET_DECK: Spanisch:Grammatik Obsidian
 # Presente de Indicativo (Recap)
 
 ## Regel
