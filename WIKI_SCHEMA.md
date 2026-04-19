@@ -46,5 +46,5 @@ When asked about a word or rule:
 - **Casing**: Use natural lowercase for vocabulary and grammar points (only capitalize if it's a proper noun).
 - **Verbs**: Always include the most common preposition(s) required for the verb (e.g., *depender de*).
 - **Anki Semantic Style**: Use the double colon `::` to separate the Front (Spanish) from the Back (German/Explanation).
-- **Vocabulary Entries**: `word (gender) :: German Translation [Level: B1/B2] "Sentence" [[Source File]]`
+- **Vocabulary Entries**: `el/la word :: German Translation [Level: B1/B2] "Sentence" [[Source File]]`
 - **Grammar Entries**: `grammar point/question :: German Explanation [Example] [[Source File]]`
