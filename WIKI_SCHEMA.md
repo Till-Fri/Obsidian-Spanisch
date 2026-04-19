@@ -20,13 +20,13 @@ Transform raw Spanish input (texts, audio, conversations) into a compounding kno
 When a new source is provided:
 1. **Log**: Add entry to `wiki/log.md` (e.g., `## [YYYY-MM-DD] ingest | Topic/Source`).
 2. **Analyze**:
-    - **B1 Review Vocab**: Extract key B1 level words.
+    - **B1 Review Vocab**: MANDATORY. Extract key B1 level words that are essential for the "Recap" phase. Do not skip these; they are the foundation for the B2 transition.
     - **B2-bridge Vocab**: Extract nuanced adjectives, idiomatic expressions, and academic verbs.
     - **Tense Mapping**: Identify ALL tenses used for "Recap Examples."
     - **Subjunctive Focus**: Specifically flag and analyze all uses of Subjuntivo.
 3. **Update Wiki**:
     - **Grammar Pages**: Use the semantic `::` format for rules to enable Anki export.
-    - **Vocab Pages**: Use the semantic `::` format for all entries.
+    - **Vocab Pages**: Use the semantic `::` format for all entries. Separate "b1 recap" from "b2 expansion" sections.
     - Create new pages if the topic is novel.
 4. **Index**: Add/update entries in `wiki/index.md`.
 
@@ -46,5 +46,5 @@ When asked about a word or rule:
 - **Casing**: Use natural lowercase for vocabulary and grammar points (only capitalize if it's a proper noun).
 - **Verbs**: Always include the most common preposition(s) required for the verb (e.g., *depender de*).
 - **Anki Semantic Style**: Use the double colon `::` to separate the Front (Spanish) from the Back (German/Explanation).
-- **Vocabulary Entries**: `word (gender) :: German Translation [Level] "Sentence" [[Source File]]`
+- **Vocabulary Entries**: `word (gender) :: German Translation [Level: B1/B2] "Sentence" [[Source File]]`
 - **Grammar Entries**: `grammar point/question :: German Explanation [Example] [[Source File]]`
