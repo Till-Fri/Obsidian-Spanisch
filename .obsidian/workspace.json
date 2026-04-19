@@ -174,9 +174,19 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "a6a8c71c548fd4d8",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -192,11 +202,13 @@
       "templates:Vorlage einfügen": false,
       "command-palette:Befehlspalette öffnen": false,
       "bases:Neue Base erstellen": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "059cb21b8fa162e2",
+  "active": "a6a8c71c548fd4d8",
   "lastOpenFiles": [
+    "copilot/copilot-conversations/hi@20260420_004154.md",
     "copilot/copilot-conversations/hi@20260420_003411.md",
     "copilot/copilot-conversations",
     "copilot/copilot-custom-prompts/Clip Web Page.md",
@@ -225,7 +237,6 @@
     "wiki/vocabulary/Sports-and-Business.md",
     "wiki/test.md",
     "sports and business vocabulary.md",
-    "raw/archive/Vokabeln.md",
     "raw/incoming/Clippings",
     "raw/incoming",
     "raw/archive"

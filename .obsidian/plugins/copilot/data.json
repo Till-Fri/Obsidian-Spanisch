@@ -300,7 +300,7 @@
       "provider": "ollama",
       "enabled": true,
       "isBuiltIn": false,
-      "baseUrl": "http://localhost:11434`",
+      "baseUrl": "http://localhost:11434",
       "apiKey": "asdfasdfasdf",
       "isEmbeddingModel": false,
       "capabilities": [],
