@@ -6,7 +6,7 @@
 - [[preterito perfecto]] - Recap de acciones recientes.
 
 ## 🔤 Vocabulario
-- [[sports and business vocabulary]] - Términos de contratos, rendimiento y deportes.
+- [[Sports-and-Business]] - Términos de contratos, rendimiento y deportes.
 
 ## 📝 Fuentes
 - [[Rebajas para Lewandowski]] - Artículo de Marca sobre Lewandowski.
