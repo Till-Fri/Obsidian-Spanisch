@@ -170,19 +170,9 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "a6a8c71c548fd4d8",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -198,16 +188,15 @@
       "templates:Vorlage einfügen": false,
       "command-palette:Befehlspalette öffnen": false,
       "bases:Neue Base erstellen": false,
-      "obsidian-git:Open Git source control": false,
-      "copilot:Open Copilot Chat": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6d01f5724b477a3c",
+  "active": "059cb21b8fa162e2",
   "lastOpenFiles": [
+    "copilot/copilot-conversations/hi@20260420_004154.md",
     "copilot/copilot-conversations/hi@20260420_003411.md",
     "wiki/vocabulary/Sports-and-Business.md",
     "wiki/grammar/Preterito Perfecto.md",
-    "copilot/copilot-conversations/hi@20260420_004154.md",
     "copilot/copilot-conversations",
     "copilot/copilot-custom-prompts/Clip Web Page.md",
     "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
