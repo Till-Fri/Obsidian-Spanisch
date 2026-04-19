@@ -2,7 +2,7 @@
   "settings": {
     "CUSTOM_REGEXPS": {
       "B+R+hint on side 2": "",
-      "Basic": "",
+      "Basic": "^(.*[^\\n:]{1}):{2}([^\\n:]{1}.*)",
       "Basic (and reversed card)": "",
       "Basic (optional reversed card)": "",
       "Basic (type in the answer)": "",
@@ -40,8 +40,8 @@
       "wiki": "",
       "raw/archive": "",
       "raw/incoming": "",
-      "wiki/grammar": "",
-      "wiki/vocabulary": "",
+      "wiki/grammar": "Spanisch::Grammatik Obsidian",
+      "wiki/vocabulary": "Spanisch::Vokabeln Obsidian",
       "wiki/entities": ""
     },
     "FOLDER_TAGS": {
@@ -88,7 +88,8 @@
     "wiki/grammar/Presente.md": "d1d1020e014af342999b3db5d8699a33",
     "WIKI_SCHEMA.md": "9f3ccde23ba62b1ad1177c2b90a56714",
     "raw/archive/Vokabeln.md": "2996a1d2f9b464291c6bf8cb687a6d8a",
-    "raw/archive/Rebajas para Lewandowski.md": "3d9cf4a6e730ef3cc3a459004e92fb09"
+    "raw/archive/Rebajas para Lewandowski.md": "3d9cf4a6e730ef3cc3a459004e92fb09",
+    "wiki/test.md": "609a6d534a339c9b218f3adcdbc2e62e"
   },
   "fields_dict": {
     "B+R+hint on side 2": [
