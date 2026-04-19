@@ -1,5 +1,6 @@
-## [2026-04-19] ingest | Rebajas para Lewandowski
-Processed a sports article about Robert Lewandowski's contract situation at FC Barcelona.
-- Extracted B2 vocabulary related to business/negotiation and sports.
-- Updated Grammar: Presente (Recap), Pretérito Perfecto (Recap).
-- Created Vocabulary: [[Sports-and-Business]].
+## [2026-04-19] ingest | Vokabeln.md
+Processed a vocabulary list based on the article "Rebajas para Lewandowski".
+- Expanded the "sports and business" vocabulary list.
+- Extracted B1 recap words (decisión, contrato, etc.).
+- Extracted B2 bridge words (mermar, cúpula, etc.).
+- Corrected formatting to follow semantic Anki style and lowercase casing.
