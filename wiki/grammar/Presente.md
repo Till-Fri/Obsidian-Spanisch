@@ -16,3 +16,7 @@ tú tienes :: du hast
 nosotros tenemos :: wir haben
 vosotros tenéis :: ihr habt
 ellos/ellas/ustedes tienen :: sie haben
+"El informe apunta a una tendencia clara." :: Der Bericht weist auf einen klaren Trend hin. [[Noticias]]
+"Suele llover en primavera." :: Es pflegt im Frühling zu regnen. [[Noticias]]
+"El gobierno lanza un nuevo plan." :: Die Regierung startet einen neuen Plan. [[Noticias]]
+"La medida incide directamente en la economía." :: Die Maßnahme wirkt sich direkt auf die Wirtschaft aus. [[Noticias]]

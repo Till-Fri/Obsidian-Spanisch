@@ -196,6 +196,7 @@
   },
   "active": "059cb21b8fa162e2",
   "lastOpenFiles": [
+    "wiki/grammar/Preterito-Indefinido.md",
     "wiki/vocabulary/News-and-Politics.md",
     "wiki/vocabulary/Sports-and-Business.md",
     "raw/incoming/Noticias.md",
@@ -222,7 +223,6 @@
     "copilot/copilot-custom-prompts/Explain like I am 5.md",
     "copilot/copilot-custom-prompts/Simplify.md",
     "copilot/copilot-custom-prompts/Summarize.md",
-    "copilot/copilot-custom-prompts/Translate to Chinese.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "raw/incoming/Clippings",
