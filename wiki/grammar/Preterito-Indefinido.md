@@ -33,3 +33,7 @@ vosotros asumisteis :: ihr übernahmt
 ellos/ellas/ustedes asumieron :: sie übernahmen
 <!--ID: 1776700492896-->
 
+
+## anwendungsbeispiele (recaps) — [[Última hora de la guerra]]
+"Así taponó durante siete semanas el paso del 20% del crudo mundial." :: So blockierte er sieben Wochen lang den Durchgang von 20 % des weltweiten Rohöls. [[Última hora de la guerra]]
+"Emiratos Árabes Unidos pidió ayuda financiera a Estados Unidos." :: Die Vereinigten Arabischen Emirate forderten finanzielle Hilfe von den USA. [[Última hora de la guerra]]
