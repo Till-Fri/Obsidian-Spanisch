@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/vocabulary/Sports-and-Business.md",
+                "file": "wiki/vocabulary/News-and-Politics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sports-and-Business"
+              "title": "News-and-Politics"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "merecer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Lesezeichen"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/vocabulary/Sports-and-Business.md",
+                "file": "wiki/vocabulary/News-and-Politics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise auf Sports-and-Business"
+              "title": "Rückverweise auf News-and-Politics"
             }
           },
           {
@@ -179,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,18 +198,18 @@
   },
   "active": "059cb21b8fa162e2",
   "lastOpenFiles": [
-    "raw/incoming/Noticias.md",
-    "raw/archive/Noticias.md",
+    "wiki/test.md",
+    "wiki/log.md",
+    "wiki/index.md",
+    "wiki/grammar/Presente.md",
+    "wiki/grammar/Preterito Perfecto.md",
     "wiki/grammar/Preterito-Indefinido.md",
     "wiki/vocabulary/News-and-Politics.md",
     "wiki/vocabulary/Sports-and-Business.md",
-    "wiki/grammar/Presente.md",
-    "wiki/grammar/Preterito Perfecto.md",
-    "raw/archive/Rebajas para Lewandowski.md",
+    "raw/archive/Noticias.md",
     "WIKI_SCHEMA.md",
-    "wiki/index.md",
-    "wiki/test.md",
-    "wiki/log.md",
+    "raw/incoming/Noticias.md",
+    "raw/archive/Rebajas para Lewandowski.md",
     "copilot/copilot-conversations/hi@20260420_004154.md",
     "copilot/copilot-conversations/hi@20260420_003411.md",
     "copilot/copilot-conversations",

@@ -1,4 +1,4 @@
-﻿# Spanish Learning Wiki Schema
+# Spanish Learning Wiki Schema
 
 ## Objective
 Transform raw Spanish input (texts, audio, conversations) into a compounding knowledge base of grammar and vocabulary, supporting the transition from B1 to B2.1.
@@ -18,7 +18,7 @@ Transform raw Spanish input (texts, audio, conversations) into a compounding kno
 
 ### 📥 Ingestion Flow
 When a new source is provided:
-1. **Log**: Add entry to `wiki/log.md` (e.g., `## [YYYY-MM-DD] ingest | Topic/Source`).
+1. **Log**: Add entry to `wiki/log.md` (e.g., `## YYYY-MM-DD ingest | Topic/Source`).
 2. **Analyze**:
     - **B1 Review Vocab**: MANDATORY. Extract key B1 level words.
     - **B2-bridge Vocab**: Extract nuanced adjectives, idiomatic expressions, and academic verbs.
@@ -54,4 +54,4 @@ When asked about a word or rule:
     - `<!--ID: [Unique ID]-->`
 - **Grammar Entries**: 
     - `grammar point/question :: German Explanation`
-    - `Spanish Sentence :: German Translation [Grammar Point] [[Source File]]`
+    - `Spanish Sentence :: German Translation (Grammar Point) [[Source File]]`
