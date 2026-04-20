@@ -1,4 +1,4 @@
-﻿# Obsidian_to_Anki
+# Obsidian_to_Anki
 # Index de la Wiki de Español
 
 ## 📚 Gramática
