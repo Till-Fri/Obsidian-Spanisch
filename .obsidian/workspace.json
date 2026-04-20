@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "raw/incoming/Noticias.md",
+                "file": "wiki/vocabulary/Sports-and-Business.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Noticias"
+              "title": "Sports-and-Business"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "raw/incoming/Noticias.md",
+                "file": "wiki/vocabulary/Sports-and-Business.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise auf Noticias"
+              "title": "Rückverweise auf Sports-and-Business"
             }
           },
           {
@@ -196,10 +196,11 @@
   },
   "active": "059cb21b8fa162e2",
   "lastOpenFiles": [
+    "raw/incoming/Noticias.md",
+    "raw/archive/Noticias.md",
     "wiki/grammar/Preterito-Indefinido.md",
     "wiki/vocabulary/News-and-Politics.md",
     "wiki/vocabulary/Sports-and-Business.md",
-    "raw/incoming/Noticias.md",
     "wiki/grammar/Presente.md",
     "wiki/grammar/Preterito Perfecto.md",
     "raw/archive/Rebajas para Lewandowski.md",
@@ -222,7 +223,6 @@
     "copilot/copilot-custom-prompts/Emojify.md",
     "copilot/copilot-custom-prompts/Explain like I am 5.md",
     "copilot/copilot-custom-prompts/Simplify.md",
-    "copilot/copilot-custom-prompts/Summarize.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "raw/incoming/Clippings",
