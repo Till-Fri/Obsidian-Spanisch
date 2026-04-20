@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/vocabulary/News-and-Politics.md",
+                "file": "WIKI_SCHEMA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "News-and-Politics"
+              "title": "WIKI_SCHEMA"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "merecer",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Lesezeichen"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/vocabulary/Sports-and-Business.md",
+                "file": "WIKI_SCHEMA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise auf Sports-and-Business"
+              "title": "Rückverweise auf WIKI_SCHEMA"
             }
           },
           {
@@ -172,12 +171,11 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -186,7 +184,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
       "switcher:Schnellauswahl öffnen": false,
       "graph:Graph-Ansicht öffnen": false,
       "canvas:Neuen Canvas erstellen": false,
@@ -194,24 +191,25 @@
       "templates:Vorlage einfügen": false,
       "command-palette:Befehlspalette öffnen": false,
       "bases:Neue Base erstellen": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
   "active": "059cb21b8fa162e2",
   "lastOpenFiles": [
-    "wiki/index.md",
-    "raw/incoming/Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo  Irán ataca con drones a buques militares de Estados Unidos, al que acusa de romper el alto el fuego.md",
-    "wiki/vocabulary/News-and-Politics.md",
-    "wiki/grammar/Preterito-Indefinido.md",
-    "raw/incoming/Noticias.md",
-    "wiki/grammar/Presente.md",
-    "raw/incoming/Clippings",
-    "wiki/grammar/Preterito Perfecto.md",
-    "raw/archive/Rebajas para Lewandowski.md",
-    "WIKI_SCHEMA.md",
-    "wiki/vocabulary/Sports-and-Business.md",
     "wiki/test.md",
+    "WIKI_SCHEMA.md",
+    "wiki/index.md",
     "wiki/log.md",
+    "wiki/vocabulary/News-and-Politics.md",
+    "raw/incoming/Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo  Irán ataca con drones a buques militares de Estados Unidos, al que acusa de romper el alto el fuego.md",
+    "wiki/grammar/Presente.md",
+    "wiki/grammar/Preterito Perfecto.md",
+    "wiki/grammar/Preterito-Indefinido.md",
+    "wiki/vocabulary/Sports-and-Business.md",
+    "raw/archive/Noticias.md",
+    "raw/incoming/Noticias.md",
+    "raw/archive/Rebajas para Lewandowski.md",
     "copilot/copilot-conversations/hi@20260420_004154.md",
     "copilot/copilot-conversations/hi@20260420_003411.md",
     "copilot/copilot-conversations",
@@ -226,7 +224,6 @@
     "copilot/copilot-custom-prompts/Make shorter.md",
     "copilot/copilot-custom-prompts/Emojify.md",
     "copilot/copilot-custom-prompts/Explain like I am 5.md",
-    "copilot/copilot-custom-prompts/Simplify.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "raw/incoming/Clippings",
