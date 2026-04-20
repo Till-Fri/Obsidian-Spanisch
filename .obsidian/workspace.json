@@ -175,13 +175,11 @@
               "title": "git-view"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,7 +194,7 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "059cb21b8fa162e2",
+  "active": "29e8dc5427b1791b",
   "lastOpenFiles": [
     "raw/incoming/Noticias.md",
     "wiki/vocabulary/Sports-and-Business.md",
