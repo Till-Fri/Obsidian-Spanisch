@@ -1,4 +1,4 @@
-﻿# Obsidian_to_Anki
+p# Obsidian_to_Anki
 # sports and business vocabulary
 
 ## b1 recap vocabulary

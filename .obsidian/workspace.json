@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "raw/incoming/Noticias.md",
+                "file": "wiki/vocabulary/Sports-and-Business.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Noticias"
+              "title": "Sports-and-Business"
             }
           }
         ]
@@ -198,6 +198,7 @@
   },
   "active": "059cb21b8fa162e2",
   "lastOpenFiles": [
+    "raw/incoming/Noticias.md",
     "wiki/vocabulary/Sports-and-Business.md",
     "wiki/grammar/Presente.md",
     "wiki/grammar/Preterito Perfecto.md",
@@ -226,7 +227,6 @@
     "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot/copilot-custom-prompts",
     "copilot",
-    "sports and business vocabulary.md",
     "raw/incoming/Clippings",
     "raw/incoming",
     "raw/archive"
