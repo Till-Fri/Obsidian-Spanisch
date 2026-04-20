@@ -34,3 +34,4 @@ incide
 doblar
 verbrauchen
 vacas
+impuestos

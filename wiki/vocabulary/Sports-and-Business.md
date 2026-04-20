@@ -159,13 +159,13 @@ vermindern / schwächen :: mermar [regular]
 <!--nivel: B2-->
 <!--ID: 1776620497819-->
 
-la lesiï¿½n (f) :: Verletzung
+la lesión (f) :: Verletzung
 <!--context: [[Rebajas para Lewandowski]]-->
 <!--ejemplo: ...las lesiones también han mermado su físico.-->
 <!--nivel: B1-->
 <!--ID: 1776620497820-->
 
-Verletzung :: la lesiï¿½n (f)
+Verletzung :: la lesión (f)
 <!--context: [[Rebajas para Lewandowski]]-->
 <!--ejemplo: ...las lesiones también han mermado su físico.-->
 <!--nivel: B1-->
@@ -287,6 +287,7 @@ ligar [regular] :: verknüpfen / verbinden
 
 verknüpfen / verbinden :: ligar [regular]
 <!--context: [[Rebajas para Lewandowski]]-->
+<!--ejemplo: "...compensada en parte por variables ligadas al rendimiento."-->
 <!--nivel: B2-->
 <!--ID: 1776620497843-->
 
@@ -327,7 +328,7 @@ nahestehende Quellen :: las fuentes cercanas (pl)
 <!--ID: 1776620497849-->
 
 ## related grammar
-- [[presente]]
-- [[preterito perfecto]]
+- [[Presente]]
+- [[Preterito Perfecto]]
 
 
