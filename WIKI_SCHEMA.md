@@ -6,7 +6,7 @@ Transform raw Spanish input (texts, audio, conversations) into a compounding kno
 ## User Profile
 - **Current Level:** B1
 - **Target Level:** B2.1
-- **Current Focus:** Full grammar recap (all tenses) with a deep dive into Subjuntivo (Imperfecto and Futuro).
+- **Current Focus:** Full grammar recap (all tenses) with a deep dive into Subjuntivo (Imperfecto and Futuro) and vocabulary.
 - **Native Language:** German (Learning Spanish $\rightarrow$ German).
 
 ## Layer Definitions
@@ -26,7 +26,9 @@ When a new source is provided:
     - **Subjunctive Focus**: Specifically flag and analyze all uses of Subjuntivo.
 3. **Update Wiki**:
     - **Grammar Pages**: Use `::` for Rules $\rightarrow$ Explanation and for Examples $\rightarrow$ Translation.
+
     - **Vocab Pages**: Use `::` for bidirectional learning. **Crucial: Do NOT use bullet points (hyphens/asterisks) for the entries, as these are exported to Anki.**
+
     - Create new pages if the topic is novel.
 4. **Index**: Add/update entries in `wiki/index.md`.
 
@@ -49,9 +51,7 @@ When asked about a word or rule:
 - **Vocabulary Entries (Strictly NO BULLETS)**: 
     - `el/la word :: German Translation`
     - `<!--context: [[Source File]]-->`
-    - `<!--ejemplo: "Sentence"-->`
     - `<!--nivel: B1/B2-->`
-    - `<!--ID: [Unique ID]-->`
 - **Grammar Entries**: 
     - `grammar point/question :: German Explanation`
     - `Spanish Sentence :: German Translation (Grammar Point) [[Source File]]`

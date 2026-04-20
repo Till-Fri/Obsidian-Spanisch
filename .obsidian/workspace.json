@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "raw/incoming/Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo  Irán ataca con drones a buques militares de Estados Unidos, al que acusa de romper el alto el fuego.md",
+                "file": "WIKI_SCHEMA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo  Irán ataca con drones a buques militares de Estados Unidos, al que acusa de romper el alto el fuego"
+              "title": "WIKI_SCHEMA"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "raw/incoming/Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo  Irán ataca con drones a buques militares de Estados Unidos, al que acusa de romper el alto el fuego.md",
+                "file": "WIKI_SCHEMA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise auf Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo  Irán ataca con drones a buques militares de Estados Unidos, al que acusa de romper el alto el fuego"
+              "title": "Rückverweise auf WIKI_SCHEMA"
             }
           },
           {
@@ -197,16 +197,18 @@
   },
   "active": "059cb21b8fa162e2",
   "lastOpenFiles": [
+    "wiki/grammar/Subjuntivo.md",
+    "wiki/vocabulary/War-and-Geopolitics.md",
+    "wiki/vocabulary/Sports-and-Business.md",
+    "wiki/vocabulary/News-and-Politics.md",
+    "wiki/grammar/Preterito-Indefinido.md",
+    "wiki/grammar/Preterito Perfecto.md",
+    "wiki/grammar/Presente.md",
+    "raw/incoming/Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo  Irán ataca con drones a buques militares de Estados Unidos, al que acusa de romper el alto el fuego.md",
     "WIKI_SCHEMA.md",
     "wiki/test.md",
     "wiki/index.md",
     "wiki/log.md",
-    "wiki/vocabulary/News-and-Politics.md",
-    "raw/incoming/Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo  Irán ataca con drones a buques militares de Estados Unidos, al que acusa de romper el alto el fuego.md",
-    "wiki/grammar/Presente.md",
-    "wiki/grammar/Preterito Perfecto.md",
-    "wiki/grammar/Preterito-Indefinido.md",
-    "wiki/vocabulary/Sports-and-Business.md",
     "raw/archive/Noticias.md",
     "raw/incoming/Noticias.md",
     "raw/archive/Rebajas para Lewandowski.md",
@@ -222,8 +224,6 @@
     "copilot/copilot-custom-prompts/Generate table of contents.md",
     "copilot/copilot-custom-prompts/Make longer.md",
     "copilot/copilot-custom-prompts/Make shorter.md",
-    "copilot/copilot-custom-prompts/Emojify.md",
-    "copilot/copilot-custom-prompts/Explain like I am 5.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "raw/incoming/Clippings",
