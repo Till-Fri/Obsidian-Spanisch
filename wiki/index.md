@@ -25,3 +25,4 @@ Export a Anki: solo desde [[Karteikarten/index]].
 - [[Rebajas para Lewandowski]] - Artículo de Marca sobre Lewandowski.
 - [[Noticias]] - Lista de vocabulario de noticias (política, sociedad, deportes).
 - [[Última hora de la guerra]] - Artículo de El País sobre el conflicto Irán-EE.UU.-Israel.
+- [[Subjuntivo – Wikipedia]] - Texto de referencia sobre usos, tiempos y desencadenantes del subjuntivo.

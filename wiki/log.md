@@ -24,3 +24,10 @@ Processed El País live-blog article about the Iran-US-Israel conflict.
 - Created Subjuntivo grammar page (deep dive) with triggers and examples from both sources.
 - Flagged Subjuntivo examples: "mientras dure" (presente), "estaba previsto que llegase" (imperfecto), "cuando desista" (presente).
 - Added Presente, Pretérito Perfecto, Pretérito Indefinido recap examples from the article.
+
+## [2026-04-21] ingest | Subjuntivo – Wikipedia.md
+Processed a reference text about the Spanish subjunctive.
+- Expanded the [[Subjuntivo]] page with a clearer indicativo vs. subjuntivo contrast.
+- Added high-value trigger patterns: `antes de que`, `para que`, relative clauses with indefiniteness, and `ojalá`.
+- Added a compact explanation of `correspondencia de tiempos`.
+- Extended the subjuntivo card set with curated grammar cards only.

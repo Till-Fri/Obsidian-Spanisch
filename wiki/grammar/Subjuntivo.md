@@ -10,6 +10,10 @@ El subjuntivo aparece cuando el hablante no presenta la información como un hec
 
 En la práctica, suele aparecer en subordinadas introducidas por `que`, `cuando`, `mientras`, `sin que` y estructuras parecidas.
 
+Según [[Subjuntivo – Wikipedia]], una forma útil de entender la diferencia es esta:
+- el **indicativo** presenta el hecho como realizado, constatado o asumido como real
+- el **subjuntivo** enfoca el hecho como posibilidad, valoración, expectativa, hipótesis o alternativa
+
 ## desencadenantes frecuentes
 
 ### deseo y voluntad
@@ -40,6 +44,23 @@ En la práctica, suele aparecer en subordinadas introducidas por `que`, `cuando`
 - `cuando` para una acción futura no realizada
 - `mientras` para una duración no cerrada
 - `sin que`
+- `antes de que`
+- `para que`
+- `a fin de que`
+
+### relativos e indefinición
+- búsqueda de algo no identificado todavía: `Busco a alguien que sepa alemán`
+- negación de existencia: `No hay nadie que lo sepa`
+- referencia no específica o hipotética
+
+## ojalá
+`ojalá` cambia de tiempo según el grado de posibilidad:
+- `ojalá + presente de subjuntivo`: deseo posible o abierto  
+  Ej.: `Ojalá apruebe el examen.`
+- `ojalá + imperfecto de subjuntivo`: deseo improbable o irreal en el presente  
+  Ej.: `Ojalá pudiera hablar con este extraterrestre.`
+- `ojalá + pluscuamperfecto de subjuntivo`: deseo ya imposible porque pertenece al pasado  
+  Ej.: `Ojalá lo hubiera sabido antes.`
 
 ## presente de subjuntivo
 Verbo modelo: `desistir`
@@ -55,6 +76,27 @@ Verbo modelo: `desistir`
 Dos series habituales:
 - en `-ra`: `desistiera`, `desistiéramos`
 - en `-se`: `desistiese`, `desistiésemos`
+
+## correspondencia de tiempos
+La relación temporal depende mucho del verbo del enunciado principal.
+
+### principal en presente, futuro o pretérito perfecto
+Normalmente el subjuntivo del subordinado se mueve en la serie de presente:
+- `presente de subjuntivo`
+- `pretérito perfecto de subjuntivo`
+
+Ej. general:
+- `Espero que venga.`
+- `Espero que haya llegado.`
+
+### principal en pasado o condicional
+Normalmente el subjuntivo del subordinado se mueve en la serie de pasado:
+- `imperfecto de subjuntivo`
+- `pluscuamperfecto de subjuntivo`
+
+Ej. general:
+- `Quería que llegaras.`
+- `Ojalá lo hubiera sabido antes.`
 
 ## ejemplos de uso
 
@@ -76,5 +118,19 @@ De [[Última hora de la guerra]]:
 - `Le bastó con señalar zonas de peligro sin que tuviera que admitirlo.`  
   Es reichte ihm, Gefahrenzonen auszuweisen, ohne dass er es zugeben musste.
 
+De [[Subjuntivo – Wikipedia]]:
+- `No creo que mañana llueva.`  
+  Ich glaube nicht, dass es morgen regnen wird.
+- `Dudo que los profesores siempre tengan razón.`  
+  Ich bezweifle, dass die Lehrer immer recht haben.
+- `Espero que todo te vaya bien.`  
+  Ich hoffe, dass für dich alles gut läuft.
+- `Es aconsejable que estudiéis la lengua.`  
+  Es ist ratsam, dass ihr die Sprache lernt.
+- `No hay nadie que lo sepa.`  
+  Es gibt niemanden, der es weiß.
+
 ## nota útil
 El llamado `futuro de subjuntivo` existe históricamente, pero en el español actual casi siempre lo sustituye el presente de subjuntivo. Por eso `cuando desista` es una estructura viva y útil; el futuro de subjuntivo es sobre todo literario o jurídico.
+
+Otra observación útil de [[Subjuntivo – Wikipedia]]: el subjuntivo no expresa tanto una fecha absoluta como una relación con el verbo principal. Por eso la **correspondencia de tiempos** es más importante aquí que una traducción mecánica a pasado, presente o futuro.
