@@ -1,5 +1,4 @@
-﻿# Obsidian_to_Anki
-# log.md
+﻿# log.md
 
 ## [2026-04-19] ingest | Vokabeln.md
 Processed a vocabulary list based on the article "Rebajas para Lewandowski".

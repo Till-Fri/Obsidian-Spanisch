@@ -1,0 +1,20 @@
+# Obsidian_to_Anki
+# news and politics
+
+hinweisen auf :: apuntar a<br>Ej.: El informe apunta a una tendencia clara. [[Noticias]]
+pflegen zu / normalerweise tun :: soler<br>Ej.: Suele llover en primavera. [[Noticias]]
+starten / auf den Weg bringen :: lanzar<br>Ej.: El gobierno lanza un nuevo plan. [[Noticias]]
+sich auswirken auf :: incidir en<br>Ej.: La medida incide directamente en la economía. [[Noticias]]
+das Amt übernehmen :: asumir el cargo<br>Ej.: El ministro asumió el cargo la semana pasada. [[Noticias]]
+in etwas münden / zu etwas führen :: desembocar en<br>Ej.: La crisis desembocó en una protesta masiva. [[Noticias]]
+der Ausgang / das Ende :: el desenlace<br>Ej.: El desenlace de las elecciones fue inesperado. [[Noticias]]
+der Ansatz :: el planteamiento<br>Ej.: Su planteamiento generó debate. [[Noticias]]
+den Erfolg streifen / knapp erreichen :: rozar el éxito<br>Ej.: El proyecto rozó el éxito. [[Noticias]]
+die Absetzung / Entlassung :: la destitución<br>Ej.: La destitución del ministro causó controversia. [[Noticias]]
+die Anforderung / der Anspruch :: la exigencia<br>Ej.: La exigencia de los votantes es mayor transparencia. [[Noticias]]
+der Rückhalt / die Unterstützung :: el respaldo<br>Ej.: cuenta con el respaldo del parlamento. [[Noticias]]
+der Konsens :: el consenso<br>Ej.: Buscan un consenso entre los partidos. [[Noticias]]
+auf etwas setzen :: apostar por<br>Ej.: El gobierno apuesta por la renovación. [[Noticias]]
+schädlich :: nocivo<br>Ej.: Los efectos nocivos de la contaminación. [[Noticias]]
+jdn. ausschimpfen :: echar la bronca<br>Ej.: El jefe le echó la bronca por llegar tarde. [[Noticias]]
+enthalten / zurückhalten :: contener<br>Ej.: El informe contiene varios puntos clave. [[Noticias]]

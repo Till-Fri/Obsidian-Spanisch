@@ -1,51 +1,80 @@
-# Obsidian_to_Anki
-# subjuntivo (deep dive)
+# subjuntivo
 
-## regel
-subjuntivo :: Wird verwendet, um Unsicherheit, Wünsche, Zweifel, Emotionen oder hypothetische Situationen auszudrücken. Steht meist in Nebensätzen, die von bestimmten Ausdrücken oder Verben eingeleitet werden.
+## idea central
+El subjuntivo aparece cuando el hablante no presenta la información como un hecho neutral, sino como:
+- deseo o voluntad
+- emoción o valoración
+- duda o negación
+- posibilidad o necesidad
+- expectativa futura todavía abierta
 
-## auslöser (triggers)
+En la práctica, suele aparecer en subordinadas introducidas por `que`, `cuando`, `mientras`, `sin que` y estructuras parecidas.
 
-### subjuntivo presente
-verbos de deseo/voluntad :: querer que, desear que, esperar que, pedir que, exigir que → lösen Subjuntivo im Nebensatz aus
-verbos de emoción :: alegrarse de que, temer que, lamentar que → lösen Subjuntivo im Nebensatz aus
-verbos de duda :: dudar que, no creer que, no pensar que → lösen Subjuntivo im Nebensatz aus
-expresiones impersonales :: es posible que, es probable que, es necesario que, es importante que → lösen Subjuntivo aus
+## desencadenantes frecuentes
 
-### subjuntivo imperfecto
-condicional + si :: Wenn-Sätze mit Irrealis: "Si tuviera dinero, viajaría" (Hypothetischer Bedingungssatz)
-como si :: "como si fuera verdad" (Vergleich mit Irrealis)
-estaba previsto que :: "estaba previsto que una delegación llegase" (Vergangenheitsbezug, Erwartung) [[Última hora de la guerra]]
-mientras :: "mientras dure el bloqueo naval" (Zeitangabe mit ungewisser Dauer) [[Última hora de la guerra]]
+### deseo y voluntad
+- `querer que`
+- `desear que`
+- `esperar que`
+- `pedir que`
+- `exigir que`
 
-### subjuntivo futuro
-cuando + futuro subjuntivo :: "cuando desista de su bloqueo" (selten im Alltag; meist durch Präsens/Subjuntivo ersetzt)
+### emoción y valoración
+- `es una lástima que`
+- `alegrarse de que`
+- `lamentar que`
+- `temer que`
 
-## anwendungsbeispiele (recaps)
+### duda o negación
+- `dudar que`
+- `no creer que`
+- `no pensar que`
 
-### subjuntivo presente
-"Es una lástima que no pueda venir." :: Es ist schade, dass er nicht kommen kann. [Lástima + Subjuntivo] [[Noticias]]
-"Teherán advierte de que solo lo levantará cuando Estados Unidos desista de su bloqueo." :: Teheran warnt, dass es die Blockade nur aufheben wird, wenn die USA von ihrer Blockade ablassen. [cuando + Subjuntivo] [[Última hora de la guerra]]
-"Irán amagó con quedarse al margen mientras dure el bloqueo naval." :: Der Iran drohte damit, sich aus den Verhandlungen herauszuhalten, solange die Seeblockade andauert. [mientras + Subjuntivo] [[Última hora de la guerra]]
+### expresiones impersonales
+- `es posible que`
+- `es probable que`
+- `es necesario que`
+- `es importante que`
 
-### subjuntivo imperfecto
-"Estaba previsto que una delegación estadounidense llegase hoy." :: Es war vorgesehen, dass heute eine US-Delegation ankommen würde. [estaba previsto que + Subjuntivo Imperfecto] [[Última hora de la guerra]]
-"Le bastó con señalar zonas de peligro sin que tuviera que admitirlo." :: Es reichte ihm, Gefahrenzonen auszuweisen, ohne dass er es zugeben musste. [sin que + Subjuntivo Imperfecto] [[Última hora de la guerra]]
+### estructuras de tiempo o marco no cerrado
+- `cuando` para una acción futura no realizada
+- `mientras` para una duración no cerrada
+- `sin que`
 
-## konjugation (beispiel: desistir)
+## presente de subjuntivo
+Verbo modelo: `desistir`
 
-### presente de subjuntivo
-yo desista :: ich (möge) ablassen
-tú desistas :: du (mögest) ablassen
-él/ella/usted desista :: er/sie (möge) ablassen
-nosotros desistamos :: wir (mögen) ablassen
-vosotros desistáis :: ihr (möget) ablassen
-ellos/ellas/ustedes desistan :: sie (mögen) ablassen
+- yo: `desista`
+- tú: `desistas`
+- él/ella/usted: `desista`
+- nosotros: `desistamos`
+- vosotros: `desistáis`
+- ellos/ellas/ustedes: `desistan`
 
-### imperfecto de subjuntivo
-yo desistiese/desistiera :: ich (würde) ablassen
-tú desistieses/desistieras :: du (würdest) ablassen
-él/ella/usted desistiese/desistiera :: er/sie (würde) ablassen
-nosotros desistiésemos/desistiéramos :: wir (würden) ablassen
-vosotros desistieseis/desistierais :: ihr (würdet) ablassen
-ellos/ellas/ustedes desistiesen/desistieran :: sie (würden) ablassen
+## imperfecto de subjuntivo
+Dos series habituales:
+- en `-ra`: `desistiera`, `desistiéramos`
+- en `-se`: `desistiese`, `desistiésemos`
+
+## ejemplos de uso
+
+### presente
+De [[Noticias]]:
+- `Es una lástima que no pueda venir.`  
+  Es ist schade, dass er nicht kommen kann.
+
+De [[Última hora de la guerra]]:
+- `Teherán advierte de que solo lo levantará cuando Estados Unidos desista de su bloqueo.`  
+  Teheran warnt, dass es die Maßnahme erst aufheben wird, wenn die USA von ihrer Blockade ablassen.
+- `Irán amagó con quedarse al margen mientras dure el bloqueo naval.`  
+  Der Iran drohte damit, sich herauszuhalten, solange die Seeblockade andauert.
+
+### imperfecto
+De [[Última hora de la guerra]]:
+- `Estaba previsto que una delegación estadounidense llegase hoy.`  
+  Es war vorgesehen, dass heute eine US-Delegation ankommen würde.
+- `Le bastó con señalar zonas de peligro sin que tuviera que admitirlo.`  
+  Es reichte ihm, Gefahrenzonen auszuweisen, ohne dass er es zugeben musste.
+
+## nota útil
+El llamado `futuro de subjuntivo` existe históricamente, pero en el español actual casi siempre lo sustituye el presente de subjuntivo. Por eso `cuando desista` es una estructura viva y útil; el futuro de subjuntivo es sobre todo literario o jurídico.

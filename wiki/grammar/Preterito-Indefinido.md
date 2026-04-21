@@ -1,39 +1,36 @@
-# Obsidian_to_Anki
-# pretérito indefinido (recap)
+# pretérito indefinido
 
-## regel
-pretérito indefinido :: Wird für abgeschlossene Handlungen in der Vergangenheit verwendet, die als einmalig, punktuell oder abgegrenzt wahrgenommen werden. Oft mit Zeitangaben wie "ayer", "la semana pasada", "en 2020".
-<!--ID: 1776700492888-->
+## uso principal
+El pretérito indefinido se usa para acciones:
+- terminadas
+- puntuales o delimitadas
+- vistas como cerradas dentro de un marco temporal ya acabado
 
+Suele aparecer con marcadores como `ayer`, `la semana pasada`, `en 2020`, `anoche`.
 
-## anwendungsbeispiele (recaps)
-"El ministro asumió el cargo la semana pasada." :: Der Minister hat die Woche zuvor das Amt übernommen. [[Noticias]]
-<!--ID: 1776700492889-->
+## ejemplo base
+Verbo modelo: `asumir`
 
-"El proyecto rozó el éxito pero fracasó al final." :: Das Projekt streifte den Erfolg, scheiterte aber am Ende. [[Noticias]]
-<!--ID: 1776700492890-->
+- yo: `asumí`
+- tú: `asumiste`
+- él/ella/usted: `asumió`
+- nosotros: `asumimos`
+- vosotros: `asumisteis`
+- ellos/ellas/ustedes: `asumieron`
 
+## ejemplos de uso
+De [[Noticias]]:
+- `El ministro asumió el cargo la semana pasada.`  
+  Der Minister übernahm letzte Woche das Amt.
+- `El proyecto rozó el éxito pero fracasó al final.`  
+  Das Projekt streifte den Erfolg, scheiterte aber am Ende.
 
-## konjugation (beispiel: asumir)
-yo asumí :: ich übernahm
-<!--ID: 1776700492891-->
+De [[Última hora de la guerra]]:
+- `Así taponó durante siete semanas el paso del 20% del crudo mundial.`  
+  So blockierte er sieben Wochen lang den Durchgang von 20 % des weltweiten Rohöls.
+- `Emiratos Árabes Unidos pidió ayuda financiera a Estados Unidos.`  
+  Die Vereinigten Arabischen Emirate baten die USA um finanzielle Hilfe.
 
-tú asumiste :: du übernahmst
-<!--ID: 1776700492892-->
-
-él/ella/usted asumió :: er/sie übernahm
-<!--ID: 1776700492893-->
-
-nosotros asumimos :: wir übernahmen
-<!--ID: 1776700492894-->
-
-vosotros asumisteis :: ihr übernahmt
-<!--ID: 1776700492895-->
-
-ellos/ellas/ustedes asumieron :: sie übernahmen
-<!--ID: 1776700492896-->
-
-
-## anwendungsbeispiele (recaps) — [[Última hora de la guerra]]
-"Así taponó durante siete semanas el paso del 20% del crudo mundial." :: So blockierte er sieben Wochen lang den Durchgang von 20 % des weltweiten Rohöls. [[Última hora de la guerra]]
-"Emiratos Árabes Unidos pidió ayuda financiera a Estados Unidos." :: Die Vereinigten Arabischen Emirate forderten finanzielle Hilfe von den USA. [[Última hora de la guerra]]
+## contraste rápido
+- [[Preterito Perfecto]]: pasado conectado con el presente
+- [[Presente]]: descripción actual o habitual

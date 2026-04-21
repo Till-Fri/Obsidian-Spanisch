@@ -1,38 +1,35 @@
-# Obsidian_to_Anki
-# pretérito perfecto (recap)
+# pretérito perfecto
 
-## regel
-pretérito perfecto :: Wird für Handlungen verwendet, die in der Vergangenheit stattfanden, aber eine Verbindung zur Gegenwart haben oder in einem Zeitraum liegen, der die Gegenwart einschließt.
+## uso principal
+El pretérito perfecto se usa para acciones pasadas que:
+- mantienen relevancia en el presente
+- ocurren en un período todavía abierto, como `hoy`, `esta semana`, `este mes`
 
-## anwendungsbeispiele (recaps)
-"...desde el club azulgrana ya han dado los primeros pasos." :: ...seit dem blaugrana Verein wurden bereits die ersten Schritte unternommen. [[Rebajas para Lewandowski]]
-<!--ID: 1776700492897-->
+## forma
+`haber` en presente + participio
 
-"El rendimiento del delantero ha generado dudas en los últimos meses." :: Die Leistung des Stürmers hat in den letzten Monaten Zweifel hervorgerufen. [[Rebajas para Lewandowski]]
-<!--ID: 1776700492898-->
+- yo: `he`
+- tú: `has`
+- él/ella/usted: `ha`
+- nosotros: `hemos`
+- vosotros: `habéis`
+- ellos/ellas/ustedes: `han`
 
+## ejemplos de uso
+De [[Rebajas para Lewandowski]]:
+- `...desde el club azulgrana ya han dado los primeros pasos.`  
+  ...beim blaugrana Verein hat man bereits die ersten Schritte unternommen.
+- `El rendimiento del delantero ha generado dudas en los últimos meses.`  
+  Die Leistung des Stürmers hat in den letzten Monaten Zweifel ausgelöst.
 
-## konjugation (beispiel: haber + participio)
-yo he [participio] :: ich habe [partizip]
-<!--ID: 1776700492899-->
+De [[Última hora de la guerra]]:
+- `Irán ha atacado con drones a barcos militares estadounidenses.`  
+  Der Iran hat mit Drohnen US-Kriegsschiffe angegriffen.
+- `El alto mando ha anunciado el ataque.`  
+  Das Oberkommando hat den Angriff angekündigt.
+- `El precio del petróleo ha subido un 7,3%.`  
+  Der Ölpreis ist um 7,3 % gestiegen.
 
-tú has [participio] :: du hast [partizip]
-<!--ID: 1776700492900-->
-
-él/ella/usted ha [participio] :: er/sie/es hat [partizip]
-<!--ID: 1776700492901-->
-
-nosotros hemos [participio] :: wir haben [partizip]
-<!--ID: 1776700492902-->
-
-vosotros habéis [participio] :: ihr habt [partizip]
-<!--ID: 1776700492903-->
-
-ellos/ellas/ustedes han [participio] :: sie haben [partizip]
-<!--ID: 1776700492904-->
-
-
-## anwendungsbeispiele (recaps) — [[Última hora de la guerra]]
-"Irán ha atacado con drones a barcos militares estadounidenses." :: Der Iran hat mit Drohnen US-Kriegsschiffe angegriffen. [[Última hora de la guerra]]
-"El alto mando ha anunciado el ataque." :: Das Oberkommando hat den Angriff angekündigt. [[Última hora de la guerra]]
-"El precio del petróleo ha subido un 7,3%." :: Der Ölpreis ist um 7,3 % gestiegen. [[Última hora de la guerra]]
+## contraste rápido
+- [[Presente]]: aktuelle Zustände, Gewohnheiten, allgemeine Aussagen
+- [[Preterito-Indefinido]]: abgeschlossene Handlung in einem klar abgeschlossenen Zeitraum

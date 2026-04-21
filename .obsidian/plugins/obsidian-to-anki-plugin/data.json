@@ -42,7 +42,10 @@
       "raw/incoming": "",
       "wiki/grammar": "Spanisch::Grammatik Obsidian",
       "wiki/vocabulary": "Spanisch::Vokabeln Obsidian",
-      "wiki/entities": ""
+      "wiki/entities": "",
+      "Karteikarten": "Spanisch::Karteikarten",
+      "Karteikarten/Grammatik": "Spanisch::Karteikarten::Grammatik",
+      "Karteikarten/Vokabeln": "Spanisch::Karteikarten::Vokabeln"
     },
     "FOLDER_TAGS": {
       "raw": "",
@@ -51,7 +54,10 @@
       "raw/incoming": "",
       "wiki/grammar": "",
       "wiki/vocabulary": "",
-      "wiki/entities": ""
+      "wiki/entities": "",
+      "Karteikarten": "",
+      "Karteikarten/Grammatik": "",
+      "Karteikarten/Vokabeln": ""
     },
     "Syntax": {
       "Begin Note": "START",
@@ -64,9 +70,9 @@
       "Frozen Fields Line": "FROZEN"
     },
     "Defaults": {
-      "Scan Directory": "/wiki",
+      "Scan Directory": "/Karteikarten",
       "Tag": "Obsidian_to_Anki",
-      "Deck": "Spanisch-Obsidian",
+      "Deck": "Spanisch::Karteikarten",
       "Scheduling Interval": 0,
       "Add File Link": false,
       "Add Context": false,

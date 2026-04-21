@@ -1,7 +1,11 @@
 # Spanish Learning Wiki Schema
 
 ## Objective
-Transform raw Spanish input (texts, audio, conversations) into a compounding knowledge base of grammar and vocabulary, supporting the transition from B1 to B2.1.
+Transform raw Spanish input (texts, audio, conversations) into:
+- a readable, compounding wiki for grammar and vocabulary review
+- a separate set of export-safe flashcards for Anki
+
+The wiki is the reference layer. `Karteikarten/` is the memorization layer.
 
 ## User Profile
 - **Current Level:** B1
@@ -11,8 +15,9 @@ Transform raw Spanish input (texts, audio, conversations) into a compounding kno
 
 ## Layer Definitions
 1. **Raw Layer (`/raw/`)**: Immutable source files. I read these but never edit them.
-2. **Wiki Layer (`/wiki/`)**: The synthesized knowledge. I own this layer.
-3. **Schema Layer**: This document.
+2. **Wiki Layer (`/wiki/`)**: Synthesized knowledge in readable note form. This layer explains, groups, and links concepts.
+3. **Flashcard Layer (`/Karteikarten/`)**: Curated Anki export notes. Only this folder should be scanned by `Obsidian_to_Anki`.
+4. **Schema Layer**: This document.
 
 ## Workflows
 
@@ -25,12 +30,16 @@ When a new source is provided:
     - **Tense Mapping**: Identify ALL tenses used for "Recap Examples."
     - **Subjunctive Focus**: Specifically flag and analyze all uses of Subjuntivo.
 3. **Update Wiki**:
-    - **Grammar Pages**: Use `::` for Rules $\rightarrow$ Explanation and for Examples $\rightarrow$ Translation.
-
-    - **Vocab Pages**: Use `::` for bidirectional learning. **Crucial: Do NOT use bullet points (hyphens/asterisks) for the entries, as these are exported to Anki.**
-
+    - **Grammar Pages**: Write readable explanation notes with rules, contrasts, examples, and links.
+    - **Vocab Pages**: Group vocabulary by domain or pattern and keep examples attached to the item.
     - Create new pages if the topic is novel.
-4. **Index**: Add/update entries in `wiki/index.md`.
+4. **Distill to Flashcards**:
+    - Add only high-value, atomic cards to `/Karteikarten/`.
+    - Prefer one fact per card.
+    - Prefer production-oriented prompts for Spanish output.
+    - Add reverse cards only when they are genuinely useful.
+    - Include a short example on the back when it improves recall.
+5. **Index**: Add/update entries in `wiki/index.md` and `Karteikarten/index.md`.
 
 ### ❓ Query Flow
 When asked about a word or rule:
@@ -46,12 +55,10 @@ When asked about a word or rule:
 - **Source Links**: Every example must be linked to its source: "Sentence" [[Source File]].
 - **Casing**: Use natural lowercase for vocabulary and grammar points.
 - **Verbs**: Always include the most common preposition(s) required for the verb.
-- **Anki Semantic Style**: Use the double colon `::` for flashcards.
-- **Bidirectional Vocab**: Provide both Spanish $\rightarrow$ German and German $\rightarrow$ Spanish versions.
-- **Vocabulary Entries (Strictly NO BULLETS)**: 
-    - `el/la word :: German Translation`
-    - `<!--context: [[Source File]]-->`
-    - `<!--nivel: B1/B2-->`
-- **Grammar Entries**: 
-    - `grammar point/question :: German Explanation`
-    - `Spanish Sentence :: German Translation (Grammar Point) [[Source File]]`
+- **Wiki Notes**: Optimize for readability first. Do not force wiki notes into Anki export syntax.
+- **Flashcards**: Use the double colon `::` only in `/Karteikarten/`.
+- **Flashcard Prompt Style**:
+    - vocabulary: `German prompt :: Spanish answer`
+    - grammar: `German cue/question :: Spanish form or rule`
+    - optional back enrichment: short example, contrast, or source note
+- **Export Rule**: `Obsidian_to_Anki` should scan only `/Karteikarten/`.
