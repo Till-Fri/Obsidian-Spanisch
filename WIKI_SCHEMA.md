@@ -67,11 +67,25 @@ Las páginas de vocabulario deben contener:
 Solo `Karteikarten/` se exporta a Anki.
 
 Reglas:
+- las tarjetas están pensadas para aprendizaje humano, no para compresión máxima de información
 - añadir solo tarjetas de alto valor
 - preferir una sola idea por tarjeta
 - priorizar tarjetas útiles para producción activa
 - añadir una frase breve como apoyo cuando mejore el recuerdo
+- evitar dividir una misma idea en varias tarjetas casi idénticas
+- usar contraste y contraejemplos cuando eso evite respuestas automáticas por patrón
 - no convertir automáticamente toda la wiki en tarjetas
+
+#### Vocabulario
+- preguntar siempre en ambas direcciones:
+  - alemán -> español
+  - español -> alemán
+- mantener la misma frase de apoyo cuando ayude al recuerdo
+
+#### Gramática
+- preferir tarjetas de decisión, contraste y producción
+- si una regla se aprende mejor con oposición, incluir un contraejemplo en la misma tarjeta
+- evitar series largas de tarjetas que solo repitan "aquí va subjuntivo" sin contraste real
 
 ### 4. Índices
 - `wiki/index.md` = mapa de la capa de referencia
@@ -94,6 +108,7 @@ Reglas:
 - usar `::` solo en `Karteikarten/`
 - formato preferido:
   - vocabulario: `prompt en alemán :: respuesta en español`
+  - vocabulario inverso: `prompt en español :: respuesta en alemán`
   - gramática: `pregunta o pista en alemán :: forma o regla en español`
 - se puede añadir una línea breve de ejemplo con `<br>Ej.: ...`
 
