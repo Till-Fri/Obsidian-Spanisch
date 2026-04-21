@@ -1,4 +1,4 @@
-# news and politics vocabulary
+# noticias y política
 
 ## panorama
 Esta página reúne vocabulario recurrente de [[Noticias]] sobre periodismo, política, instituciones y debate público.

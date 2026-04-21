@@ -1,4 +1,4 @@
-# sports and business vocabulary
+# deporte y negocios
 
 ## panorama
 Esta página reúne vocabulario de [[Rebajas para Lewandowski]] sobre contratos, negociación, rendimiento y planificación de plantilla.

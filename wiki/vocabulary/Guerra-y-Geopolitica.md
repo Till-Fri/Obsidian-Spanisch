@@ -1,4 +1,4 @@
-# war and geopolitics vocabulary
+# guerra y geopolítica
 
 ## panorama
 Esta página reúne vocabulario de [[Última hora de la guerra]] sobre conflicto, navegación, diplomacia y presión militar.

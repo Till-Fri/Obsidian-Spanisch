@@ -1,5 +1,5 @@
 # Obsidian_to_Anki
-# war and geopolitics
+# guerra y geopolítica
 
 der Waffenstillstand :: el alto el fuego<br>Ej.: romper el alto el fuego. [[Última hora de la guerra]]
 das Oberkommando :: el alto mando militar<br>Ej.: lo ha anunciado el alto mando militar. [[Última hora de la guerra]]

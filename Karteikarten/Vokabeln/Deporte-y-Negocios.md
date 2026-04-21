@@ -1,5 +1,5 @@
 # Obsidian_to_Anki
-# sports and business
+# deporte y negocios
 
 eine dringende Entscheidung :: una decisión urgente<br>Ej.: El FC Barcelona tiene sobre la mesa una decisión urgente. [[Rebajas para Lewandowski]]
 der Vertrag :: el contrato<br>Ej.: El delantero polaco finaliza contrato. [[Rebajas para Lewandowski]]

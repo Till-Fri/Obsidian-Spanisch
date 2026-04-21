@@ -7,6 +7,6 @@ Nur dieser Ordner wird nach Anki exportiert.
 - [[Karteikarten/Grammatik/Subjuntivo]]
 
 ## Vokabeln
-- [[Karteikarten/Vokabeln/Sports-and-Business]]
-- [[Karteikarten/Vokabeln/News-and-Politics]]
-- [[Karteikarten/Vokabeln/War-and-Geopolitics]]
+- [[Karteikarten/Vokabeln/Deporte-y-Negocios]]
+- [[Karteikarten/Vokabeln/Noticias-y-Politica]]
+- [[Karteikarten/Vokabeln/Guerra-y-Geopolitica]]

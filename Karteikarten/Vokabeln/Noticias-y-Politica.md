@@ -1,5 +1,5 @@
 # Obsidian_to_Anki
-# news and politics
+# noticias y política
 
 hinweisen auf :: apuntar a<br>Ej.: El informe apunta a una tendencia clara. [[Noticias]]
 pflegen zu / normalerweise tun :: soler<br>Ej.: Suele llover en primavera. [[Noticias]]
