@@ -1,7 +1,7 @@
 # Schema de la Wiki de Español
 
 ## Objetivo
-Transformar input bruto en español, como textos, audio o conversaciones, en dos capas complementarias:
+Transformar fuentes en español en dos capas complementarias:
 - una wiki legible para comprensión, repaso y conexiones
 - una capa separada de `Karteikarten/` para exportación selectiva a Anki
 
@@ -10,59 +10,47 @@ La wiki es la capa de referencia. `Karteikarten/` es la capa de memorización.
 ## Perfil del usuario
 - **Nivel actual:** B1
 - **Objetivo:** B2.1
-- **Foco actual:** repaso completo de los tiempos verbales, profundización en el subjuntivo y expansión de vocabulario
+- **Foco actual:** repaso de tiempos verbales, subjuntivo y expansión de vocabulario
 - **Lenguas de trabajo:** español + alemán
 
 ## Capas
-1. **Capa raw (`/raw/`)**: fuentes originales e inmutables en una carpeta plana, sin subcarpetas.
+1. **Capa raw (`/raw/`)**: fuentes originales e inmutables.
 2. **Capa wiki (`/wiki/`)**: notas legibles de gramática y vocabulario.
 3. **Capa de tarjetas (`/Karteikarten/`)**: tarjetas curadas para Anki.
-4. **Capa schema**: este documento.
+4. **Schema**: este documento.
 
-## Estructura actual
+## Estructura
 
 ### Wiki
-- `wiki/grammar/Presente.md`
-- `wiki/grammar/Preterito Perfecto.md`
-- `wiki/grammar/Preterito-Indefinido.md`
-- `wiki/grammar/Subjuntivo.md`
-- `wiki/vocabulary/Deporte-y-Negocios.md`
-- `wiki/vocabulary/Noticias-y-Politica.md`
-- `wiki/vocabulary/Guerra-y-Geopolitica.md`
+- `wiki/grammar/`
+- `wiki/vocabulary/`
 - `wiki/index.md`
 - `wiki/log.md`
 
 ### Karteikarten
-- `Karteikarten/Grammatik/Basiszeiten.md`
-- `Karteikarten/Grammatik/Subjuntivo.md`
-- `Karteikarten/Vokabeln/Deporte-y-Negocios.md`
-- `Karteikarten/Vokabeln/Noticias-y-Politica.md`
-- `Karteikarten/Vokabeln/Guerra-y-Geopolitica.md`
+- `Karteikarten/Grammatik/`
+- `Karteikarten/Vokabeln/`
 - `Karteikarten/index.md`
 
 ## Flujo de trabajo
 
 ### 1. Ingesta
 Cuando entra una fuente nueva:
-1. Añadir una entrada a `wiki/log.md`.
-2. Analizar:
+1. guardarla en `raw/` sin editarla
+2. añadir una entrada a `wiki/log.md`
+3. analizar:
    - vocabulario B1 de repaso
    - vocabulario puente hacia B2
    - tiempos verbales presentes en la fuente
    - usos relevantes de subjuntivo
-3. Guardar la fuente en `raw/` sin editarla.
-
-Para identificar la fuente nueva no hace falta una carpeta `incoming/`. En esta vault basta con:
-- mirar el archivo más reciente dentro de `raw/`
-- o fijarse en el nombre del archivo recién añadido
 
 ### 2. Actualización de la wiki
-La wiki debe servir para entender y revisar, no para exportar tarjetas.
+La wiki sirve para entender, organizar y revisar.
 
 #### Gramática
 Las páginas de gramática deben contener:
 - uso principal
-- señales o contrastes importantes
+- contrastes importantes
 - una forma modelo cuando aporte valor
 - ejemplos agrupados por fuente
 - enlaces a páginas relacionadas
@@ -72,7 +60,7 @@ Las páginas de vocabulario deben contener:
 - agrupación temática o funcional
 - colocaciones y patrones con preposición
 - ejemplos breves y claros
-- notas de uso cuando una palabra lo merezca
+- notas de uso cuando haga falta
 - enlaces a gramática relacionada cuando ayude
 
 ### 3. Destilación a tarjetas
@@ -94,7 +82,7 @@ Reglas:
 ### Generales
 - usar enlaces de Obsidian con `[[Page Name]]`
 - mantener la vault en español + alemán
-- evitar mezclar inglés en títulos, nombres de notas o secciones
+- no mezclar inglés en títulos, nombres de notas o secciones
 
 ### Wiki
 - escribir para legibilidad primero
@@ -107,7 +95,7 @@ Reglas:
 - formato preferido:
   - vocabulario: `prompt en alemán :: respuesta en español`
   - gramática: `pregunta o pista en alemán :: forma o regla en español`
-- se puede añadir una línea breve de ejemplo en el reverso con `<br>Ej.: ...`
+- se puede añadir una línea breve de ejemplo con `<br>Ej.: ...`
 
 ## Regla de exportación
 `Obsidian_to_Anki` debe escanear solo `/Karteikarten/`.

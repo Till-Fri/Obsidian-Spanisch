@@ -11,10 +11,14 @@
             "id": "059cb21b8fa162e2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "WIKI_SCHEMA.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Neuer Tab"
+              "title": "WIKI_SCHEMA"
             }
           }
         ]
@@ -193,23 +197,24 @@
   },
   "active": "059cb21b8fa162e2",
   "lastOpenFiles": [
-    "raw/incoming/Subjuntivo – Wikipedia.md",
+    "wiki/vocabulary/Noticias-y-Politica.md",
+    "wiki/vocabulary/Guerra-y-Geopolitica.md",
+    "wiki/vocabulary/Deporte-y-Negocios.md",
+    "Karteikarten/Grammatik/Subjuntivo.md",
+    "Karteikarten/Grammatik/Basiszeiten.md",
+    "raw/Vokabeln.md",
     "raw/Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo  Irán ataca con drones a buques militares de Estados Unidos, al que acusa de romper el alto el fuego.md",
     "raw/Subjuntivo – Wikipedia.md",
-    "raw/Vokabeln.md",
-    "raw/Noticias.md",
     "raw/Rebajas para Lewandowski.md",
+    "raw/Noticias.md",
+    "raw/incoming/Subjuntivo – Wikipedia.md",
     "raw/incoming/Links.md",
     "raw/incoming/Clippings",
-    "Karteikarten/Grammatik/Basiszeiten.md",
-    "Karteikarten/Grammatik/Subjuntivo.md",
     "wiki/grammar/Presente.md",
-    "wiki/vocabulary/Deporte-y-Negocios.md",
     "Karteikarten/Vokabeln/Guerra-y-Geopolitica.md",
     "Karteikarten/Vokabeln/Deporte-y-Negocios.md",
     "wiki/grammar/Subjuntivo.md",
     "Karteikarten/Vokabeln/Noticias-y-Politica.md",
-    "wiki/vocabulary/Guerra-y-Geopolitica.md",
     "wiki/grammar/Preterito Perfecto.md",
     "wiki/grammar/Preterito-Indefinido.md",
     "WIKI_SCHEMA.md",
@@ -219,7 +224,6 @@
     "wiki/vocabulary/News-and-Politics.md",
     "raw/incoming/Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo  Irán ataca con drones a buques militares de Estados Unidos, al que acusa de romper el alto el fuego.md",
     "wiki/test.md",
-    "wiki/index.md",
     "copilot/copilot-conversations",
     "copilot/copilot-custom-prompts",
     "copilot",
