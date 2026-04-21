@@ -11,14 +11,10 @@
             "id": "059cb21b8fa162e2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "raw/incoming/Subjuntivo – Wikipedia.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Subjuntivo – Wikipedia"
+              "title": "Neuer Tab"
             }
           }
         ]
@@ -195,10 +191,15 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "6d01f5724b477a3c",
+  "active": "059cb21b8fa162e2",
   "lastOpenFiles": [
-    "raw/incoming/Links.md",
     "raw/incoming/Subjuntivo – Wikipedia.md",
+    "raw/Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo  Irán ataca con drones a buques militares de Estados Unidos, al que acusa de romper el alto el fuego.md",
+    "raw/Subjuntivo – Wikipedia.md",
+    "raw/Vokabeln.md",
+    "raw/Noticias.md",
+    "raw/Rebajas para Lewandowski.md",
+    "raw/incoming/Links.md",
     "raw/incoming/Clippings",
     "Karteikarten/Grammatik/Basiszeiten.md",
     "Karteikarten/Grammatik/Subjuntivo.md",
@@ -219,11 +220,6 @@
     "raw/incoming/Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo  Irán ataca con drones a buques militares de Estados Unidos, al que acusa de romper el alto el fuego.md",
     "wiki/test.md",
     "wiki/index.md",
-    "wiki/log.md",
-    "raw/archive/Noticias.md",
-    "raw/incoming/Noticias.md",
-    "raw/archive/Rebajas para Lewandowski.md",
-    "copilot/copilot-conversations/hi@20260420_004154.md",
     "copilot/copilot-conversations",
     "copilot/copilot-custom-prompts",
     "copilot",

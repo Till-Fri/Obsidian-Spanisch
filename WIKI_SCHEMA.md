@@ -14,7 +14,7 @@ La wiki es la capa de referencia. `Karteikarten/` es la capa de memorización.
 - **Lenguas de trabajo:** español + alemán
 
 ## Capas
-1. **Capa raw (`/raw/`)**: fuentes originales e inmutables.
+1. **Capa raw (`/raw/`)**: fuentes originales e inmutables en una carpeta plana, sin subcarpetas.
 2. **Capa wiki (`/wiki/`)**: notas legibles de gramática y vocabulario.
 3. **Capa de tarjetas (`/Karteikarten/`)**: tarjetas curadas para Anki.
 4. **Capa schema**: este documento.
@@ -50,7 +50,11 @@ Cuando entra una fuente nueva:
    - vocabulario puente hacia B2
    - tiempos verbales presentes en la fuente
    - usos relevantes de subjuntivo
-3. Archivar la fuente en `raw/` sin editarla.
+3. Guardar la fuente en `raw/` sin editarla.
+
+Para identificar la fuente nueva no hace falta una carpeta `incoming/`. En esta vault basta con:
+- mirar el archivo más reciente dentro de `raw/`
+- o fijarse en el nombre del archivo recién añadido
 
 ### 2. Actualización de la wiki
 La wiki debe servir para entender y revisar, no para exportar tarjetas.

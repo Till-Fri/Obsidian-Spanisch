@@ -38,8 +38,6 @@
     "FOLDER_DECKS": {
       "raw": "",
       "wiki": "",
-      "raw/archive": "",
-      "raw/incoming": "",
       "wiki/grammar": "Spanisch::Grammatik Obsidian",
       "wiki/vocabulary": "Spanisch::Vokabeln Obsidian",
       "wiki/entities": "",
@@ -50,8 +48,6 @@
     "FOLDER_TAGS": {
       "raw": "",
       "wiki": "",
-      "raw/archive": "",
-      "raw/incoming": "",
       "wiki/grammar": "",
       "wiki/vocabulary": "",
       "wiki/entities": "",
@@ -88,18 +84,16 @@
   "Added Media": [],
   "File Hashes": {
     "wiki/index.md": "eeed7d9ee994804d7b0f4b970e1a64c4",
-    "wiki/vocabulary/Sports-and-Business.md": "fe0b4d1ff2d06c8cf56102c2a1ebe717",
     "wiki/log.md": "56b54140b5ed41641dc1e3927b3a17df",
     "wiki/grammar/Preterito Perfecto.md": "7fa5fc5e014f77732ac5f02e860186f2",
     "wiki/grammar/Presente.md": "878996e84ef704f9e71e31ba26eb1b25",
     "WIKI_SCHEMA.md": "61761db95b29edea9ef53748fae7ada0",
-    "raw/archive/Vokabeln.md": "2996a1d2f9b464291c6bf8cb687a6d8a",
-    "raw/archive/Rebajas para Lewandowski.md": "6c72f96bf42688fd32df1099041f6804",
     "wiki/test.md": "7c4d910c75f4a0f417d306cd1b7c35e3",
-    "wiki/vocabulary/News-and-Politics.md": "a0f555276012a3448cff39571fb69612",
     "wiki/grammar/Preterito-Indefinido.md": "84702f95944650f8d82c974dc4d23aba",
-    "raw/incoming/Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo  Irán ataca con drones a buques militares de Estados Unidos, al que acusa de romper el alto el fuego.md": "1608ff6158265e0cc07e4bfc46c15196",
-    "raw/archive/Noticias.md": "b6a2bb0851e9946339837cdfac674483"
+    "raw/Vokabeln.md": "2996a1d2f9b464291c6bf8cb687a6d8a",
+    "raw/Rebajas para Lewandowski.md": "6c72f96bf42688fd32df1099041f6804",
+    "raw/Noticias.md": "b6a2bb0851e9946339837cdfac674483",
+    "raw/Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo  Irán ataca con drones a buques militares de Estados Unidos, al que acusa de romper el alto el fuego.md": "1608ff6158265e0cc07e4bfc46c15196"
   },
   "fields_dict": {
     "B+R+hint on side 2": [
