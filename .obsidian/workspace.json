@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Karteikarten/Grammatik/Basiszeiten.md",
+                "file": "raw/incoming/Links.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Basiszeiten"
+              "title": "Links"
             }
           }
         ]
@@ -197,8 +197,9 @@
   },
   "active": "059cb21b8fa162e2",
   "lastOpenFiles": [
-    "Karteikarten/Grammatik/Subjuntivo.md",
     "Karteikarten/Grammatik/Basiszeiten.md",
+    "raw/incoming/Links.md",
+    "Karteikarten/Grammatik/Subjuntivo.md",
     "wiki/grammar/Presente.md",
     "wiki/vocabulary/Deporte-y-Negocios.md",
     "Karteikarten/Vokabeln/Guerra-y-Geopolitica.md",
@@ -223,7 +224,6 @@
     "copilot/copilot-conversations/hi@20260420_004154.md",
     "copilot/copilot-conversations/hi@20260420_003411.md",
     "copilot/copilot-conversations",
-    "copilot/copilot-custom-prompts/Clip Web Page.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "raw/incoming/Clippings",
