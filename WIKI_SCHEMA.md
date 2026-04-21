@@ -1,64 +1,115 @@
-# Spanish Learning Wiki Schema
+# Schema de la Wiki de Español
 
-## Objective
-Transform raw Spanish input (texts, audio, conversations) into:
-- a readable, compounding wiki for grammar and vocabulary review
-- a separate set of export-safe flashcards for Anki
+## Objetivo
+Transformar input bruto en español, como textos, audio o conversaciones, en dos capas complementarias:
+- una wiki legible para comprensión, repaso y conexiones
+- una capa separada de `Karteikarten/` para exportación selectiva a Anki
 
-The wiki is the reference layer. `Karteikarten/` is the memorization layer.
+La wiki es la capa de referencia. `Karteikarten/` es la capa de memorización.
 
-## User Profile
-- **Current Level:** B1
-- **Target Level:** B2.1
-- **Current Focus:** Full grammar recap (all tenses) with a deep dive into Subjuntivo (Imperfecto and Futuro) and vocabulary.
-- **Native Language:** German (Learning Spanish $\rightarrow$ German).
+## Perfil del usuario
+- **Nivel actual:** B1
+- **Objetivo:** B2.1
+- **Foco actual:** repaso completo de los tiempos verbales, profundización en el subjuntivo y expansión de vocabulario
+- **Lenguas de trabajo:** español + alemán
 
-## Layer Definitions
-1. **Raw Layer (`/raw/`)**: Immutable source files. I read these but never edit them.
-2. **Wiki Layer (`/wiki/`)**: Synthesized knowledge in readable note form. This layer explains, groups, and links concepts.
-3. **Flashcard Layer (`/Karteikarten/`)**: Curated Anki export notes. Only this folder should be scanned by `Obsidian_to_Anki`.
-4. **Schema Layer**: This document.
+## Capas
+1. **Capa raw (`/raw/`)**: fuentes originales e inmutables.
+2. **Capa wiki (`/wiki/`)**: notas legibles de gramática y vocabulario.
+3. **Capa de tarjetas (`/Karteikarten/`)**: tarjetas curadas para Anki.
+4. **Capa schema**: este documento.
 
-## Workflows
+## Estructura actual
 
-### 📥 Ingestion Flow
-When a new source is provided:
-1. **Log**: Add entry to `wiki/log.md` (e.g., `## YYYY-MM-DD ingest | Topic/Source`).
-2. **Analyze**:
-    - **B1 Review Vocab**: MANDATORY. Extract key B1 level words.
-    - **B2-bridge Vocab**: Extract nuanced adjectives, idiomatic expressions, and academic verbs.
-    - **Tense Mapping**: Identify ALL tenses used for "Recap Examples."
-    - **Subjunctive Focus**: Specifically flag and analyze all uses of Subjuntivo.
-3. **Update Wiki**:
-    - **Grammar Pages**: Write readable explanation notes with rules, contrasts, examples, and links.
-    - **Vocab Pages**: Group vocabulary by domain or pattern and keep examples attached to the item.
-    - Create new pages if the topic is novel.
-4. **Distill to Flashcards**:
-    - Add only high-value, atomic cards to `/Karteikarten/`.
-    - Prefer one fact per card.
-    - Prefer production-oriented prompts for Spanish output.
-    - Add reverse cards only when they are genuinely useful.
-    - Include a short example on the back when it improves recall.
-5. **Index**: Add/update entries in `wiki/index.md` and `Karteikarten/index.md`.
+### Wiki
+- `wiki/grammar/Presente.md`
+- `wiki/grammar/Preterito Perfecto.md`
+- `wiki/grammar/Preterito-Indefinido.md`
+- `wiki/grammar/Subjuntivo.md`
+- `wiki/vocabulary/Deporte-y-Negocios.md`
+- `wiki/vocabulary/Noticias-y-Politica.md`
+- `wiki/vocabulary/Guerra-y-Geopolitica.md`
+- `wiki/index.md`
+- `wiki/log.md`
 
-### ❓ Query Flow
-When asked about a word or rule:
-1. Search the `/wiki/` folder first.
-2. Provide the answer with a link to the specific wiki page.
+### Karteikarten
+- `Karteikarten/Grammatik/Basiszeiten.md`
+- `Karteikarten/Grammatik/Subjuntivo.md`
+- `Karteikarten/Vokabeln/Deporte-y-Negocios.md`
+- `Karteikarten/Vokabeln/Noticias-y-Politica.md`
+- `Karteikarten/Vokabeln/Guerra-y-Geopolitica.md`
+- `Karteikarten/index.md`
 
-### 🧹 Lint Flow (Periodic)
-- Identify "Orphan" vocabulary.
-- Suggest review topics based on the `log.md`.
+## Flujo de trabajo
 
-## Formatting Conventions
-- **Links**: MUST use double brackets: `[[Page Name]]`.
-- **Source Links**: Every example must be linked to its source: "Sentence" [[Source File]].
-- **Casing**: Use natural lowercase for vocabulary and grammar points.
-- **Verbs**: Always include the most common preposition(s) required for the verb.
-- **Wiki Notes**: Optimize for readability first. Do not force wiki notes into Anki export syntax.
-- **Flashcards**: Use the double colon `::` only in `/Karteikarten/`.
-- **Flashcard Prompt Style**:
-    - vocabulary: `German prompt :: Spanish answer`
-    - grammar: `German cue/question :: Spanish form or rule`
-    - optional back enrichment: short example, contrast, or source note
-- **Export Rule**: `Obsidian_to_Anki` should scan only `/Karteikarten/`.
+### 1. Ingesta
+Cuando entra una fuente nueva:
+1. Añadir una entrada a `wiki/log.md`.
+2. Analizar:
+   - vocabulario B1 de repaso
+   - vocabulario puente hacia B2
+   - tiempos verbales presentes en la fuente
+   - usos relevantes de subjuntivo
+3. Archivar la fuente en `raw/` sin editarla.
+
+### 2. Actualización de la wiki
+La wiki debe servir para entender y revisar, no para exportar tarjetas.
+
+#### Gramática
+Las páginas de gramática deben contener:
+- uso principal
+- señales o contrastes importantes
+- una forma modelo cuando aporte valor
+- ejemplos agrupados por fuente
+- enlaces a páginas relacionadas
+
+#### Vocabulario
+Las páginas de vocabulario deben contener:
+- agrupación temática o funcional
+- colocaciones y patrones con preposición
+- ejemplos breves y claros
+- notas de uso cuando una palabra lo merezca
+- enlaces a gramática relacionada cuando ayude
+
+### 3. Destilación a tarjetas
+Solo `Karteikarten/` se exporta a Anki.
+
+Reglas:
+- añadir solo tarjetas de alto valor
+- preferir una sola idea por tarjeta
+- priorizar tarjetas útiles para producción activa
+- añadir una frase breve como apoyo cuando mejore el recuerdo
+- no convertir automáticamente toda la wiki en tarjetas
+
+### 4. Índices
+- `wiki/index.md` = mapa de la capa de referencia
+- `Karteikarten/index.md` = mapa de la capa exportable
+
+## Convenciones de formato
+
+### Generales
+- usar enlaces de Obsidian con `[[Page Name]]`
+- mantener la vault en español + alemán
+- evitar mezclar inglés en títulos, nombres de notas o secciones
+
+### Wiki
+- escribir para legibilidad primero
+- no usar sintaxis de exportación como formato principal
+- se permiten listas, contrastes, notas y ejemplos completos
+
+### Karteikarten
+- usar `# Obsidian_to_Anki` en archivos exportables
+- usar `::` solo en `Karteikarten/`
+- formato preferido:
+  - vocabulario: `prompt en alemán :: respuesta en español`
+  - gramática: `pregunta o pista en alemán :: forma o regla en español`
+- se puede añadir una línea breve de ejemplo en el reverso con `<br>Ej.: ...`
+
+## Regla de exportación
+`Obsidian_to_Anki` debe escanear solo `/Karteikarten/`.
+
+## Regla de consulta
+Cuando se pregunte por una palabra o una regla:
+1. buscar primero en `/wiki/`
+2. responder con enlace a la nota correspondiente
+3. usar `Karteikarten/` solo si la pregunta trata sobre memorización o tarjetas
