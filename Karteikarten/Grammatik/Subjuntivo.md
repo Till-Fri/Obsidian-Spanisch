@@ -2,42 +2,80 @@
 # subjuntivo
 
 Was markiert der subjuntivo typischerweise? :: Unsicherheit, Wunsch, Bewertung, Zweifel, Möglichkeit oder nicht gesicherte Zukunft im Nebensatz<br>Gegenpol: Der indicativo präsentiert etwas als Tatsache.
+<!--ID: 1776813638736-->
+
 
 Welche Form passt? `Es una lástima que no ___ venir.` / Gegenbeispiel: `Es verdad que no ___ venir.` :: pueda / puede<br>Valoración + `que` -> subjuntivo. Tatsache + `que` -> indicativo. [[Noticias]]
+<!--ID: 1776813638737-->
+
 
 Welche Form passt? `No creo que mañana ___.` / Gegenbeispiel: `Creo que mañana no ___.` :: llueva / llueve<br>Verneinte Meinung -> subjuntivo. Bejahte Meinung -> indicativo. [[Subjuntivo – Wikipedia]]
+<!--ID: 1776813638738-->
+
 
 Welche Form passt? `Dudo que los profesores siempre ___ razón.` / Gegenbeispiel: `Sé que los profesores siempre ___ razón.` :: tengan / tienen<br>Duda -> subjuntivo. Sicherheit -> indicativo. [[Subjuntivo – Wikipedia]]
+<!--ID: 1776813638739-->
+
 
 Welche Form passt? `Busco a alguien que ___ alemán.` / Gegenbeispiel: `Tengo un profesor que ___ alemán.` :: sepa / sabe<br>Nicht identifizierte Person -> subjuntivo. Bekannte/reale Person -> indicativo. [[Subjuntivo – Wikipedia]]
+<!--ID: 1776813638740-->
+
 
 Welche Form passt? `No hay nadie que lo ___.` / Gegenbeispiel: `Hay alguien que lo ___.` :: sepa / sabe<br>Nichtexistenz -> subjuntivo. Existenz -> indicativo. [[Subjuntivo – Wikipedia]]
+<!--ID: 1776813638741-->
+
 
 Welche Form passt? `Solo lo levantará cuando Estados Unidos ___ de su bloqueo.` / Gegenbeispiel: `Cuando Estados Unidos ___ de su bloqueo, todos lo notaron.` :: desista / desistió<br>Zukünftige offene Handlung -> subjuntivo. Abgeschlossene Vergangenheitsangabe -> indicativo. [[Última hora de la guerra]]
+<!--ID: 1776813638742-->
+
 
 Welche Form passt? `Irán amagó con quedarse al margen mientras ___ el bloqueo naval.` / Gegenbeispiel: `Mientras el bloqueo naval ___, hubo mucha tensión.` :: dure / duró<br>Offene Dauer -> subjuntivo. Berichtete abgeschlossene Vergangenheit -> indicativo. [[Última hora de la guerra]]
+<!--ID: 1776813638743-->
+
 
 Welche Form passt? `Se fue sin que nadie lo ___.` / Gegenbeispiel: `Se fue y nadie lo ___.` :: viera / vio<br>`sin que` -> subjuntivo. Hauptsatzfolge mit Tatsache -> indicativo.
+<!--ID: 1776813638744-->
+
 
 Welche Form passt? `Te llamo para que me ___.` / Gegenbeispiel: `Te llamo porque me ___.` :: ayudes / ayudas<br>Zweck -> subjuntivo. Begründung/Tatsache -> indicativo.
+<!--ID: 1776813638745-->
+
 
 Welche Form passt? `Lo haré antes de que ___.` / Gegenbeispiel: `Lo hice antes de que ___.` :: empiece / empezó<br>Noch nicht eingetretene Handlung -> subjuntivo. Berichtete Vergangenheit -> indicativo.
+<!--ID: 1776813638746-->
+
 
 Welche Form steht bei `ojalá` für einen noch möglichen Wunsch? :: presente de subjuntivo<br>Ej.: `Ojalá apruebe el examen.`
+<!--ID: 1776813638747-->
+
 
 Welche Form steht bei `ojalá` für einen unwahrscheinlichen oder irrealen Wunsch in der Gegenwart? :: imperfecto de subjuntivo<br>Ej.: `Ojalá pudiera hablar con este extraterrestre.`
+<!--ID: 1776813638748-->
+
 
 Welche Form steht bei `ojalá` für einen unerfüllbaren Wunsch in der Vergangenheit? :: pluscuamperfecto de subjuntivo<br>Ej.: `Ojalá lo hubiera sabido antes.`
+<!--ID: 1776813638749-->
+
 
 Steht der Hauptsatz im Präsens, Futur oder pretérito perfecto: Welche Subjuntivo-Serie steht typischerweise im Nebensatz? :: presente de subjuntivo / pretérito perfecto de subjuntivo<br>Ej.: `Espero que venga.` / `Espero que haya llegado.`
+<!--ID: 1776813638750-->
+
 
 Steht der Hauptsatz in einer Vergangenheitsform oder im Konditional: Welche Subjuntivo-Serie steht typischerweise im Nebensatz? :: imperfecto de subjuntivo / pluscuamperfecto de subjuntivo<br>Ej.: `Quería que llegaras.` / `Ojalá lo hubiera sabido antes.`
+<!--ID: 1776813638751-->
+
 
 3. Person Singular von `desistir` im presente de subjuntivo :: desista
+<!--ID: 1776813638752-->
+
 
 1. Person Plural von `desistir` im presente de subjuntivo :: desistamos
+<!--ID: 1776813638753-->
+
 
 3. Person Singular von `desistir` im imperfecto de subjuntivo :: desistiera / desistiese
+<!--ID: 1776813638754-->
+
 
 START
 Basic
@@ -74,4 +112,5 @@ Beispielpaar:
 
 - `Creo que viene.` -> Indicativo
 - `No creo que venga.` -> Subjuntivo
+<!--ID: 1776813638735-->
 END
