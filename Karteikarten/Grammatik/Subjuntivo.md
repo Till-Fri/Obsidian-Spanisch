@@ -1,38 +1,40 @@
 # Obsidian_to_Anki
 # subjuntivo
 
-subjuntivo: Kernfunktion :: Unsicherheit, Wunsch, Emotion, Zweifel, Bewertung oder nicht gesicherte Zukunft im Nebensatz
-Nach Wunsch oder Wille ("querer que", "pedir que") benutzt man ... :: subjuntivo
-Nach Emotion oder Bewertung ("es una lástima que") benutzt man ... :: subjuntivo
-Nach Zweifel oder Verneinung ("dudo que", "no creo que") benutzt man ... :: subjuntivo
-Nach unpersönlichen Ausdrücken ("es posible que", "es necesario que") benutzt man ... :: subjuntivo
-Nach "cuando" bei zukünftiger, noch offener Handlung benutzt man ... :: subjuntivo<br>Ej.: cuando desista de su bloqueo
-Nach "mientras" bei offener Dauer benutzt man ... :: subjuntivo<br>Ej.: mientras dure el bloqueo naval
-Nach "sin que" benutzt man ... :: subjuntivo
-Nach "antes de que" benutzt man ... :: subjuntivo
-Nach "para que" benutzt man ... :: subjuntivo
-Wenn etwas gesucht wird, aber noch nicht identifiziert ist, steht im Relativsatz oft ... :: subjuntivo<br>Ej.: Busco a alguien que sepa alemán.
-Nach verneinter Existenz wie "No hay nadie que..." steht ... :: subjuntivo
+Was markiert der subjuntivo typischerweise? :: Unsicherheit, Wunsch, Bewertung, Zweifel, Möglichkeit oder nicht gesicherte Zukunft im Nebensatz<br>Gegenpol: Der indicativo präsentiert etwas als Tatsache.
 
-yo (desistir, presente de subjuntivo) :: desista
-tú (desistir, presente de subjuntivo) :: desistas
-nosotros (desistir, presente de subjuntivo) :: desistamos
-ellos/ellas/ustedes (desistir, presente de subjuntivo) :: desistan
+Welche Form passt? `Es una lástima que no ___ venir.` / Gegenbeispiel: `Es verdad que no ___ venir.` :: pueda / puede<br>Valoración + `que` -> subjuntivo. Tatsache + `que` -> indicativo. [[Noticias]]
 
-él/ella/usted (desistir, imperfecto de subjuntivo) :: desistiera / desistiese
-nosotros (desistir, imperfecto de subjuntivo) :: desistiéramos / desistiésemos
+Welche Form passt? `No creo que mañana ___.` / Gegenbeispiel: `Creo que mañana no ___.` :: llueva / llueve<br>Verneinte Meinung -> subjuntivo. Bejahte Meinung -> indicativo. [[Subjuntivo – Wikipedia]]
 
-Bei "ojalá" für einen noch möglichen Wunsch benutzt man meist ... :: presente de subjuntivo<br>Ej.: Ojalá apruebe el examen.
-Bei "ojalá" für einen unwahrscheinlichen oder irrealen Wunsch im Präsens benutzt man meist ... :: imperfecto de subjuntivo<br>Ej.: Ojalá pudiera hablar con este extraterrestre.
-Bei "ojalá" für einen unerfüllbaren Wunsch in der Vergangenheit benutzt man meist ... :: pluscuamperfecto de subjuntivo<br>Ej.: Ojalá lo hubiera sabido antes.
+Welche Form passt? `Dudo que los profesores siempre ___ razón.` / Gegenbeispiel: `Sé que los profesores siempre ___ razón.` :: tengan / tienen<br>Duda -> subjuntivo. Sicherheit -> indicativo. [[Subjuntivo – Wikipedia]]
 
-Steht der Hauptsatz im Präsens, Futur oder pretérito perfecto, steht im Nebensatz typischerweise die ... Serie :: presente de subjuntivo / pretérito perfecto de subjuntivo
-Steht der Hauptsatz in einer Vergangenheitsform oder im Konditional, steht im Nebensatz typischerweise die ... Serie :: imperfecto de subjuntivo / pluscuamperfecto de subjuntivo
+Welche Form passt? `Busco a alguien que ___ alemán.` / Gegenbeispiel: `Tengo un profesor que ___ alemán.` :: sepa / sabe<br>Nicht identifizierte Person -> subjuntivo. Bekannte/reale Person -> indicativo. [[Subjuntivo – Wikipedia]]
 
-Welcher Modus? "Es una lástima que no ___ venir." :: pueda<br>Trigger: valoración + que. [[Noticias]]
-Welcher Modus? "Solo lo levantará cuando Estados Unidos ___ de su bloqueo." :: desista<br>Trigger: cuando + futuro abierto. [[Última hora de la guerra]]
-Welcher Modus? "Irán amagó con quedarse al margen mientras ___ el bloqueo naval." :: dure<br>Trigger: mientras + duración no cerrada. [[Última hora de la guerra]]
-Welcher Modus? "Estaba previsto que una delegación estadounidense ___ hoy." :: llegase / llegara<br>Trigger: pasado + expectativa. [[Última hora de la guerra]]
-Welcher Modus? "No creo que mañana ___." :: llueva<br>Trigger: Meinung verneint. [[Subjuntivo – Wikipedia]]
-Welcher Modus? "Dudo que los profesores siempre ___ razón." :: tengan<br>Trigger: duda. [[Subjuntivo – Wikipedia]]
-Welcher Modus? "No hay nadie que lo ___." :: sepa<br>Trigger: inexistencia / Relativsatz. [[Subjuntivo – Wikipedia]]
+Welche Form passt? `No hay nadie que lo ___.` / Gegenbeispiel: `Hay alguien que lo ___.` :: sepa / sabe<br>Nichtexistenz -> subjuntivo. Existenz -> indicativo. [[Subjuntivo – Wikipedia]]
+
+Welche Form passt? `Solo lo levantará cuando Estados Unidos ___ de su bloqueo.` / Gegenbeispiel: `Cuando Estados Unidos ___ de su bloqueo, todos lo notaron.` :: desista / desistió<br>Zukünftige offene Handlung -> subjuntivo. Abgeschlossene Vergangenheitsangabe -> indicativo. [[Última hora de la guerra]]
+
+Welche Form passt? `Irán amagó con quedarse al margen mientras ___ el bloqueo naval.` / Gegenbeispiel: `Mientras el bloqueo naval ___, hubo mucha tensión.` :: dure / duró<br>Offene Dauer -> subjuntivo. Berichtete abgeschlossene Vergangenheit -> indicativo. [[Última hora de la guerra]]
+
+Welche Form passt? `Se fue sin que nadie lo ___.` / Gegenbeispiel: `Se fue y nadie lo ___.` :: viera / vio<br>`sin que` -> subjuntivo. Hauptsatzfolge mit Tatsache -> indicativo.
+
+Welche Form passt? `Te llamo para que me ___.` / Gegenbeispiel: `Te llamo porque me ___.` :: ayudes / ayudas<br>Zweck -> subjuntivo. Begründung/Tatsache -> indicativo.
+
+Welche Form passt? `Lo haré antes de que ___.` / Gegenbeispiel: `Lo hice antes de que ___.` :: empiece / empezó<br>Noch nicht eingetretene Handlung -> subjuntivo. Berichtete Vergangenheit -> indicativo.
+
+Welche Form steht bei `ojalá` für einen noch möglichen Wunsch? :: presente de subjuntivo<br>Ej.: `Ojalá apruebe el examen.`
+
+Welche Form steht bei `ojalá` für einen unwahrscheinlichen oder irrealen Wunsch in der Gegenwart? :: imperfecto de subjuntivo<br>Ej.: `Ojalá pudiera hablar con este extraterrestre.`
+
+Welche Form steht bei `ojalá` für einen unerfüllbaren Wunsch in der Vergangenheit? :: pluscuamperfecto de subjuntivo<br>Ej.: `Ojalá lo hubiera sabido antes.`
+
+Steht der Hauptsatz im Präsens, Futur oder pretérito perfecto: Welche Subjuntivo-Serie steht typischerweise im Nebensatz? :: presente de subjuntivo / pretérito perfecto de subjuntivo<br>Ej.: `Espero que venga.` / `Espero que haya llegado.`
+
+Steht der Hauptsatz in einer Vergangenheitsform oder im Konditional: Welche Subjuntivo-Serie steht typischerweise im Nebensatz? :: imperfecto de subjuntivo / pluscuamperfecto de subjuntivo<br>Ej.: `Quería que llegaras.` / `Ojalá lo hubiera sabido antes.`
+
+3. Person Singular von `desistir` im presente de subjuntivo :: desista
+
+1. Person Plural von `desistir` im presente de subjuntivo :: desistamos
+
+3. Person Singular von `desistir` im imperfecto de subjuntivo :: desistiera / desistiese
