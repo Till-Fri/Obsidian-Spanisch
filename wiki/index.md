@@ -1,6 +1,7 @@
 # Index de la Wiki de Español
 
 Export a Anki: solo desde [[Karteikarten/index]].
+Reglas de trabajo para preguntas y respuestas: [[Codex]].
 
 ## 📚 Gramática
 - [[Presente]] - Recap de uso actual.
