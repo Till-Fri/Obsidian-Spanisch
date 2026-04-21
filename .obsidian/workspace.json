@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Karteikarten/Grammatik/Subjuntivo.md",
+                "file": "Karteikarten/Grammatik/Basiszeiten.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Subjuntivo"
+              "title": "Basiszeiten"
             }
           }
         ]
@@ -195,15 +195,15 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "6d01f5724b477a3c",
+  "active": "059cb21b8fa162e2",
   "lastOpenFiles": [
+    "Karteikarten/Grammatik/Subjuntivo.md",
     "Karteikarten/Vokabeln/Deporte-y-Negocios.md",
     "Karteikarten/Vokabeln/Guerra-y-Geopolitica.md",
     "Karteikarten/Vokabeln/Noticias-y-Politica.md",
     "wiki/vocabulary/Noticias-y-Politica.md",
     "wiki/vocabulary/Guerra-y-Geopolitica.md",
     "wiki/vocabulary/Deporte-y-Negocios.md",
-    "Karteikarten/Grammatik/Subjuntivo.md",
     "Codex.md",
     "Karteikarten/Grammatik/Basiszeiten.md",
     "WIKI_SCHEMA.md",
