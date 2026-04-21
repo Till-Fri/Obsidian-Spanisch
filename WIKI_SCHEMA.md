@@ -81,6 +81,8 @@ Reglas:
   - alemán -> español
   - español -> alemán
 - mantener la misma frase de apoyo cuando ayude al recuerdo
+- preferir una traducción principal por tarjeta, no listas de sinónimos
+- si una palabra tiene varias acepciones, usar la acepción que corresponde al ejemplo de la fuente
 
 #### Gramática
 - preferir tarjetas de decisión, contraste y producción
