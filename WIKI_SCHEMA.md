@@ -109,6 +109,7 @@ Reglas:
 ### Karteikarten
 - usar `# Obsidian_to_Anki` en archivos exportables
 - usar `::` solo en `Karteikarten/`
+- para tarjetas explicativas o respuestas largas se puede usar el formato de bloque `START ... END`
 - formato preferido:
   - vocabulario: `prompt en alemán :: respuesta en español`
   - vocabulario inverso: `prompt en español :: respuesta en alemán`

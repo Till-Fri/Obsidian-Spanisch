@@ -38,3 +38,40 @@ Steht der Hauptsatz in einer Vergangenheitsform oder im Konditional: Welche Subj
 1. Person Plural von `desistir` im presente de subjuntivo :: desistamos
 
 3. Person Singular von `desistir` im imperfecto de subjuntivo :: desistiera / desistiese
+
+START
+Basic
+Front: Wann benutzt man den subjuntivo?
+Back: Du benutzt den **subjuntivo**, wenn du etwas nicht einfach als Tatsache darstellst, sondern als:
+
+- Wunsch oder Wille
+- Gefühl oder Bewertung
+- Zweifel oder Verneinung
+- Möglichkeit oder Notwendigkeit
+- etwas Zukünftiges, das noch nicht fest eingetreten ist
+
+Typische Fälle:
+
+- Wunsch / Wille  
+  `Quiero que vengas.`
+- Bewertung / Gefühl  
+  `Es una lástima que no pueda venir.`
+- Zweifel / verneinte Meinung  
+  `No creo que mañana llueva.`
+- Möglichkeit / Notwendigkeit  
+  `Es posible que llegue tarde.`
+- offene Zukunft nach bestimmten Konjunktionen  
+  `cuando llegue`  
+  `mientras dure`  
+  `antes de que empiece`
+
+Wichtiger Kontrast:
+
+- Indicativo = ich präsentiere etwas als real oder sicher
+- Subjuntivo = ich präsentiere es als gewünscht, bewertet, unsicher, möglich oder noch offen
+
+Beispielpaar:
+
+- `Creo que viene.` -> Indicativo
+- `No creo que venga.` -> Subjuntivo
+END
