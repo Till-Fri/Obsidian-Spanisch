@@ -2,7 +2,7 @@
 title: "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Irán ataca con drones a buques militares de Estados Unidos, al que acusa de romper el alto el fuego"
 source: "https://elpais.com/internacional/2026-04-19/ultima-hora-de-la-guerra-de-estados-unidos-e-israel-contra-iran-en-directo.html"
 author:
-  - "[[El País]]"
+  - "El País"
 published: 2026-04-19
 created: 2026-04-20
 description: "Teherán señala a Washington por haber disparado contra un buque iraní proveniente de China | Un carguero francés recibe disparos en el estrecho de Ormuz"

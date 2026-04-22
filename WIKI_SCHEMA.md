@@ -43,6 +43,7 @@ Cuando entra una fuente nueva:
    - vocabulario puente hacia B2
    - tiempos verbales presentes en la fuente
    - usos relevantes de subjuntivo
+4. **escanear duplicados:** antes de añadir vocabulario nuevo, buscar la palabra en `wiki/vocabulary/` y `Karteikarten/Vokabeln/` para evitar repeticiones innecesarias
 
 ### 2. Actualización de la wiki
 La wiki sirve para entender, organizar y revisar.
@@ -97,7 +98,7 @@ Reglas:
 ## Convenciones de formato
 
 ### Generales
-- usar enlaces de Obsidian con `[[Page Name]]`
+- usar enlaces de Obsidian con formato de doble corchete
 - mantener la vault en español + alemán
 - no mezclar inglés en títulos, nombres de notas o secciones
 
@@ -105,6 +106,21 @@ Reglas:
 - escribir para legibilidad primero
 - no usar sintaxis de exportación como formato principal
 - se permiten listas, contrastes, notas y ejemplos completos
+
+#### Plantilla de página de vocabulario
+```markdown
+# tema-en-minusculas
+
+## panorama
+Contexto breve y link a la fuente.
+
+## seccion tematica 1
+- `palabra`: Traduccion alemana
+  Ej.: `Frase de ejemplo de la fuente.`
+
+## gramatica relacionada
+- PaginaDeGramatica
+```
 
 ### Karteikarten
 - usar `# Obsidian_to_Anki` en archivos exportables
@@ -123,6 +139,40 @@ Reglas:
 <!--ID: 1776813638630-->
 
 - se puede añadir una línea breve de ejemplo con `<br>Ej.: ...`
+
+#### Plantilla de archivo de vocabulario (Karteikarten)
+```markdown
+# Obsidian_to_Anki
+# tema-en-minusculas
+
+prompt en alemán :: respuesta en español<br>Ej.: ... [[Fuente]]
+<!--ID: 1776813638xxx-->
+
+respuesta en español :: prompt en alemán<br>Ej.: ... [[Fuente]]
+<!--ID: 1776813638xxx-->
+```
+
+#### Plantilla de tarjeta de gramática (decisión/contraste, 1 línea)
+```markdown
+Welche Form passt? `Oracion con hueco.` / Gegenbeispiel: `Oracion contrastante.` :: respuesta correcta / respuesta incorrecta<br>Explicacion breve en aleman. [[Fuente]]
+<!--ID: 1776813638xxx-->
+```
+
+#### Plantilla de tarjeta explicativa larga (multilínea START...END)
+```markdown
+START
+Basic
+Front: Pregunta o pista en alemán
+Back: Explicación o regla en español (puede incluir listas, contrastes, ejemplos)
+
+- punto 1
+- punto 2
+
+Ejemplo:
+`Frase de ejemplo.`
+<!--ID: 1776813638xxx-->
+END
+```
 
 ## Regla de exportación
 `Obsidian_to_Anki` debe escanear solo `/Karteikarten/`.

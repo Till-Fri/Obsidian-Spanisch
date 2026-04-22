@@ -2,7 +2,7 @@
 title: "Subjuntivo – Wikipedia"
 source: "https://de.wikipedia.org/wiki/Subjuntivo"
 author:
-  - "[[Autoren der Wikimedia-Projekte]]"
+  - "Autoren der Wikimedia-Projekte"
 published: 2008-06-14
 created: 2026-04-21
 description:

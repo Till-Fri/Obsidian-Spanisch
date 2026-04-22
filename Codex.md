@@ -25,3 +25,8 @@ Diese Datei legt fest, wie Fragen zur spanischen Sprache in dieser Vault beantwo
 ## Pflege
 - Diese Datei regelt Antwortverhalten.
 - `WIKI_SCHEMA.md` regelt Struktur, Workflow und Kartenprinzipien.
+
+## Regel bei Ingest und Erweiterung
+- Vor dem Anlegen neuer Wiki-Seiten oder Karteikarten: `WIKI_SCHEMA.md` nutzen, nicht bestehende Vokabeldateien als Formatvorlage einlesen.
+- Vor dem Hinzufügen neuer Vokabeln oder Grammatikkarten: immer bestehende `wiki/vocabulary/` und `Karteikarten/Vokabeln/` auf Duplikate prüfen.
+- Neue Karten nur anlegen, wenn die Information neu oder kontrastreicher ist als bestehende Einträge.

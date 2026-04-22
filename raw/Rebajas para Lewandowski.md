@@ -2,7 +2,7 @@
 title: "Rebajas para Lewandowski"
 source: "https://www.marca.com/futbol/barcelona/2026/04/19/rebajas-lewandowski.html"
 author:
-  - "[[Luis Fernando Rojo]]"
+  - "Luis Fernando Rojo"
 published: 2026-04-19
 created: 2026-04-19
 description: "Ya sabe las intenciones del club: mitad de ficha, suplente y con un delantero top por delante"

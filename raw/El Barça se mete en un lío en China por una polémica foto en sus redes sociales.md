@@ -2,7 +2,7 @@
 title: "El Barça se mete en un lío en China por una polémica foto en sus redes sociales"
 source: "https://www.marca.com/futbol/barcelona/2026/04/22/barca-mete-lio-china-polemica-foto-redes-sociales.html"
 author:
-  - "[[EFE (Agencia)]]"
+  - "EFE (Agencia)"
 published: 2026-04-22
 created: 2026-04-22
 description: "El club azulgrana ha tenido que pedir perdón por una fotografía en la que aparecen niños con sus equipaciones sosteniendo una bandera de Taiwan."
