@@ -146,16 +146,13 @@ Contexto breve y link a la fuente.
 # tema-en-minusculas
 
 prompt en alemán :: respuesta en español<br>Ej.: ... [[Fuente]]
-<!--ID: 1776813638xxx-->
 
 respuesta en español :: prompt en alemán<br>Ej.: ... [[Fuente]]
-<!--ID: 1776813638xxx-->
 ```
 
 #### Plantilla de tarjeta de gramática (decisión/contraste, 1 línea)
 ```markdown
 Welche Form passt? `Oracion con hueco.` / Gegenbeispiel: `Oracion contrastante.` :: respuesta correcta / respuesta incorrecta<br>Explicacion breve en aleman. [[Fuente]]
-<!--ID: 1776813638xxx-->
 ```
 
 #### Plantilla de tarjeta explicativa larga (multilínea START...END)
@@ -170,7 +167,6 @@ Back: Explicación o regla en español (puede incluir listas, contrastes, ejempl
 
 Ejemplo:
 `Frase de ejemplo.`
-<!--ID: 1776813638xxx-->
 END
 ```
 
