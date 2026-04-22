@@ -5,7 +5,7 @@ author:
   - "EFE (Agencia)"
 published: 2026-04-22
 created: 2026-04-22
-description: "El club azulgrana ha tenido que pedir perdón por una fotografía en la que aparecen niños con sus equipaciones sosteniendo una bandera de Taiwan."
+description: "El club azulgrana ha tenido que pedir perdón por una fotografía en la que aparecen niños con sus equipaciones sosteniendo una bandera de Taiwán."
 tags:
   - "clippings"
 ---

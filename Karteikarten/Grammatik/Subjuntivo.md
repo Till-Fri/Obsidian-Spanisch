@@ -49,7 +49,7 @@ Welche Form passt? `Adoptó medidas para evitar que incidentes similares ___.` /
 <!--ID: 1776813638829-->
 
 
-Welche Form passt? `Después de que la imagen ___ entre internautas chinos, pidió disculpas.` / Gegenbeispiel: `Después de que la imagen ___ , todo el mundo la vio.` :: se viralizara / se viralizó<br>Antezedenz im Nebensatz mit emotionaler/subjektiver Sicht -> subjuntivo. Berichtete, abgeschlossene Vergangenheit -> indicativo. [[El Barça se mete en un lío en China por una polémica foto en sus redes sociales]]
+Welche Form passt? `Después de que la imagen ___ entre internautas chinos, pidió disculpas.` / Gegenbeispiel: `Después de que la imagen ___ , todo el mundo la vio.` :: se viralizara / se viralizó<br>Hier steht in der Quelle ein journalistischer Stil mit subjuntivo (`se viralizara`). Im neutralen Standard bei abgeschlossener Vergangenheit ist meist indicativo (`se viralizó`) üblich. [[El Barça se mete en un lío en China por una polémica foto en sus redes sociales]]
 <!--ID: 1776813638830-->
 
 

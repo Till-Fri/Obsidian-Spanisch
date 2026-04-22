@@ -125,6 +125,7 @@ De [[Última hora de la guerra]]:
 De [[El Barça se mete en un lío en China por una polémica foto en sus redes sociales]]:
 - `...después de que la imagen se viralizara entre internautas chinos.`  
   Nachdem das Bild unter chinesischen Internetnutzern viral gegangen war.
+  Nota: aquí aparece un uso periodístico/literario con subjuntivo. En español estándar neutral, con hecho pasado ya realizado, suele preferirse indicativo: `después de que la imagen se viralizó...`.
 
 De [[Subjuntivo – Wikipedia]]:
 - `No creo que mañana llueva.`  

@@ -31,6 +31,12 @@ De [[Última hora de la guerra]]:
 - `Emiratos Árabes Unidos pidió ayuda financiera a Estados Unidos.`  
   Die Vereinigten Arabischen Emirate baten die USA um finanzielle Hilfe.
 
+De [[El Barça se mete en un lío en China por una polémica foto en sus redes sociales]]:
+- `El FC Barcelona eliminó una imagen en la que aparecía una bandera de Taiwán.`  
+  Der FC Barcelona löschte ein Bild, auf dem eine Taiwan-Flagge zu sehen war.
+- `El club pidió disculpas en China tras la polémica.`  
+  Der Klub entschuldigte sich in China nach der Kontroverse.
+
 ## contraste rápido
 - [[Preterito Perfecto]]: pasado conectado con el presente
 - [[Presente]]: descripción actual o habitual
