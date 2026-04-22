@@ -29,6 +29,7 @@ Welche Zeit passt? `El proyecto ___ el éxito pero fracasó al final.` / Gegenbe
 <!--ID: 1776813638761-->
 
 3. Person Singular von `tener` im presente :: tiene
+<!--ID: 1776938204101-->
 1. Person Plural von `tener` im presente :: tenemos
 <!--ID: 1776813638762-->
 
@@ -37,6 +38,7 @@ Welche Zeit passt? `El proyecto ___ el éxito pero fracasó al final.` / Gegenbe
 <!--ID: 1776813638763-->
 
 3. Person Singular von `haber` im pretérito perfecto :: ha
+<!--ID: 1776938204102-->
 1. Person Plural von `haber` im pretérito perfecto :: hemos
 <!--ID: 1776813638764-->
 
@@ -45,6 +47,6 @@ Welche Zeit passt? `El proyecto ___ el éxito pero fracasó al final.` / Gegenbe
 <!--ID: 1776813638765-->
 
 3. Person Singular von `asumir` im indefinido :: asumió
+<!--ID: 1776938204103-->
 3. Person Plural von `asumir` im indefinido :: asumieron
 <!--ID: 1776813638766-->
-
