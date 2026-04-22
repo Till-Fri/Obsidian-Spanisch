@@ -1,4 +1,12 @@
-﻿# log.md
+﻿## [2026-04-22] ingest | El Barça se mete en un lío en China por una polémica foto en sus redes sociales
+Processed Marca article about FC Barcelona's social media controversy in China over a Taiwanese flag photo.
+- Created new vocabulary page [[Redes-y-Controversia]] with media, institutional communication and controversy terms.
+- Extracted B1 recap words (imagen, eliminar, pedir disculpas, comunicado, difundir, expresar, asegurar, evitar, retirar, investigación, aclarar, comentario, ruptura, acuerdo, territorio).
+- Extracted B2 bridge words (meterse en un lío, polémica, redes sociales, viralizarse, gestionar, precisar, proceder de, reforzar, cuestionar, reclamar, garantías, enmarcarse, entidad, rechazo, precedente, directivo, derivar, vinculado, sensible, inalienable, tratamiento, fricción).
+- Identified Subjuntivo examples: "evitar que ... se repitan" (presente after prevention verb) and "después de que ... se viralizara" (imperfecto after temporal conjunction).
+- Added Pretérito Indefinido examples from the article (eliminó, pidió, difundió, expresó, aseguró, adoptó, retiró, indicó, precisó, cuestionaron, reclamaron).
+
+# log.md
 
 ## [2026-04-19] ingest | Vokabeln.md
 Processed a vocabulary list based on the article "Rebajas para Lewandowski".
