@@ -105,6 +105,10 @@ De [[Noticias]]:
 - `Es una lástima que no pueda venir.`  
   Es ist schade, dass er nicht kommen kann.
 
+De [[El Barça se mete en un lío en China por una polémica foto en sus redes sociales]]:
+- `...adoptó medidas para evitar que incidentes similares se repitan.`  
+  Er hat Maßnahmen ergriffen, um zu verhindern, dass sich ähnliche Vorfälle wiederholen.
+
 De [[Última hora de la guerra]]:
 - `Teherán advierte de que solo lo levantará cuando Estados Unidos desista de su bloqueo.`  
   Teheran warnt, dass es die Maßnahme erst aufheben wird, wenn die USA von ihrer Blockade ablassen.
@@ -117,6 +121,10 @@ De [[Última hora de la guerra]]:
   Es war vorgesehen, dass heute eine US-Delegation ankommen würde.
 - `Le bastó con señalar zonas de peligro sin que tuviera que admitirlo.`  
   Es reichte ihm, Gefahrenzonen auszuweisen, ohne dass er es zugeben musste.
+
+De [[El Barça se mete en un lío en China por una polémica foto en sus redes sociales]]:
+- `...después de que la imagen se viralizara entre internautas chinos.`  
+  Nachdem das Bild unter chinesischen Internetnutzern viral gegangen war.
 
 De [[Subjuntivo – Wikipedia]]:
 - `No creo que mañana llueva.`  

@@ -45,6 +45,14 @@ Welche Form passt? `Lo haré antes de que ___.` / Gegenbeispiel: `Lo hice antes 
 <!--ID: 1776813638746-->
 
 
+Welche Form passt? `Adoptó medidas para evitar que incidentes similares ___.` / Gegenbeispiel: `Sabe que incidentes similares ___ a veces.` :: se repitan / se repiten<br>Verhinderung / Prävention -> subjuntivo. Bekannte Tatsache -> indicativo. [[El Barça se mete en un lío en China por una polémica foto en sus redes sociales]]
+<!--ID: 1776813638829-->
+
+
+Welche Form passt? `Después de que la imagen ___ entre internautas chinos, pidió disculpas.` / Gegenbeispiel: `Después de que la imagen ___ , todo el mundo la vio.` :: se viralizara / se viralizó<br>Antezedenz im Nebensatz mit emotionaler/subjektiver Sicht -> subjuntivo. Berichtete, abgeschlossene Vergangenheit -> indicativo. [[El Barça se mete en un lío en China por una polémica foto en sus redes sociales]]
+<!--ID: 1776813638830-->
+
+
 Welche Form steht bei `ojalá` für einen noch möglichen Wunsch? :: presente de subjuntivo<br>Ej.: `Ojalá apruebe el examen.`
 <!--ID: 1776813638747-->
 

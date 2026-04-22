@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/index.md",
+                "file": "Karteikarten/Vokabeln/Deporte-y-Negocios.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Deporte-y-Negocios"
             }
           }
         ]
@@ -197,6 +197,13 @@
   },
   "active": "059cb21b8fa162e2",
   "lastOpenFiles": [
+    "Karteikarten/Vokabeln/Redes-y-Controversia.md",
+    "Karteikarten/Vokabeln/Guerra-y-Geopolitica.md",
+    "Karteikarten/Vokabeln/Noticias-y-Politica.md",
+    "Karteikarten/Vokabeln/Deporte-y-Negocios.md",
+    "Karteikarten/Grammatik/Subjuntivo.md",
+    "Karteikarten/Grammatik/Basiszeiten.md",
+    "wiki/index.md",
     "raw/El Barça se mete en un lío en China por una polémica foto en sus redes sociales.md",
     "wiki/vocabulary/Redes-y-Controversia.md",
     "wiki/vocabulary/Noticias-y-Politica.md",
@@ -204,13 +211,7 @@
     "wiki/vocabulary/Deporte-y-Negocios.md",
     "raw/Noticias.md",
     "wiki/log.md",
-    "wiki/index.md",
     "Última hora de la guerra.md",
-    "Karteikarten/Grammatik/Basiszeiten.md",
-    "Karteikarten/Grammatik/Subjuntivo.md",
-    "Karteikarten/Vokabeln/Deporte-y-Negocios.md",
-    "Karteikarten/Vokabeln/Guerra-y-Geopolitica.md",
-    "Karteikarten/Vokabeln/Noticias-y-Politica.md",
     "Codex.md",
     "WIKI_SCHEMA.md",
     "raw/Vokabeln.md",
@@ -223,7 +224,6 @@
     "wiki/grammar/Presente.md",
     "wiki/grammar/Subjuntivo.md",
     "wiki/grammar/Preterito Perfecto.md",
-    "wiki/grammar/Preterito-Indefinido.md",
     "copilot/copilot-conversations",
     "copilot/copilot-custom-prompts",
     "copilot",
