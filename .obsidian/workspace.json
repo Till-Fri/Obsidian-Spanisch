@@ -11,14 +11,10 @@
             "id": "059cb21b8fa162e2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "raw/Rebajas para Lewandowski.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Rebajas para Lewandowski"
+              "title": "Neuer Tab"
             }
           }
         ]
@@ -94,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/grammar/Subjuntivo.md",
+                "file": "wiki/vocabulary/Sports-and-Business.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise auf Subjuntivo"
+              "title": "Rückverweise auf Sports-and-Business"
             }
           },
           {
@@ -171,11 +167,12 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -184,6 +181,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
       "switcher:Schnellauswahl öffnen": false,
       "graph:Graph-Ansicht öffnen": false,
       "canvas:Neuen Canvas erstellen": false,
@@ -191,39 +189,41 @@
       "templates:Vorlage einfügen": false,
       "command-palette:Befehlspalette öffnen": false,
       "bases:Neue Base erstellen": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "6d01f5724b477a3c",
   "lastOpenFiles": [
-    "Karteikarten/Vokabeln/Deporte-y-Negocios.md",
-    "raw/Última hora de la guerra.md",
-    "Karteikarten/Vokabeln/Redes-y-Controversia.md",
-    "Karteikarten/Vokabeln/Guerra-y-Geopolitica.md",
-    "Karteikarten/Vokabeln/Noticias-y-Politica.md",
-    "Karteikarten/Grammatik/Subjuntivo.md",
-    "Karteikarten/Grammatik/Basiszeiten.md",
-    "wiki/index.md",
-    "raw/El Barça se mete en un lío en China por una polémica foto en sus redes sociales.md",
     "wiki/vocabulary/Redes-y-Controversia.md",
     "wiki/vocabulary/Noticias-y-Politica.md",
     "wiki/vocabulary/Guerra-y-Geopolitica.md",
     "wiki/vocabulary/Deporte-y-Negocios.md",
-    "raw/Noticias.md",
-    "wiki/log.md",
-    "Última hora de la guerra.md",
-    "Codex.md",
-    "WIKI_SCHEMA.md",
-    "raw/Vokabeln.md",
+    "wiki/grammar/Subjuntivo.md",
+    "raw/Última hora de la guerra.md",
     "raw/Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo  Irán ataca con drones a buques militares de Estados Unidos, al que acusa de romper el alto el fuego.md",
+    "raw/Vokabeln.md",
     "raw/Subjuntivo – Wikipedia.md",
     "raw/Rebajas para Lewandowski.md",
-    "raw/incoming/Subjuntivo – Wikipedia.md",
-    "raw/incoming/Links.md",
-    "raw/incoming/Clippings",
+    "raw/Noticias.md",
+    "raw/El Barça se mete en un lío en China por una polémica foto en sus redes sociales.md",
+    "Karteikarten/Vokabeln/Redes-y-Controversia.md",
+    "Karteikarten/Vokabeln/Noticias-y-Politica.md",
+    "Karteikarten/Vokabeln/Guerra-y-Geopolitica.md",
+    "Karteikarten/Vokabeln/Deporte-y-Negocios.md",
+    "Karteikarten/Grammatik/Subjuntivo.md",
+    "Karteikarten/Grammatik/Basiszeiten.md",
+    "Karteikarten/Vokabeln",
+    "Karteikarten/index.md",
+    "Karteikarten/Grammatik",
+    "Karteikarten",
+    "Codex.md",
+    "raw/incoming/Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo  Irán ataca con drones a buques militares de Estados Unidos, al que acusa de romper el alto el fuego.md",
+    "raw/incoming/Noticias.md",
+    "wiki/vocabulary/News-and-Politics.md",
+    "wiki/index.md",
+    "wiki/grammar/Preterito-Indefinido.md",
     "wiki/grammar/Presente.md",
-    "wiki/grammar/Subjuntivo.md",
+    "raw/incoming/Clippings",
     "copilot/copilot-conversations",
     "copilot/copilot-custom-prompts",
     "copilot",
