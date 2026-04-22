@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/log.md",
+                "file": "wiki/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "log"
+              "title": "index"
             }
           }
         ]
@@ -195,8 +195,10 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "6d01f5724b477a3c",
+  "active": "059cb21b8fa162e2",
   "lastOpenFiles": [
+    "wiki/log.md",
+    "wiki/vocabulary/Redes-y-Controversia.md",
     "raw/El Barça se mete en un lío en China por una polémica foto en sus redes sociales.md",
     "Karteikarten/Grammatik/Basiszeiten.md",
     "Karteikarten/Grammatik/Subjuntivo.md",
@@ -222,8 +224,6 @@
     "wiki/grammar/Preterito-Indefinido.md",
     "raw/archive/Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo  Irán ataca con drones a buques militares de Estados Unidos, al que acusa de romper el alto el fuego.md",
     "wiki/vocabulary/War-and-Geopolitics.md",
-    "wiki/vocabulary/Sports-and-Business.md",
-    "wiki/vocabulary/News-and-Politics.md",
     "copilot/copilot-conversations",
     "copilot/copilot-custom-prompts",
     "copilot",

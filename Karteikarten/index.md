@@ -10,3 +10,4 @@ Nur dieser Ordner wird nach Anki exportiert.
 - [[Karteikarten/Vokabeln/Deporte-y-Negocios]]
 - [[Karteikarten/Vokabeln/Noticias-y-Politica]]
 - [[Karteikarten/Vokabeln/Guerra-y-Geopolitica]]
+- [[Karteikarten/Vokabeln/Redes-y-Controversia]]
