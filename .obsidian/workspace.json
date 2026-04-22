@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "raw/incoming/Noticias.md",
+                "file": "raw/Rebajas para Lewandowski.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Noticias"
+              "title": "Rebajas para Lewandowski"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/vocabulary/Sports-and-Business.md",
+                "file": "wiki/grammar/Subjuntivo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise auf Sports-and-Business"
+              "title": "Rückverweise auf Subjuntivo"
             }
           },
           {
@@ -171,12 +171,11 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -185,7 +184,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
       "switcher:Schnellauswahl öffnen": false,
       "graph:Graph-Ansicht öffnen": false,
       "canvas:Neuen Canvas erstellen": false,
@@ -193,39 +191,40 @@
       "templates:Vorlage einfügen": false,
       "command-palette:Befehlspalette öffnen": false,
       "bases:Neue Base erstellen": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
   "active": "6d01f5724b477a3c",
   "lastOpenFiles": [
-    "raw/incoming/Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo  Irán ataca con drones a buques militares de Estados Unidos, al que acusa de romper el alto el fuego.md",
-    "raw/incoming/Noticias.md",
-    "wiki/vocabulary/News-and-Politics.md",
+    "Karteikarten/Vokabeln/Deporte-y-Negocios.md",
+    "raw/Última hora de la guerra.md",
+    "Karteikarten/Vokabeln/Redes-y-Controversia.md",
+    "Karteikarten/Vokabeln/Guerra-y-Geopolitica.md",
+    "Karteikarten/Vokabeln/Noticias-y-Politica.md",
+    "Karteikarten/Grammatik/Subjuntivo.md",
+    "Karteikarten/Grammatik/Basiszeiten.md",
     "wiki/index.md",
-    "wiki/grammar/Preterito-Indefinido.md",
-    "wiki/grammar/Presente.md",
-    "raw/incoming/Clippings",
-    "wiki/grammar/Preterito Perfecto.md",
-    "raw/archive/Rebajas para Lewandowski.md",
-    "WIKI_SCHEMA.md",
-    "wiki/vocabulary/Sports-and-Business.md",
-    "wiki/test.md",
+    "raw/El Barça se mete en un lío en China por una polémica foto en sus redes sociales.md",
+    "wiki/vocabulary/Redes-y-Controversia.md",
+    "wiki/vocabulary/Noticias-y-Politica.md",
+    "wiki/vocabulary/Guerra-y-Geopolitica.md",
+    "wiki/vocabulary/Deporte-y-Negocios.md",
+    "raw/Noticias.md",
     "wiki/log.md",
-    "copilot/copilot-conversations/hi@20260420_004154.md",
-    "copilot/copilot-conversations/hi@20260420_003411.md",
+    "Última hora de la guerra.md",
+    "Codex.md",
+    "WIKI_SCHEMA.md",
+    "raw/Vokabeln.md",
+    "raw/Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo  Irán ataca con drones a buques militares de Estados Unidos, al que acusa de romper el alto el fuego.md",
+    "raw/Subjuntivo – Wikipedia.md",
+    "raw/Rebajas para Lewandowski.md",
+    "raw/incoming/Subjuntivo – Wikipedia.md",
+    "raw/incoming/Links.md",
+    "raw/incoming/Clippings",
+    "wiki/grammar/Presente.md",
+    "wiki/grammar/Subjuntivo.md",
     "copilot/copilot-conversations",
-    "copilot/copilot-custom-prompts/Clip Web Page.md",
-    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
-    "copilot/copilot-custom-prompts/Remove URLs.md",
-    "copilot/copilot-custom-prompts/Generate glossary.md",
-    "copilot/copilot-custom-prompts/Generate table of contents.md",
-    "copilot/copilot-custom-prompts/Make longer.md",
-    "copilot/copilot-custom-prompts/Make shorter.md",
-    "copilot/copilot-custom-prompts/Emojify.md",
-    "copilot/copilot-custom-prompts/Explain like I am 5.md",
-    "copilot/copilot-custom-prompts/Simplify.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "raw/incoming/Clippings",

@@ -40,9 +40,12 @@
       "wiki": "",
       "raw/archive": "",
       "raw/incoming": "",
-      "wiki/grammar": "Spanisch::Grammatik Obsidian",
-      "wiki/vocabulary": "Spanisch::Vokabeln Obsidian",
-      "wiki/entities": ""
+      "wiki/grammar": "",
+      "wiki/vocabulary": "",
+      "wiki/entities": "",
+      "Karteikarten": "",
+      "Karteikarten/Grammatik": "Spanisch::Grammatik-Obsidian",
+      "Karteikarten/Vokabeln": "Spanisch::Vokabeln-Obsidian"
     },
     "FOLDER_TAGS": {
       "raw": "",
@@ -51,7 +54,10 @@
       "raw/incoming": "",
       "wiki/grammar": "",
       "wiki/vocabulary": "",
-      "wiki/entities": ""
+      "wiki/entities": "",
+      "Karteikarten": "",
+      "Karteikarten/Grammatik": "",
+      "Karteikarten/Vokabeln": ""
     },
     "Syntax": {
       "Begin Note": "START",
@@ -64,9 +70,9 @@
       "Frozen Fields Line": "FROZEN"
     },
     "Defaults": {
-      "Scan Directory": "/wiki",
+      "Scan Directory": "/Karteikarten",
       "Tag": "Obsidian_to_Anki",
-      "Deck": "Spanisch-Obsidian",
+      "Deck": "Spanisch::Karteikarten",
       "Scheduling Interval": 0,
       "Add File Link": false,
       "Add Context": false,
@@ -81,15 +87,35 @@
   },
   "Added Media": [],
   "File Hashes": {
-    "wiki/index.md": "5535d6e9f7e9b95f7ca4d9f12ba48baa",
-    "wiki/vocabulary/Sports-and-Business.md": "a210cb13cf4b13b7729e8c86da11740e",
-    "wiki/log.md": "ad8f721517aa984ce08d1b00c7c9e8e5",
-    "wiki/grammar/Preterito Perfecto.md": "b6f81ed4a59d0cc5c38cb776e9b756bd",
-    "wiki/grammar/Presente.md": "c57dd7ccc029e1d6a9c17f70bdcac1ff",
-    "WIKI_SCHEMA.md": "c70c210f5a82ec3dc0c98f8e0e116723",
+    "wiki/index.md": "62d8a62671e90f0db3078f8c9da1a328",
+    "wiki/vocabulary/Sports-and-Business.md": "fe0b4d1ff2d06c8cf56102c2a1ebe717",
+    "wiki/log.md": "4727b58fa4ec215b85d091fd4576891f",
+    "wiki/grammar/Preterito Perfecto.md": "47440b8ec9c7b2a5607eba7b0949f5b2",
+    "wiki/grammar/Presente.md": "44d83053bb4edbefc7253b08f894edda",
+    "WIKI_SCHEMA.md": "0f7341098d77abb68a0da0356d378cff",
     "raw/archive/Vokabeln.md": "2996a1d2f9b464291c6bf8cb687a6d8a",
-    "raw/archive/Rebajas para Lewandowski.md": "3d9cf4a6e730ef3cc3a459004e92fb09",
-    "wiki/test.md": "7c4d910c75f4a0f417d306cd1b7c35e3"
+    "raw/archive/Rebajas para Lewandowski.md": "6c72f96bf42688fd32df1099041f6804",
+    "wiki/test.md": "7c4d910c75f4a0f417d306cd1b7c35e3",
+    "wiki/vocabulary/News-and-Politics.md": "a0f555276012a3448cff39571fb69612",
+    "wiki/grammar/Preterito-Indefinido.md": "d7172f6b6ba062c7450dcb3ae360964f",
+    "raw/incoming/Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo  Irán ataca con drones a buques militares de Estados Unidos, al que acusa de romper el alto el fuego.md": "1608ff6158265e0cc07e4bfc46c15196",
+    "raw/archive/Noticias.md": "b6a2bb0851e9946339837cdfac674483",
+    "Codex.md": "63bd090c93196a44354722ad6d3428f2",
+    "wiki/vocabulary/Guerra-y-Geopolitica.md": "a10e4abd05554d1d39bc44acff75cf5f",
+    "wiki/vocabulary/Deporte-y-Negocios.md": "9c36215278b285a473661636c103b75e",
+    "wiki/vocabulary/Noticias-y-Politica.md": "1aa20b08ba65db1b8671c0f452105456",
+    "wiki/grammar/Subjuntivo.md": "8d506ba49d79e18a0b823e3f0b19fa3c",
+    "raw/Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo  Irán ataca con drones a buques militares de Estados Unidos, al que acusa de romper el alto el fuego.md": "1608ff6158265e0cc07e4bfc46c15196",
+    "raw/Subjuntivo – Wikipedia.md": "25de23298fccd0830b4116baacba4544",
+    "raw/Vokabeln.md": "2996a1d2f9b464291c6bf8cb687a6d8a",
+    "raw/Noticias.md": "b6a2bb0851e9946339837cdfac674483",
+    "raw/Rebajas para Lewandowski.md": "6c72f96bf42688fd32df1099041f6804",
+    "Karteikarten/index.md": "82eb93d95a3ce65aae78f775ecbaf2ee",
+    "Karteikarten/Vokabeln/Guerra-y-Geopolitica.md": "6c0d3e2db9c04dae6d3d5cb7dbe0c0db",
+    "Karteikarten/Vokabeln/Deporte-y-Negocios.md": "820c70913e876a63eded719ce88d8b5a",
+    "Karteikarten/Vokabeln/Noticias-y-Politica.md": "e96bed1d95eacf2a286715de76bbacae",
+    "Karteikarten/Grammatik/Subjuntivo.md": "7b01cce102f54383bca5f646b44ce2e6",
+    "Karteikarten/Grammatik/Basiszeiten.md": "d126457f22637a254d8e5f5b90778356"
   },
   "fields_dict": {
     "B+R+hint on side 2": [

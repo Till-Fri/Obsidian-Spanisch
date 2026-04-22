@@ -1,17 +1,42 @@
-# Obsidian_to_Anki
-# pretérito indefinido (recap)
+# pretérito indefinido
 
-## regel
-pretérito indefinido :: Wird für abgeschlossene Handlungen in der Vergangenheit verwendet, die als einmalig, punktuell oder abgegrenzt wahrgenommen werden. Oft mit Zeitangaben wie "ayer", "la semana pasada", "en 2020".
+## uso principal
+El pretérito indefinido se usa para acciones:
+- terminadas
+- puntuales o delimitadas
+- vistas como cerradas dentro de un marco temporal ya acabado
 
-## anwendungsbeispiele (recaps)
-"El ministro asumió el cargo la semana pasada." :: Der Minister hat die Woche zuvor das Amt übernommen. [[Noticias]]
-"El proyecto rozó el éxito pero fracasó al final." :: Das Projekt streifte den Erfolg, scheiterte aber am Ende. [[Noticias]]
+Suele aparecer con marcadores como `ayer`, `la semana pasada`, `en 2020`, `anoche`.
 
-## konjugation (beispiel: asumir)
-yo asumí :: ich übernahm
-tú asumiste :: du übernahmst
-él/ella/usted asumió :: er/sie übernahm
-nosotros asumimos :: wir übernahmen
-vosotros asumisteis :: ihr übernahmt
-ellos/ellas/ustedes asumieron :: sie übernahmen
+## ejemplo base
+Verbo modelo: `asumir`
+
+- yo: `asumí`
+- tú: `asumiste`
+- él/ella/usted: `asumió`
+- nosotros: `asumimos`
+- vosotros: `asumisteis`
+- ellos/ellas/ustedes: `asumieron`
+
+## ejemplos de uso
+De [[Noticias]]:
+- `El ministro asumió el cargo la semana pasada.`  
+  Der Minister übernahm letzte Woche das Amt.
+- `El proyecto rozó el éxito pero fracasó al final.`  
+  Das Projekt streifte den Erfolg, scheiterte aber am Ende.
+
+De [[Última hora de la guerra]]:
+- `Así taponó durante siete semanas el paso del 20% del crudo mundial.`  
+  So blockierte er sieben Wochen lang den Durchgang von 20 % des weltweiten Rohöls.
+- `Emiratos Árabes Unidos pidió ayuda financiera a Estados Unidos.`  
+  Die Vereinigten Arabischen Emirate baten die USA um finanzielle Hilfe.
+
+De [[El Barça se mete en un lío en China por una polémica foto en sus redes sociales]]:
+- `El FC Barcelona eliminó una imagen en la que aparecía una bandera de Taiwán.`  
+  Der FC Barcelona löschte ein Bild, auf dem eine Taiwan-Flagge zu sehen war.
+- `El club pidió disculpas en China tras la polémica.`  
+  Der Klub entschuldigte sich in China nach der Kontroverse.
+
+## contraste rápido
+- [[Preterito Perfecto]]: pasado conectado con el presente
+- [[Presente]]: descripción actual o habitual
