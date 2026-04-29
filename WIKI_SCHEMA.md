@@ -12,6 +12,7 @@ La wiki es la capa de referencia. `Karteikarten/` es la capa de memorización.
 - **Objetivo:** B2.1
 - **Foco actual:** repaso de tiempos verbales, subjuntivo y expansión de vocabulario
 - **Lenguas de trabajo:** español + alemán
+- **Principio de producción:** para hablar español activamente, las tarjetas deben cubrir muchas palabras productivas y paradigmas verbales completos, no solo reglas aisladas.
 
 ## Capas
 1. **Capa raw (`/raw/`)**: fuentes originales e inmutables.
@@ -78,13 +79,14 @@ Solo `Karteikarten/` se exporta a Anki.
 
 Reglas:
 - las tarjetas están pensadas para aprendizaje humano, no para compresión máxima de información
-- añadir solo tarjetas de alto valor
-- preferir una sola idea por tarjeta
+- añadir tarjetas de alto valor y también tarjetas de cobertura amplia cuando sirvan para producción activa
+- preferir una sola unidad de aprendizaje por tarjeta; una unidad puede ser un contraste, un paradigma verbal completo o un bloque temático pequeño de vocabulario
 - priorizar tarjetas útiles para producción activa
 - añadir una frase breve como apoyo cuando mejore el recuerdo
 - evitar dividir una misma idea en varias tarjetas casi idénticas
 - usar contraste y contraejemplos cuando eso evite respuestas automáticas por patrón
 - no convertir automáticamente toda la wiki en tarjetas
+- cuando una fuente raw ya era una colección de flashcards antiguas, destilarla de forma ligeramente comprimida en `Karteikarten/` en vez de dejarla solo en la wiki
 
 #### Vocabulario
 - preguntar siempre en ambas direcciones:
@@ -94,11 +96,15 @@ Reglas:
 - preferir una traducción principal por tarjeta; si hace falta, incluir hasta 3 significados cercanos
 - si una palabra tiene varias acepciones, usar solo las que encajan con el ejemplo de la fuente o con el uso directamente relevante
 - evitar listas amplias de significados no relacionados
+- se permiten tarjetas agrupadas de vocabulario si las palabras comparten tema o función; como orientación, 6-10 entradas por tarjeta es una buena densidad
+- para tarjetas agrupadas, crear también la dirección inversa cuando sea útil para producción activa
 
 #### Gramática
 - preferir tarjetas de decisión, contraste y producción
 - si una regla se aprende mejor con oposición, incluir un contraejemplo en la misma tarjeta
 - evitar series largas de tarjetas que solo repitan "aquí va subjuntivo" sin contraste real
+- para verbos, preferir una tarjeta con el paradigma completo (`yo, tú, él/ella, nosotros, vosotros, ellos`) antes que seis tarjetas aisladas por persona
+- si un tiempo tiene muchos irregulares, agruparlos por patrón de raíz o cambio ortográfico
 
 ### 4. Índices
 - `wiki/index.md` = mapa de la capa de referencia
@@ -142,6 +148,7 @@ Contexto breve y enlace a la fuente.
   - gramática: `pregunta o pista en alemán :: forma o regla en español`
 - se puede añadir una línea breve de ejemplo con `<br>Ej.: ...`
 - para respuestas largas, listas, explicaciones o conjugaciones completas se puede usar formato multilínea `START ... END`
+- el formato multilínea es especialmente adecuado para paradigmas verbales completos y bloques de vocabulario comprimido
 - no poner comentarios HTML de ID de Anki manualmente fuera de `Karteikarten/`; esos IDs pertenecen a tarjetas exportables
 
 #### Plantilla de archivo de vocabulario (Karteikarten)
@@ -194,6 +201,20 @@ Back:
 - ellos/ellas/ustedes: forma
 
 Nota breve sobre uso o irregularidad.
+END
+```
+
+#### Plantilla de bloque de vocabulario comprimido (multilínea)
+```markdown
+START
+Basic
+Front: Tema: alemán -> español
+Back:
+- palabra alemana 1 -> palabra española 1
+- palabra alemana 2 -> palabra española 2
+- palabra alemana 3 -> palabra española 3
+
+Fuente o nota breve.
 END
 ```
 

@@ -9,12 +9,15 @@ Nur dieser Ordner wird nach Anki exportiert.
 - [[Karteikarten/Grammatik/Gerundio]]
 - [[Karteikarten/Grammatik/Imperativo]]
 - [[Karteikarten/Grammatik/Nominalizacion]]
+- [[Karteikarten/Grammatik/Paradigmen-Altbestand]]
 - [[Karteikarten/Grammatik/Por-Para-y-Ser-Estar]]
 - [[Karteikarten/Grammatik/Pronombres-y-Conectores]]
 - [[Karteikarten/Grammatik/Subjuntivo]]
 - [[Karteikarten/Grammatik/Tiempos-Avanzados]]
 
 ## Vokabeln
+- [[Karteikarten/Vokabeln/Altbestand-Verben-und-Muster]]
+- [[Karteikarten/Vokabeln/Altbestand-Wortschatz-Komprimiert]]
 - [[Karteikarten/Vokabeln/Deporte-y-Negocios]]
 - [[Karteikarten/Vokabeln/Emociones-y-Caracter]]
 - [[Karteikarten/Vokabeln/Expresiones-y-Locuciones]]
