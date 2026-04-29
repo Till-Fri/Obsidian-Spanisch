@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "macrodiscoteca",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -197,10 +197,10 @@
   },
   "active": "059cb21b8fa162e2",
   "lastOpenFiles": [
-    "Karteikarten/Vokabeln/Urbanismo-y-Permisos.md",
     "wiki/vocabulary/Urbanismo-y-Permisos.md",
-    "wiki/grammar/Ser-y-Estar.md",
     "raw/Vocab.md",
+    "Karteikarten/Vokabeln/Urbanismo-y-Permisos.md",
+    "wiki/grammar/Ser-y-Estar.md",
     "Unbenannt.base",
     "Karteikarten/Vokabeln/Altbestand-Wortschatz-Komprimiert.md",
     "Karteikarten/Vokabeln/Altbestand-Verben-und-Muster.md",

@@ -11,3 +11,9 @@ obras
 admitido
 expropiar
 aparcamiento
+volaración
+reportero
+opinión
+imán
+desarrollo
+apoyo
