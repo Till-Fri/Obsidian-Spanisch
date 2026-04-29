@@ -1,0 +1,38 @@
+- complejo /-a↔komplex, kompliziert
+- el relato↔der Bericht, die Erzählung
+- soler hacer algo↔gewohnt sein, etwas zu tun
+- emigrar a↔auswandern nach
+- volver↔wenden, umdrehen, umkehren
+- volver a casa↔Heimkehren
+- desempeñar↔ausführen, ausüben, einlösen
+- va situado↔befindet sich
+- situar↔stellen, legen, platzieren
+- concordar con↔übereinstimmen mit
+- el antecedente↔Das Bezugswort
+- aparecer↔erscheinen
+- el agujero↔Das Loch
+- la ausencia↔Die Abwesenheit
+- acabar en↔enden auf, enden mit
+- acabar con↔beenden
+- firmar↔unterschreiben
+- la igualdad↔Die Gleichheit
+- ocupar↔einnehmen, ausfüllen
+- por defecto↔Standardmäßig
+- cuyo / cuya↔dessen
+- explotar↔explodieren, platzen
+- revisar↔überprüfen
+- legar↔vererben, hinterlassen, entsenden
+- estallar↔platzen
+- descubrir↔entdecken, herausfinden, erfinden
+- alternar en↔sich abwechseln bei
+- reformar↔verbessern, reformieren
+- escaso↔gering, knapp, spärlich
+- culto (-a)↔gebildet, kultiviert
+- objetivo (-a)↔objektiv, sachlich
+- pasado mañana↔übermorgen
+- el despertador↔Der Wecker
+- estropear↔beschädigen, zerstören
+- estropearse↔kaputtgehen, sich verschlechtern, schlecht werden, verderben
+- despertar↔aufwachen, wecken
+- reírse↔lachen
+- 

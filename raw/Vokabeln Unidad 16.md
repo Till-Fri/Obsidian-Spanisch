@@ -1,0 +1,57 @@
+- pesar↔wiegen
+- a pesar de↔Trotz
+- caber↔(hinein) passen, Platz haben
+- colgar↔hängen an, aufhängen, posten
+- subir↔aufsteigen, ansteigen, hochladen
+- cargar↔hochladen, laden
+- descargar↔Herunterladen, münden, entladen
+- el enlace↔Der Link, die Verbindung
+- bajar↔hinuntergehen, herunterladen
+- establecer↔Etablieren, gründen, festlegen
+- abusivo↔missbräuchlich
+- el inconveniente↔der Nachteil
+- el alumno→der Schüler
+- expuesto↔exponiert
+- exponer↔vorstellen, darlegen, ausstellen
+- la precaución↔Die Vorsicht
+- evitar↔vermeiden
+- el acoso↔Verfolgung, Mobbing, Belästigung
+- difundir↔ausbreiten, ausschütten
+- adolescente↔Jugendlicher
+- el riesgo↔Risiko
+- la tasa↔die Einschätzung, die Rate
+- el dedo↔Der Finger
+- desbloquear↔entsperren
+- tratar↔behandeln, versuchen
+- se tratar de↔es handelt sich um, es geht um
+- separar↔trennen
+- dividir↔teilen
+- todavía↔noch
+- impulsivo↔impulsiv
+- surgir↔entstehen, auftauchen, auftreten
+- la cifra↔die Ziffer
+- cobrar↔erhalten, einnehmen
+- el negocio↔Das Geschäft
+- el embajador↔der Botschafter
+- demostrar↔beweisen, belegen
+- el ámbito↔der Bereich, der Umkreis
+- fiel↔treu
+- sportlich↔deportivo
+- el hábito↔die Gewohnheit
+- live↔en directo
+- idóneo↔geeignet
+- fijo /-a↔fest
+- permanecer↔bleiben
+- la enseñanza↔das Bildungswesen
+- pertenecer a↔gehören zu
+- la plantilla↔die Belegschaft
+- trasladar + a / de ... a↔verlegen, übertragen, bewegen nach / von... nach
+- sufrir↔leiden, erleiden
+- el sueldo↔das Gehalt, der Lohn
+- el ánimo↔das Gemüt
+- agradecer↔danken
+- asegurar↔festmachen, sichern, versichern
+- contar↔zählen, erzählen
+- Pero no tiene por qué ser así.↔Aber es muss nicht so sein.
+- la paradoja↔das Paradox
+- 

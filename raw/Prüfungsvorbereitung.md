@@ -1,0 +1,6 @@
+- Text Part lernen:
+    - Texte selber Schreiben und mit ChatGPT korrigieren lassen
+- Auditive Part lernen:
+    - Ted Talks anhören und zusammenfassen, nicht verstandenes Vokabular mitaufnehmen
+- SprechPart lernen:
+    - Videos aufnehmen, wie ich über die Themen der Lektionen rede, jede behandelte Lektion einmal 15 Minuten drüber reden und anschauen und verbessern

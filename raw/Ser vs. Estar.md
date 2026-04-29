@@ -1,0 +1,27 @@
+- Was ist der grundlegende Unterschied zwischen ser und estar? >>>
+    - ser wird verwendet um zu definieren „was etwas (grundsätzlich) ist“  
+    - estar wird benutzt um zu beschreiben „wie/wo etwas (gerade) ist“  
+- Wann benutzt man ser? >>>
+    - um die Identität & Herkunft zu beschreiben
+    - um Charaktereigenschaften, Verwandtschaft & Physis zu beschreiben
+    - Um Objekte zu beschreiben (Form und Größe, Material, Besitz)
+    - Um die Zeit / Datum / Wochentag zu sagen
+    - Um über den Ort von Ereignissen zu sprechen
+- Wann benutzt man estar? >>>
+    - Um vorübergehende Emotionen oder physische Zustände zu beschreiben
+    - um das Ergebnis eines Prozesses/ einer Handlung zu beschreiben
+    - Um anzugeben wo sich Personen oder Dinge physisch befinden
+    - Bewertung (Essen)
+- Wann ist es unklar? >>>
+    - Bei Familienstand kann man sowohl ser und estar benutzten, aber estar wird häufiger benutzt
+        - estar soltero
+    - Um seinen Beruf zu sagen benutzt man normalerweise ser, wenn aber über seine aktuelle Tätigkeit spricht nutzt man estar de 
+        - "Estoy de camarero en un bar" (Ich arbeite gerade als Kellner in einer Bar)  
+- Bedeutungswechsel:
+    - ser aburrido / estar aburrido↔langweilig sein / sich langweilen 
+    - ser rico / estar rico↔reich sein / lecker sein
+- Estar + Participios >>>
+    - In Spanisch wird „estar“ mit dem Partizip verwendet, um das Passiv zu bilden. Beispiel: „El libro está escrito“ bedeutet „Das Buch ist geschrieben worden“.
+    - Lola está estresada ⇒ Lola ist gestresst
+- 
+- 

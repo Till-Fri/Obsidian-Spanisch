@@ -1,0 +1,21 @@
+- la sátira↔die Satire
+- el humor absurdo↔Der absurde Humor
+- la critica social↔die Sozialkritik
+- el diario↔das Tagebuch
+- la narración en primera persona↔Erzählung in der ersten Person
+- el extraterrestre↔der Außerirdischer
+- la búsqueda↔die Suche
+- cambiar de apariencia↔das Aussehen ändern
+- perderse↔sich verirren
+- la sociedad de consumo↔Die Konsumgesellschaft
+- las costumbres locales↔Die lokalen Bräuche
+- la incomprensión↔Das Unverständnis
+- el alienígena↔Der Außerirdische
+- el alien↔das Alien
+- la parodia↔die Parodie
+- disfrazarse de↔sich verkleiden als
+- la noticia↔die Nachricht
+- sin noticias de↔ohne Nachrichten von
+- la obra↔das Werk
+- el premio↔der Preis
+- 

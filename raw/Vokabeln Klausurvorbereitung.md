@@ -1,0 +1,162 @@
+- recuperar↔wiederherstellen, wiederbekommen, zurückerhalten
+- espantar↔erschrecken, entsetzen, verscheuchen
+- espantado↔entsetzt, erschreckt
+- la ocupacion↔Die Beschäftigung, die Besetzung
+- el vestíbulo↔Die Lobby, das Foyer
+- asaltar↔überfallen, stürmen, überrumpeln
+- el vecino↔der Nachbar, der Einwohner (bei Nachrichten oder ähnlichen)
+- el alojamiento↔die Unterkunft, die Berherbergung
+- sostener↔stützen, halten, behaupten, vertreten
+- asequible↔erschwinglich, bezahlbar
+- la seta↔der Pilz
+- el aparato↔das Gerät
+- servir↔nützen, hilfreich sein, dienen
+- sacar↔(heraus)nehmen, ziehen, herausbekommen
+- gordo (-a)↔dick, fett
+- acudir↔hingehen, aufsuchen, kommen
+- los paraguas↔Der Regenschirm
+- rural↔ländlich
+- el correo↔die Post
+- aéro (-a)↔luftig, Luft-, leicht
+- por fortuna↔zum Glück, Glücklicherweise
+- por suerte↔zum Glück, Glücklicherweise
+- por desgracia↔leider
+- rellenar↔ausfüllen, auffüllen, füllen
+- enamorarse (de alguien)↔sich in jemanden verlieben
+- extraordinario↔außergewöhnlich, außerordentlich, gewöhnlich
+- entender↔verstehen, begreifen
+- entender de↔Ahnung haben, sich gut auskennen
+- casarse con↔sich verheiraten mit
+- cazar↔jagen
+- brindar por↔(Getränke) anstoßen auf, zuprosten
+- los novios↔das feste Paar, Verlobten, Brautpaar
+- los invitados↔die Gäste
+- el jardinero↔der Gärtner
+- conformarse con algo↔Sich mit etwas zufriedengeben, abfinden
+- conformar↔bilden, formen
+- estar conformado por algo↔aus etwas bestehen
+- nacer↔geboren werden
+- reservar↔reservieren, buchen, aufsparen, aufheben
+- el sótano↔der Keller, das Untergeschoss
+- llenar↔füllen, vollmachen
+- esforzarse↔sich anstrengen, sich bemühen
+- el asunto↔die Angelegenheit, der Betreff, die Sache
+- pensar de; pensar en↔denken von/über; denken an
+- pasar por↔vorbeikommen, durchqueren, durchmachen
+- salir↔hinausgehen, verlassen, ausgehen (Freunde/Dates), abfahren
+- constar de↔bestehen aus
+- el edeficio↔das Gebäude
+- involucrar↔involvieren, beteiligen, miteinbeziehen
+- la granja↔Der Bauernhof, die Farm
+- la agricultura↔Die Landwirtschaft
+- la costumbre↔Die Gewohnheit, der Brauch
+- empaquetar↔einpacken, verpacken 
+- desempaquetar↔auspacken
+- rociar↔sprühen, besprühen
+- la pared↔die Wand, die Mauer
+- apilar↔stapeln, aufschichten
+- incorporar↔beinhalten, integrieren oder einbeziehen
+- la cosecha↔die Ernte
+- albergar↔beherbergen, beheimaten, Platz bieten für
+- la población↔die Bevölkerung
+- Impredecible↔unvorhersehbar, unberechenbar
+- amenazar↔bedrohen, gefährden
+- la disponibilidad↔Die Verfügbarkeit
+- la mitad↔die Hälfte
+- enfermar↔krank werden, krank machen
+- el ocupante↔der Bewohner
+- acercar↔nähern, heranrücken
+- acercarse↔sich nähern
+- notablemente↔bemerkenswert, deutlich, erheblich
+- a mediados de...↔In der Mitte von…, Mitte des...
+- alimentar↔ernähren, füttern
+- la cadena↔die Kette
+- sumamente↔äußerst, höchst, überaus
+- la clave↔der Schlüssel
+- clave↔Schlüssel-, entscheidend
+- resumir↔zusammenfassen
+- saltar↔springen
+- resaltar↔hervorheben, betonen, auffallen
+- vanguardista↔modern
+- oculta↔versteckt, verheimlicht
+- el escéptico↔der Skeptiker
+- suplantar↔verdrängen, ersetzen, den Platz einnehmen von
+- suponer↔annehmen, vermuten, bedeuten
+- abrir↔öffnen
+- bauen↔Construir
+- avanzar (hacia/ en)↔vorankommen, fortschreiten, voranschreiten
+- equitativo↔gerecht, fair, ausgewogen
+- enumerar↔aufzählen, auflisten
+- sopesar↔abwägen
+- la comprensión↔das Verständnis
+- comprender↔verstehen, begreifen
+- la destreza↔die Fertigkeit, die Fähigkeit, die Geschicklichkeit
+- pretender algo↔vorhaben, beabsichtigen, versuchen
+- contener↔beinhalten, entahlten
+- repercutir↔auswirken, betreffen, beeinflussen
+- el gasto↔die Kosten, die Ausgabe, der Verbrauch
+- juzgar↔urteilen, richten
+- saltar↔springen
+- peculiar↔besonders, eigen
+- el cepillo↔die Bürste
+- la manguera↔Der Schlauch
+- lanzar↔werfen
+- teñirse↔sich färben
+- cubrirse↔sich bedecken
+- resbalar↔ausrutschen, rutschen
+- arrastrar↔ziehen, schleppen, mitreißen
+- enfocar↔fokussieren
+- picar↔brennen, jucken / stechen, beißen, picken
+- sonar↔(er)klingen, ertönen, lauten, klingeln
+- insólito↔ungewöhnlich
+- batalla campal↔Feldschlacht
+- cargado↔beladen
+- untado↔bestrichen, beschmiert, betrunken
+- ácido↔sauer
+- concejal↔Bezirksrat, Stadtrat
+- el ayuntamiento↔das Rathaus
+- la multitud↔die Menschenmenge
+- la grasa↔das Fett
+- la piedad↔das Mitleid, Erbamen
+- el petardo↔der Knaller, Böller
+- la multa↔die Geldstrafe
+- el palo↔der Stock
+- el camión↔der Laster, der Lastwagen
+- echar↔werfen, schütten, gießen
+- coger↔nehmen, holen, fassen
+- colgado↔aufgehängt, geposted
+- el impetu↔die Heftigkeit, die Wucht, der Schwung
+- los productos de belleza↔Die Kosmetikprodukte
+- la máscara↔die Maske, Wimperntusche
+- la cocción↔das Kochen
+- batir↔schlagen, besiegen
+- espachurrar↔zerdrücken, zerquetschen
+- cegado por la cólera↔blind vor Wut
+- liarse↔sich verschlingen, rummachen / sich verheddern, sich verwickeln
+- respaldar↔unterstützen, decken
+- engordar↔zunehmen
+- absorbar↔aufnehmen, absorbieren
+- volcarse↔stürzen, umkippen
+- volcarse en / con↔sich voll einsetzen/widmen 
+- exaltada↔aufgeregt, leidenschaftlich
+- imparable↔unaufhaltsam
+- comprometido↔riskant, heikel
+- estadounidense↔US Amerikaner
+- crudo (-a)↔roh
+- provenir de↔herkommen von, stammen aus
+- emplear algo / a alguien↔etwas verwenden, benutzen / jemanden anstellen
+- el comienzo↔der Anfang
+- arrepentirse de algo↔etwas bereuen
+- confundir↔verwechseln, vertauschen, durcheinandergehen
+- confundirse↔sich irren, sich täuschen
+- cansarse de algo↔etwas überdrüssig sein, müde sein von etwas
+- convertirse en algo↔sich in etwas verwandeln
+- darse cuenta de algo↔etwas bemerken, wahrnehmen
+- decidir algo↔etwas entschließen, etwas entscheiden
+- disfrazarse de↔sich verkleiden als
+- encontrar↔finden
+- encontrarse mit↔treffen mit
+- enfadarse con alguien / por algo↔auf jemanden sauer sein, sich wegen/über etwas ärgern
+- olvidarse de algo/alguien↔jemanden / etwas vergessen
+- sentarse / sentarse en algo↔sich hinsetzten / sich auf etwas setzen, sich in etwas setzen
+- 

@@ -1,0 +1,46 @@
+- pues↔also, nun. naja. tja, eben, weil
+- platicar↔Sich unterhalten, reden über
+- Hasta hace poco↔Bis vor Kurzem
+- diario↔täglich
+- ¿Soy capaz?↔Bin ich fähig?
+- ya ni siquiera↔Nicht einmal mehr
+- Y ¿cómo lo iba a hacer si mis profesores me hicieron creer que no era capaz y que lo que quería hacer no era relevante?↔Und wie sollte ich das tun, wenn meine Lehrer mich glauben ließen, dass ich nicht fähig sei und dass das, was ich tun wollte, nicht relevant sei?
+- Incluso mis compañeros me lo llegan a decir en algún momento↔Sogar meine Mitschüler sagen mir das irgendwann einmal
+- llegan a decir↔sie sagen sogar, sie gehen sogar soweit zu sagen
+- no los culpo↔Ich mache ihnen keine Vorwürfe
+- Ya ni siquiera lo preguntaba, lo afirmaba.↔Er hat nicht einmal mehr danach gefragt, er hat es behauptet.
+- Pero en ese momento no me creía capaz de hacer lo que puedo hacer ahora.↔Aber damals dachte ich nicht, dass ich in der Lage wäre, das zu tun, was ich jetzt tun kann.
+- etiquetar↔etikettieren, taggen
+- se equivocan en algo/de algo↔sie irren sich beim (bspw. rechnen) / sich irren in (bspw. der Hausnummer)
+- como si te tuvieras que vestir de una forma adecuada↔als ob man sich richtig kleiden muss
+- rellenar un papel.↔einen Zettel ausfüllen.
+- Y esto es que nos presiona muchísimo a todos↔Und das setzt uns alle sehr unter Druck.
+- El rechazo↔die Zurückweisung, die Ablehnung (soziale Ausgrenzung)
+- El fracaso↔das  Versagen, Scheitern
+- ideó la teoría de las inteligencias múltiples↔hat die Theorie der multiplen Intelligenzen entwickelt
+- los gemelos↔Zwillinge
+- crecer↔aufwachsen
+- pero tal vez en esa fiesta este gemelo la pasó increíble↔aber vielleicht hatte dieser Zwilling auf dieser Party eine tolle Zeit
+- al revés↔andersherum
+- Nunca dejamos de aprender, pero creemos que los adultos ya aprendieron todo y por eso frenamos siempre a los jóvenes.↔Wir hören nie auf zu lernen, aber wir glauben, dass Erwachsene schon alles gelernt haben, und deshalb halten wir junge Menschen immer zurück.
+- la edad↔das Alter
+- sabía que la atacarían↔ich wusste, dass sie sie angreifen würden
+- merecer↔verdienen
+- el reconocimiento↔Anerkennung
+- los sueños↔Hoffnungen, Träume
+- exitoso↔erfolgreich
+- nos brinca un poquito↔es sticht uns ein bisschen ins Auge / fällt uns ein bisschen auf  
+- pensamos que esta persona ya debió de haber hecho absolutamente todo y debió de haber aprendido todo.↔Wir sind der Meinung, dass diese Person bereits alles getan haben sollte und alles gelernt haben sollte.
+- capaz↔fähig
+- Nos asusta mucho↔Das macht uns große Angst
+- señalar↔hinweisen, markieren
+- chistosa↔lustig, witzig
+- fiestero↔Partylöwe 
+- las capacidades↔Fähigkeiten, Kapazitäten
+- jamás↔niemals, jemals
+- salvar↔retten
+- voltear↔umdrehen, wenden, schwenken
+- mandar↔schicken,senden
+- ciencia↔Wissenschaft
+- “si juzgas a un pez por su habilidad para escalar un árbol, vivirá toda su vida pensando que es un inútil.”↔"Wenn man einen Fisch nach seiner Fähigkeit beurteilt, auf einen Baum zu klettern, wird er sein ganzes Leben lang denken, dass er nutzlos ist".
+- lo pasó increíble↔Er hatte ein tolle Zeit.

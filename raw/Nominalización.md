@@ -1,0 +1,44 @@
+- --------------------- Portal ---------------------Verbo
+    - explotar, proteger, revisar #Verbo
+        - [sufijo](Nominalizaci%C3%B3n/Verbo/Verbo/sufijo.md) >>>
+            - -ción,
+            - -cción (mit cc, weil der Stamm auf g endet),
+            - -sión (mit s, da der stamm auf s endet)
+        - [sustantivo](Nominalizaci%C3%B3n/Verbo/Verbo/sustantivo.md);;la explotación, la protección, la revisión
+    - legar, llegar. estallar, salir #Verbo
+        - [sufijo](Nominalizaci%C3%B3n/Verbo/Verbo/sufijo.md) >>>
+            - -ado / -ada 
+            - -ido/-ida 
+        - [sustantivo](Nominalizaci%C3%B3n/Verbo/Verbo/sustantivo.md) >>>
+            - el legado, la llegada, 
+            - el estallido, la salida
+    - levantarse, descubrir #Verbo
+        - [sufijo](Nominalizaci%C3%B3n/Verbo/Verbo/sufijo.md);;-miento
+        - [sustantivo](Nominalizaci%C3%B3n/Verbo/Verbo/sustantivo.md);;el levantamiento, el descubrimiento
+    - resistir, existir, alternar #Verbo
+        - [sufijo](Nominalizaci%C3%B3n/Verbo/Verbo/sufijo.md);;-encia / -ancia
+        - [sustantivo](Nominalizaci%C3%B3n/Verbo/Verbo/sustantivo.md);;la resistencia, la existencia, la alternancia
+    - aumentar, desarrollar, exiliarse #Verbo
+        - [sufijo](Nominalizaci%C3%B3n/Verbo/Verbo/sufijo.md);;-o
+        - [sustantivo](Nominalizaci%C3%B3n/Verbo/Verbo/sustantivo.md);;el aumento, el desarrollo, el exilio
+    - matar, esperar #Verbo
+        - [sufijo](Nominalizaci%C3%B3n/Verbo/Verbo/sufijo.md);;-anza
+        - [sustantivo](Nominalizaci%C3%B3n/Verbo/Verbo/sustantivo.md);;la matanza, la esperanza
+    - luchar, firmar, reformar #Verbo
+        - [sufijo](Nominalizaci%C3%B3n/Verbo/Verbo/sufijo.md);;-a
+        - [sustantivo](Nominalizaci%C3%B3n/Verbo/Verbo/sustantivo.md);;la lucha, la firma, la reforma
+    - romper, leer, abrir #Verbo
+        - [sufijo](Nominalizaci%C3%B3n/Verbo/Verbo/sufijo.md);;-ura
+        - [sustantivo](Nominalizaci%C3%B3n/Verbo/Verbo/sustantivo.md);;la ruptura, la lectura, la apertura
+- 
+- --------------------- Portal ---------------------adjetivo
+    - rico, escaso #adjetivo
+        - [sufijo](Nominalizaci%C3%B3n/adjetivo/adjetivo/sufijo.md);;-ez / -eza
+        - [sustantivo](Nominalizaci%C3%B3n/adjetivo/adjetivo/sustantivo.md);;la escasez, la riqueza
+    - loco, culto #adjetivo
+        - [sufijo](Nominalizaci%C3%B3n/adjetivo/adjetivo/sufijo.md);;-ura
+        - [sustantivo](Nominalizaci%C3%B3n/adjetivo/adjetivo/sustantivo.md);;la locura, la cultura
+    - popular, objetivo #adjetivo
+        - [sufijo](Nominalizaci%C3%B3n/adjetivo/adjetivo/sufijo.md);;-idad
+        - [sustantivo](Nominalizaci%C3%B3n/adjetivo/adjetivo/sustantivo.md);;la popularidad, la objetividad
+- 

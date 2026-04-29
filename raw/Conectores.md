@@ -1,0 +1,41 @@
+- Conectores de causa y efecto >>>
+    - Porque↔Weil
+    - A causa de↔Wegen, Aufgrund von
+    - Por ello↔Deshalb, Deswegen
+    - Ya que↔Da, weil
+    - En consecuencia↔Folglich, Infolgedessen
+    - Puesto que↔Da, weil
+    - Debido a↔Wegen, aufgrund von, Dank
+    - Por eso↔Deshalb, Deswegen
+    - Por ende↔Somit, Ergo
+    - Por lo tanto↔Daher, Darum
+    - por lo cual→weshalb, weswegen
+- Conectores de oposicion >>>
+    - Pero↔Aber
+    - Por el contrario↔Im Gegenteil
+    - En cambio↔Andererseits, Hingegen, Dagegen
+    - No obstante↔Nichtsdestotrotz, Trotzdem
+    - Aunque↔Obwohl
+    - Sin embargo↔Dennoch, Jedoch
+    - A pesar de (que)↔Trotz, Obwohl
+    - Sino↔Sondern
+- Conectores de tiempo >>>
+    - Después (de)↔Nach, Danach
+    - Mientras↔Während
+    - Entretanto↔In der Zwischenzeit, Währenddessen
+    - Más tarde↔Später, Dann
+    - Luego↔Später, Dann
+    - Antes (de)↔Vor, Vorher
+    - Al principio↔Am Anfang
+    - Al final↔Am Ende
+    - Tan pronto como↔Sobald
+- Conectores de adición >>>
+    - Y / E↔Und
+    - Así mismo↔Ebenso, Ebenfalls
+    - También↔Auch
+    - Tampoco↔Auch nicht
+    - Por otro lado↔Andererseits
+    - Además↔Außerdem, Zudem
+    - Incluso↔Sogar
+- 
+- 

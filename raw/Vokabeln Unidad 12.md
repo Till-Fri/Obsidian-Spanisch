@@ -1,0 +1,51 @@
+- de aquello↔davon, dessen, von jenem, aus jenem ⇒ in der Vergangenheit, weit weg, ich möchte nicht davon erzählen ⇒ No quiero hablar de aquello
+- referirse↔sich beziehen, verweisen
+- acostarse↔sich hinlegen, ins Bett legen
+- recoger↔sammeln, aufheben, abholen
+- hay que↔man muss
+- conseguir↔erreichen, bekommen, schaffen
+- la prisa↔die Eile
+- aprovechar↔nutzen, profitieren
+- cumplir↔erfüllen, erreichen
+- cumplir con las fechas↔die Termine einhalten
+- ocupado↔beschäftigt
+- anotar citas↔Termine eintragen
+- imprescindible↔unerlässlich, unverzichtbar
+- cumplir↔erfüllen, erreichen
+- la obligacion↔die Verpflichtung
+- encima↔oben, obenauf, (außerdem)
+- el exceso↔Übermaß, Überschuss
+- provocar↔provozieren, verursachen
+- el rendimiento↔die Leistung, die Performance, der Ertrag
+- el ocio↔die Freizeit
+- los horarios media jornada↔Teilzeit-Arbeitszeiten
+- los empleos↔Arbeitsplätze, Jobs
+- compatibilizar↔vereinbaren
+- encajar↔passen, zusammenpassen
+- quejarse de / por↔sich über etwas beschweren / sich wegen etwas beschweren
+- afrontar↔sich (etwas) stellen, entgegentreten, bewältigen
+- la beca↔das Stipendium
+- el consejo↔der Ratschlag
+- lamentar↔bedauern
+- el deporte↔der Sport
+- sustituir↔ersetzen
+- negrita↔fett (Schrift)
+- el recurso↔die Ressource, das Mittel
+- El significado↔Bedeutung, Sinn
+- sana↔gesund
+- buscar↔suchen
+- lamentarse de↔sich beklagen über 
+- herir↔verletzen, verwunden, wehtun
+- romper↔Kaputt machen, (zer)brechen, zerreißen
+- proveer↔versorgen, liefern, beschaffen, ausstatten 
+- jornada↔Tag
+- el hogar↔Das Zuhause
+- avísame↔informiere mich
+- avisar↔benachrichtigen, Bescheid sagen
+- avisar de↔aufmerksam machen auf, hinweisen auf
+- el enunciado↔Aussage, Formulierung, Wortlaut, Satz
+- enunciar↔darlegen, formulieren
+- pagada↔geklebt
+- Hauptsatz↔oración principal
+- Nebensatz↔oración subordinada
+- acostumbrarse a algo↔sich an etw. gewöhnen 

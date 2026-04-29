@@ -1,0 +1,42 @@
+- engañoso↔(be)trügerisch
+- el conductor↔Leiter, Fahrer
+- la gallina↔das Huhn
+- el campo↔das Land, der Acker, das Feld
+- asomar↔zeigen, hinausstrecken
+- la cerilla↔das Streichholz
+- apreciar↔schätzen, achten, bewerten
+- manchar↔beflecken, beschmutzen
+- negruzco↔schwärzlich
+- la mancha↔Der Fleck
+- el polvo↔der Staub
+- ligero↔leicht, leise, locker
+- la capa↔Die Schicht
+- apagar↔ausmachen, auslöschen
+- unos instantes↔ein paar Augenblicke
+- ¡un instante**!**↔Ein Moment!
+- dormir como un tronco↔schlafen wie ein Stein  
+- el tronco↔Der Stamm, der Baumstamm
+- la cabaña↔Die Hütte
+- el paisaje↔die Landschaft
+- la loma↔Der Hügel
+- el valle↔Das Tal
+- nevado↔verschneit
+- cubierto↔bedeckt, abgedeckt
+- la nieve↔Der Schnee
+- soberbio↔Überheblich, prächtig, gewaltig
+- prudente↔vorsichtig
+- mentir↔lügen
+- autoengañarse↔Sich selbst täuschen
+- inconsciente↔Unbewusst
+- la pena↔Der Schmerz, das Leid, die Strafe
+- inundado↔überflutet
+- apelar a↔An etwas appellieren
+- el comportamiento↔Das Verhalten
+- basar sobre / en↔sich stützen auf, basieren auf
+- recordar a↔erinnern an
+- acordarse↔sich erinnern
+- resultar↔ergeben, sich herausstellen
+- atraer↔anziehen, anlocken
+- odiar↔hassen
+- odiar a algo a muerte↔etwas auf den Tod hassen.
+- 

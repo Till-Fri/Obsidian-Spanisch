@@ -1,0 +1,10 @@
+- A tiempo↔rechtzeitig, zeitig
+- Con tiempo↔rechtzeitig, vorzeitg
+- a su debido tiempo↔zu seiner Zeit, zu gegebener Zeit
+- ahorrar tiempo↔Zeit sparen
+- ganar tiempo↔Zeit gewinnen
+- aprovechar el tiempo↔Zeit nutzen
+- perder el tiempo↔Zeit verschwenden
+- matar el tiempo↔die Zeit totschlagen
+- Cuánto tiempo!↔Wie lange schon!
+- Hace tiempo que↔Es ist schon lange her, dass

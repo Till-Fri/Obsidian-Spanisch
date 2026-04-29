@@ -1,0 +1,125 @@
+- cotidiano↔täglich
+- justa↔gerecht
+- indiscriminado↔wahllos 
+- la tala↔Die Abholzung, das Fällen
+- talar↔fällen, abholzen
+- reivindicar↔einfordern, beanspruchen
+- pedir↔bitten, bestellen, verlangen
+- exigir↔fordern, verlangen
+- el aceite↔Öl
+- castigar a↔bestrafen
+- fomentar↔fördern, unterstützen, begünstigen
+- frenar↔bremsen
+- aumentar↔erhöhen, vergrößern
+- favorecer↔begünstigen, fördern, unterstützen
+- cuidar de↔pflegen, sich kümmern um
+- preservar↔bewahren, erhalten
+- la bolsa↔Tasche, Tüte
+- el cubo↔Würfel, Eimer
+- el comercio↔der Handel
+- el residuo↔der Abfall, die Rückstände
+- gastar↔ausgeben, verschwenden
+- el envasado↔die Verpackung
+- perjudicial↔schädlich
+- la ganadería↔Die Viehzucht
+- efecto invernadero↔Treibhauseffekt
+- la sequía↔die Dürre
+- ya que↔da
+- puesto que↔da
+- debido a↔bedingt durch, aufgrund von
+- de manera que↔so dass, damit
+- por lo tanto↔deshalb, daher, demnach
+- meter↔stecken, reinlegen
+- conseguido↔erreicht, erlangt, geschafft
+- andando↔zu Fuß
+- andar↔laufen, gehen
+- afirmar↔behaupten, sagen
+- la compra↔der Einkauf
+- desaparecer↔verschwinden, abschaffen
+- la huella↔der Abdruck, die Spur
+- medir↔messen
+- la superficie↔die Oberfläche
+- el desecho↔der Abfall
+- fijarse en↔achten auf, hinschauen
+- elaborar↔verarbeiten
+- elaborado↔verarbeitet
+- arreglar↔in Ordnung bringen, regeln
+- a granel↔unverpackt, lose
+- el envoltorio↔Verpackung
+- cometer un errror↔ein Fehler begehen
+- quedarse↔bleiben
+- pertenecer a↔zugehören
+- concienciarse de↔sich bewusst werden von
+- concienciarse de↔sich bewusst machen, überzeugen von
+- aún↔noch
+- preocupar↔beunruhigen, Sorgen machen
+- preocuparse por↔sich Sorgen machen um
+- invertir↔investieren
+- encogerse↔schrumpfen, sich zusammenziehen
+- reducirse↔Sich verringern
+- no se vende↔Wird nicht verkauft
+- el oxígeno↔Sauerstoff
+- el dióxido de carbono↔Kohlenstoffdioxid
+- guardar algo↔etwas speichern, etwas aufbewahren
+- el poso↔Der Bodensatz, das Sediment
+- posar↔posieren
+- cultivar algo↔Etwas anbauen, anpflanzen, kultivieren
+- el calentamiento global↔Die globale Erwärmung
+- remunerar↔Bezahlen, entlohnen
+- digno↔würdig
+- potenciar↔steigern, verbessern
+- vecinal↔Gemeinde-, Nachbarschaftlich
+- atentar contra↔verletzten, verstoßen gegen
+- soñar con alguien↔von etwas träumen
+- aparcar↔parken
+- está previsto que.. (+ Subjuntivo)↔es ist vorgesehen, dass
+- es frecuente que... (+Subjuntivo)↔es ist häufig, dass 
+- besar↔küssen
+- volar↔fliegen
+- pararse a/en←zum stehen kommen, stocken, stoppen, anhalten
+- aportar↔Beitragen, bringen
+- se debería↔Man sollte
+- Habría que↔Man müsste, es wäre notwendig
+- tendríamos que↔Wir müssten
+- se podría→man könnte
+- el comedor universitario↔Mensa
+- crear un ambiente agradable↔Eine angenehme Atmosphäre schaffen
+- agradable↔Angenehm, schön
+- alegrarse de↔Sich freuen über
+- Estoy de acuerdo↔Ich stimme zu
+- limitado↔Begrenzt
+- Recursos financieros↔Finanzielle Mittel
+- aplicable en la realidad↔In der Realität anwendbar
+- la responsabilidad↔Die Verantwortung
+- a cambio↔Im Gegenzug, im Austausch, als Gegenleistung
+- recibir↔erhalten, empfangen
+- utilizar de manera diferente↔unterschiedlich verwenden
+- fortalecer algo↔etwas stärken
+- la amistad↔Die Freundschaft
+- proporcionar algo↔etwas bereitstellen, zur Verfügung stellen
+- alquilar algo a alguien↔Jemandem etwas vermieten
+- diseñado↔entworfen
+- los gastos de suministro↔die Versorgungskosten
+- disponer↔verfügen
+- el comedor↔Esszimmer
+- apetecer↔Lust haben auf
+- la piscina↔Das Schwimmbad, das Schwimmbecken
+- la corriente↔Der Strom
+- la electricidad↔Die Elektrizität, der Strom 
+- Tengo miedo de↔Ich habe Angst vor
+- conocer algo / a alguien↔etw. / jmd. kennen, kennenlernen
+- las inquietudes↔Die Sorgen, Bedenken
+- abastecer↔versorgen
+- la guardería↔Der Kindergarten
+- la selva tropical↔Regenwald
+- afeitarse↔Sich rasieren
+- atacar a alguien↔jemanden angreifen
+- acordar↔vereinbaren
+- toser↔husten
+- charlar↔plaudern
+- recetar↔verschreiben, verordnen
+- volar↔fliegen
+- 
+- 
+- 
+- 

@@ -1,0 +1,21 @@
+- Wann benutzt man den Condicional? >>>
+    - Um Wünsche darzustellen ⇒ Me gustaría tener un huerto
+    - Um Meinung zu Handlungen und Verhaltensweisen zu äußern  
+    - Um über Imaginäre oder hypothetische Situationen zu erzählen
+    - Um zu Beraten, Empfehlungen zu äußern
+    - Um Vorschläge zu geben
+    - um eine Höfliche Bitte zu äußern
+- Verbos irregulares
+    - caber↔cabría
+    - decir↔diría
+    - haber↔habria
+    - hacer↔haría
+    - poder↔podría
+    - poner↔pondría
+    - querer↔querría
+    - saber↔sabría
+    - salir↔saldría
+    - tener↔tendría
+    - valer↔valdría
+    - venir↔vendría
+- 

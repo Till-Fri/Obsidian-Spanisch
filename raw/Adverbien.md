@@ -1,0 +1,19 @@
+- Wie bildet man Adverben?→weibliche Form des Adjektivs + mente
+- Was ist die Funktion von Adverbien und wann benutzt man sie? >>>
+    - Adverbien (auf -mente) beschreiben wie etwas getan wird. Sie beziehen sich also auf ein Verb, ein Adjektiv oder ein anderes Adverb, aber niemals auf ein Nomen.
+        - Hablar libremente (frei sprechen) – beschreibt das Sprechen.
+        - Trabajar individualmente (individuell arbeiten) – beschreibt das Arbeiten.
+    - Man nutzt sie immer dann, wenn man die Art und Weise einer Handlung ausdrücken willst.
+- Was passiert wenn man zwei Adverbien direkt hintereinander nutzt? >>>
+    - Wenn man zwei dieser Wörter direkt hintereinander benutzt, hängt man das -mente nur an das zweite Wort. Das erste Wort bleibt in der weiblichen Adjektivform stehen.
+        - Escribe clara y concisamente. (Er schreibt klar und prägnant.) (Nicht: clarmente y concisamente)
+- Wie wird die Alternative zu Adverbien gebildet? >>>
+    - Spanier ersetzen sie im Alltag häufig durch con (mit) + ein Substantiv:
+    - perfectamente ⇒con perfección
+    - rápidamente ⇒ con rapidez
+    - cuidadosamente ⇒ con cuidado 
+- normalmente↔normalerweise 
+- finalmente↔schließlich / endlich 
+- recientemente↔kürzlich 
+- especialmente↔besonders
+- claramente↔deutlich / klar

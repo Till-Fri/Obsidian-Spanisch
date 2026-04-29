@@ -1,0 +1,15 @@
+- Parece una persona muy tranquila↔Sie scheint eine sehr ruhige Person zu sein.
+- Wann benutzt man parece anstatt es?→Man benutzt „parece“ (es scheint) dann, wenn man etwas nur vermutet, eine Einschätzung gibt oder die Aussage nicht als feste Tatsache darstellt. „Es“ (es ist) wird verwendet, wenn man etwas als unumstößliche Tatsache oder objektive Realität bezeichnet.
+- Ser y Parecer + Adjetivos Abstractos >>>
+    - Sustantivos:
+        - es importante la organización ⇒ die Organisation ist wichtig
+    - Infinitivo:
+        - es importante organizarse ⇒ Es ist wichtig sich zu organisieren
+    - que + subjuntivo:
+        - es importante que organicemos bien el trabajo ⇒ Es ist wichtig, dass wir unsere Arbeit gut organisieren 
+- Deber de haber hecho↔gemacht haben müssen
+- Mis seres queridos↔Meine Lieben
+- el ser↔Das Wesen, das Lebewesen
+- Estoy a favor de↔Ich bin dafür
+- merecer la pena↔Es wert sein, sich lohnen
+- 

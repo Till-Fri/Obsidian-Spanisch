@@ -1,0 +1,28 @@
+- Konstruktionen
+    - Por ahí↔Dort, da drüben
+    - Por aquí↔Hier in der Gegend, Hier entlang
+    - Por allí↔dort hinten, ganz weit weg
+    - Por eso↔Deshalb, Deswegen
+    - Por fin↔Endlich
+    - Por ejemplo↔zum Beispiel
+    - Por cierto↔übrigens
+    - Por si acaso↔Für alle Fälle, Sicherheitshalber
+    - el acaso↔der Zufall
+    - acaso↔vielleicht, etwa, überhaupt
+    - Por lo menos↔Mindestens, wenigstens
+    - Por lo visto↔Anscheinend, Offensichtlich
+    - Por la mañana/ tarde↔Am Morgen /Nachmittag
+    - Para que↔Damit
+    - Para mí↔Für mich, Meiner Meinung nach
+    - Para siempre↔Für immer
+    - para variar↔Zur Abwechslung
+    - Para nada↔Gar nicht, Überhaupt nicht
+    - Para colmo↔Zu allem Überfluss, Zu guter Letzt
+    - Estar para↔Kurz davor sein, zu
+    - ¿para qué?↔Wofür? Wozu?
+    - ¿por qué?↔Warum? 
+    - Por mucho que↔Trotz allem, egal wie viel
+- Anwendungsregel >>>
+    - Schaut der Satz zurück (Ursache, Grund, Motiv) ⇒ Por
+    - Schaut der Satz nach vorne (Ziel, Deadline, Bestimmung) ⇒ Para
+- 

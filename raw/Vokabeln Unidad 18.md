@@ -1,0 +1,128 @@
+- la asignatura↔das Fach
+- el barrio↔Das Stadtviertel, der Stadtteil
+- sucio↔schmutzig
+- parecer↔aussehen, scheinen, wirken
+- atenuar↔abschwächen, mildern
+- la afirmación↔die Bestätigung, die Aussage
+- comprometer↔gefährden, kompromittieren
+- comprometer en↔hineinziehen in, involvieren in, verwickeln in
+- melancólico↔melancholisch
+- asombrado↔erstaunt
+- confiado↔naiv, vertrauensselig
+- alegre↔fröhlich
+- enfadado↔verärgert
+- dar pena↔Mitleid haben, leid tun, traurig machen
+- dar asco↔Ekel errgen
+- el asco↔Der Ekel
+- la vergüenza↔die Scham
+- dar vergüenza↔peinlich sein, verlegen
+- dar envidia↔Neid erregen
+- la envidia↔der Neid
+- la angustia↔die Angst
+- dar angustia↔Angst machen
+- la seguridad↔Die Sicherheit
+- contento↔Glücklich
+- celoso↔Neidisch
+- el terror↔panische Angst
+- la admiración↔die Bewunderung
+- el éxtasis↔die Extase, die Verzückung
+- la furia↔Der Zorn
+- la ira↔die Wut
+- el enfado↔der Ärger
+- el odio↔Der Hass
+- la aversión↔Die Abneigung
+- experimentar↔experimentieren, fühlen, spüren
+- la humildad↔die Bescheidenheit
+- la pureza↔die Reinheit
+- la sensatez↔die Vernunft
+- la rapidez↔die Geschwindigkeit, die Schnelligkeit
+- la simpatía↔die Sympathie
+- la paciencia↔die Geduld
+- la abundancia↔der Überfluss
+- la amargura↔Die Bitterkeit
+- la locura↔Der Wahnsinn, die Verrücktheit
+- la juventud↔die Jugend
+- la lentitud↔Die Langsamkeit
+- prometer↔versprechen, geloben
+- persuadir↔überreden
+- lograr↔erreichen, gewinnen
+- la cortesía↔Die Höflichkeit
+- el oyente↔der Zuhörer
+- determinado↔bestimmt, entschlossen
+- enterarse de algo↔etwas erfahren, etwas mitkriegen
+- embarazado /-a↔schwanger 
+- embarazar↔schwängern
+- el encanto↔Der Charme, der Zauber
+- eres un encanto↔Du bist ein Schatz.
+- el elogio↔der Lob, die Anerkennung
+- la lectura↔Das Lesen
+- entretener↔unterhalten, amüsieren, aufhalten, hinauszögern
+- el patrón↔der Boss, der Arbeitgeber, das Muster, das Modell
+- la armonía↔die Harmonie
+- alrededor↔ringsherum, drumherum
+- quieto↔Still, ruhig
+- el golpe↔Der Schlag, Der Stoß
+- el suelo↔der Boden
+- la voluntad↔der Wille
+- acariciar↔streicheln
+- el pájaro↔Der Vogel
+- los auriculares↔Die Kopfhörer
+- avergonzarse de↔sich schämen für
+- tierno↔zart, zärtlich
+- opinar↔meinen, denken, die Meinung haben
+- la rueda↔Das Rad
+- la rueda de prensa↔die Pressekonferenz
+- evitar↔vermeiden, abwenden
+- la quiebra↔Die Insolvenz, der Bankrott
+- subrayar algo↔etwas unterstreichen, betonen
+- llevar↔tragen, führen, anhaben
+- el cabo↔das Ende
+- conversar↔sich unterhalten
+- acelerado↔schnell, rasch
+- inmediato↔sofort, unverzüglich, direkt (zeitl. + räuml.)
+- entregar↔abgeben, ausliefern
+- la repercusión↔die Auswirkung, die Nachwirkung
+- la vidriera↔das Schaufenster, das Buntglasfenster
+- topar con↔zusammenstoßen mit
+- cansar↔anstrengend sein, müde machen
+- detenidamente↔sorgfältig
+- reunir↔versammeln, vereinen
+- documentarse↔sich informieren
+- el esquema↔das Schema
+- molestar↔stören
+- soportar↔aushalten, ertragen
+- la pizarra↔die Tafel
+- fascinar↔fascinieren
+- apasionar↔begeistern 
+- maravillar↔bewundern, in Staunen versetzen
+- fastidiar algo / a alguien↔ärgern, nerven 
+- irritar↔irritieren, reizen, verägern 
+- indignar↔empören
+- dar rabia↔wütend machen
+- horrorizar↔entsetzen 
+- el enojo↔der Ärger, die Wut
+- el asombro↔Das Erstaunen, die Verwunderung
+- la serenidad↔Die Gelassenheit, die Ausgegelichenheit
+- la extrañeza↔Die Fremdheit, die Eigenart
+- la repulsión↔Die Abstoßung, Abneigung, Abscheu
+- la oposición↔Die Opposition, der Widerstand
+- la ansiedad↔die Angst
+- sensible↔sensibel, empfindlich
+- sensato/-a↔vernünftig
+- puro/-a↔rein
+- paciente↔geduldig
+- la impaciencia↔die Ungeduld
+- joven↔jung
+- los jóvenes↔Die Jugendlichen
+- abundante↔reichlich, ergiebig
+- seguro/-a↔sicher
+- amargo/-a↔bitter
+- lento/-a↔langsam
+- maduro↔reif
+- el vencedor↔der Sieger
+- deplorable↔bedauerlich
+- el vencido↔der besiegte, der Verlierer
+- sobrar↔übrig bleiben
+- gritar↔schreien
+- 
+- 

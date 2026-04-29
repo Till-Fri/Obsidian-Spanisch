@@ -1,0 +1,22 @@
+- así↔so
+- así que↔so dass
+- aunque↔obwohl
+- como↔da, wie
+- cuando↔wenn, als
+- en cambio↔hingegen
+- en consecuencia↔folglich
+- en resumen↔zusammenfassend 
+- entonces↔dann
+- en vez de↔anstatt
+- incluso↔sogar
+- hasta que↔bis
+- mientras↔während
+- mientras que↔während
+- ni ... ni↔weder ... noch
+- para que↔damit / sodass
+- a fin de que↔damit / zu dem Zweck, dass
+- en caso de que (subjuntivo)↔falls / im Falle, dass
+- a menos que (subjuntivo)↔es sei denn, dass / außer wenn
+- a condición de que (subjuntivo)↔unter der Bedingung, dass
+- 
+- 
