@@ -25,28 +25,11 @@ Welche Zeit passt? `El proyecto ___ el éxito pero fracasó al final.` / Gegenbe
 <!--ID: 1776813638760-->
 
 
-1. Person Singular von `tener` im presente :: tengo
+Konjugiere `tener` im presente: yo, tú, él/ella, nosotros, vosotros, ellos :: tengo, tienes, tiene, tenemos, tenéis, tienen<br>Ej.: `Tengo tiempo`, `tenéis razón`. [[Presente]]
 <!--ID: 1776813638761-->
 
-3. Person Singular von `tener` im presente :: tiene
-<!--ID: 1776938204101-->
-1. Person Plural von `tener` im presente :: tenemos
-<!--ID: 1776813638762-->
-
-
-1. Person Singular von `haber` im pretérito perfecto :: he
+Konjugiere `hablar` im pretérito perfecto: yo, tú, él/ella, nosotros, vosotros, ellos :: he hablado, has hablado, ha hablado, hemos hablado, habéis hablado, han hablado<br>`haber` konjugiert, Partizip bleibt gleich. [[Preterito Perfecto]]
 <!--ID: 1776813638763-->
 
-3. Person Singular von `haber` im pretérito perfecto :: ha
-<!--ID: 1776938204102-->
-1. Person Plural von `haber` im pretérito perfecto :: hemos
-<!--ID: 1776813638764-->
-
-
-1. Person Singular von `asumir` im indefinido :: asumí
+Konjugiere `asumir` im pretérito indefinido: yo, tú, él/ella, nosotros, vosotros, ellos :: asumí, asumiste, asumió, asumimos, asumisteis, asumieron<br>Ej.: `El ministro asumió el cargo`. [[Preterito-Indefinido]]
 <!--ID: 1776813638765-->
-
-3. Person Singular von `asumir` im indefinido :: asumió
-<!--ID: 1776938204103-->
-3. Person Plural von `asumir` im indefinido :: asumieron
-<!--ID: 1776813638766-->

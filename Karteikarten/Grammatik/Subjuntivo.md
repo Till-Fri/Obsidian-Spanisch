@@ -73,15 +73,11 @@ Steht der Hauptsatz in einer Vergangenheitsform oder im Konditional: Welche Subj
 <!--ID: 1776813638751-->
 
 
-3. Person Singular von `desistir` im presente de subjuntivo :: desista
+Konjugiere `desistir` im presente de subjuntivo: yo, tú, él/ella, nosotros, vosotros, ellos :: desista, desistas, desista, desistamos, desistáis, desistan<br>Ej.: `cuando Estados Unidos desista`. [[Subjuntivo]]
 <!--ID: 1776813638752-->
 
 
-1. Person Plural von `desistir` im presente de subjuntivo :: desistamos
-<!--ID: 1776813638753-->
-
-
-3. Person Singular von `desistir` im imperfecto de subjuntivo :: desistiera / desistiese
+Konjugiere `desistir` im imperfecto de subjuntivo: yo, tú, él/ella, nosotros, vosotros, ellos :: desistiera/desistiese, desistieras/desistieses, desistiera/desistiese, desistiéramos/desistiésemos, desistierais/desistieseis, desistieran/desistiesen<br>Zwei Reihen sind möglich: `-ra` und `-se`. [[Subjuntivo]]
 <!--ID: 1776813638754-->
 
 

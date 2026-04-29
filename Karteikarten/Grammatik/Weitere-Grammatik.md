@@ -28,10 +28,10 @@ Gerundio von `ir` :: yendo<br>Wichtige unregelmäßige Form. [[Gerundio]]
 Welche Form passt? `Me ___ tener un huerto.` :: gustaría<br>Wunsch/Höflichkeit -> condicional. [[Condicional]]
 <!--ID: 1777000000009-->
 
-Condicional von `poder`, 1. Person Singular :: podría<br>Unregelmäßiger Stamm `podr-`. [[Condicional]]
+Konjugiere `poder` im condicional: yo, tú, él/ella, nosotros, vosotros, ellos :: podría, podrías, podría, podríamos, podríais, podrían<br>Unregelmäßiger Stamm `podr-`, regelmäßige Endungen. [[Condicional]]
 <!--ID: 1777000000010-->
 
-Futuro von `tener`, 1. Person Singular :: tendré<br>Unregelmäßiger Stamm `tendr-`. [[Futuro Imperfecto]]
+Konjugiere `tener` im futuro imperfecto: yo, tú, él/ella, nosotros, vosotros, ellos :: tendré, tendrás, tendrá, tendremos, tendréis, tendrán<br>Unregelmäßiger Stamm `tendr-`, regelmäßige Endungen. [[Futuro Imperfecto]]
 <!--ID: 1777000000011-->
 
 Welche Form passt? `Te llamaré cuando ___.` / Gegenbeispiel: `Te llamé cuando ___.` :: llegue / llegué<br>Zukünftige noch offene Handlung nach `cuando` -> subjuntivo. Vergangenes Faktum -> indicativo. [[Futuro Imperfecto]]
@@ -82,3 +82,29 @@ Was macht Nominalisierung in B2-Texten? :: Sie verwandelt Verben/Adjektive in ab
 Nominalisierung von `proteger` :: la protección<br>[[Nominalizacion]]
 <!--ID: 1777000000027-->
 
+Konjugiere `ser` im imperfecto: yo, tú, él/ella, nosotros, vosotros, ellos :: era, eras, era, éramos, erais, eran<br>Imperfecto für Beschreibung, Hintergrund und Gewohnheit. [[Imperfecto]]
+<!--ID: 1777000000028-->
+
+Konjugiere `ir` im imperfecto: yo, tú, él/ella, nosotros, vosotros, ellos :: iba, ibas, iba, íbamos, ibais, iban<br>Imperfecto für frühere Gewohnheiten und Hintergrund. [[Imperfecto]]
+<!--ID: 1777000000029-->
+
+Konjugiere `ver` im imperfecto: yo, tú, él/ella, nosotros, vosotros, ellos :: veía, veías, veía, veíamos, veíais, veían<br>Unregelmäßiges Imperfecto-Modell mit erhaltenem `e`. [[Imperfecto]]
+<!--ID: 1777000000030-->
+
+Konjugiere `hablar` im pluscuamperfecto: yo, tú, él/ella, nosotros, vosotros, ellos :: había hablado, habías hablado, había hablado, habíamos hablado, habíais hablado, habían hablado<br>`haber` im imperfecto + participio. [[Pluscuamperfecto]]
+<!--ID: 1777000000031-->
+
+Konjugiere `estar estudiando` im presente progresivo: yo, tú, él/ella, nosotros, vosotros, ellos :: estoy estudiando, estás estudiando, está estudiando, estamos estudiando, estáis estudiando, están estudiando<br>`estar` konjugiert, gerundio bleibt gleich. [[Gerundio]]
+<!--ID: 1777000000032-->
+
+Konjugiere `hablar` im presente de subjuntivo: yo, tú, él/ella, nosotros, vosotros, ellos :: hable, hables, hable, hablemos, habléis, hablen<br>`-ar` wechselt im subjuntivo zu `e`. [[Subjuntivo]]
+<!--ID: 1777000000033-->
+
+Konjugiere `comer` im presente de subjuntivo: yo, tú, él/ella, nosotros, vosotros, ellos :: coma, comas, coma, comamos, comáis, coman<br>`-er/-ir` wechseln im subjuntivo zu `a`. [[Subjuntivo]]
+<!--ID: 1777000000034-->
+
+Konjugiere `hablar` im condicional: yo, tú, él/ella, nosotros, vosotros, ellos :: hablaría, hablarías, hablaría, hablaríamos, hablaríais, hablarían<br>Infinitiv + condicional-Endungen. [[Condicional]]
+<!--ID: 1777000000035-->
+
+Konjugiere `hablar` im futuro imperfecto: yo, tú, él/ella, nosotros, vosotros, ellos :: hablaré, hablarás, hablará, hablaremos, hablaréis, hablarán<br>Infinitiv + futuro-Endungen. [[Futuro Imperfecto]]
+<!--ID: 1777000000036-->
