@@ -1,3 +1,13 @@
+## [2026-04-29] ingest | Gramática, vocabulario por unidades y preparación B2
+Processed the new raw batch added to `raw/`.
+- Created missing grammar reference pages: [[Adverbios]], [[Conectores]], [[Condicional]], [[Futuro Imperfecto]], [[Gerundio]], [[Imperativo]], [[Imperfecto]], [[Pluscuamperfecto]], [[Por-y-Para]], [[Pronombres Relativos]], [[Ser-y-Estar]], [[Nominalizacion]], [[Numeros]] and [[Estilo Indirecto]].
+- Expanded existing tense/subjunctive pages with high-value raw details: [[Preterito Perfecto]], [[Preterito-Indefinido]] and [[Subjuntivo]].
+- Created thematic vocabulary pages from the unit and exam vocabulary: [[Expresiones-y-Locuciones]], [[Literatura-y-Cultura]], [[Vida-Cotidiana-y-Estudios]], [[Medioambiente-y-Sociedad]], [[Emociones-y-Caracter]] and [[Tecnologia-y-Medios]].
+- Added [[Preparacion-B2]] under `wiki/entities/` for exam preparation workflow.
+- Updated [[WIKI_SCHEMA]] to include `wiki/entities/` and the rule for distilling large RemNote exports instead of copying them verbatim.
+- Updated [[Codex]] so Spanish questions also check `wiki/entities/` before raw sources.
+- Skipped empty raw placeholders [[Pronomen]] and [[Tiempos]] and did not ingest the binary Anki package `raw/RemNoteExport_Till-Friedrich_anki_2026-04-29_03-58.apkg`.
+
 ## [2026-04-22] ingest | El Barça se mete en un lío en China por una polémica foto en sus redes sociales
 Processed Marca article about FC Barcelona's social media controversy in China over a Taiwanese flag photo.
 - Created new vocabulary page [[Redes-y-Controversia]] with media, institutional communication and controversy terms.

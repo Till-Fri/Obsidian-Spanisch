@@ -24,6 +24,7 @@ La wiki es la capa de referencia. `Karteikarten/` es la capa de memorización.
 ### Wiki
 - `wiki/grammar/`
 - `wiki/vocabulary/`
+- `wiki/entities/`
 - `wiki/index.md`
 - `wiki/log.md`
 
@@ -64,6 +65,14 @@ Las páginas de vocabulario deben contener:
 - notas de uso cuando haga falta
 - enlaces a gramática relacionada cuando ayude
 
+#### Entidades y preparación
+`wiki/entities/` contiene notas de apoyo que no son estrictamente gramática ni listas de vocabulario:
+- planes de preparación
+- obras, autores o textos de referencia
+- dossiers breves sobre temas reutilizables
+
+Estas páginas deben enlazar hacia `wiki/grammar/` y `wiki/vocabulary/` cuando haya contenido lingüístico reutilizable.
+
 ### 3. Destilación a tarjetas
 Solo `Karteikarten/` se exporta a Anki.
 
@@ -94,6 +103,7 @@ Reglas:
 ### 4. Índices
 - `wiki/index.md` = mapa de la capa de referencia
 - `Karteikarten/index.md` = mapa de la capa exportable
+- cuando se ingieren muchos archivos raw a la vez, el índice debe enlazar tanto las páginas wiki creadas como las fuentes raw principales
 
 ## Convenciones de formato
 
@@ -106,6 +116,7 @@ Reglas:
 - escribir para legibilidad primero
 - no usar sintaxis de exportación como formato principal
 - se permiten listas, contrastes, notas y ejemplos completos
+- los exports grandes de RemNote (`Grammatik`, `Spanisch`) se usan como fuente de comprobación, no como página wiki copiada en bloque
 
 #### Plantilla de página de vocabulario
 ```markdown

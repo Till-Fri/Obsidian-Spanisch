@@ -8,6 +8,14 @@ El pretérito indefinido se usa para acciones:
 
 Suele aparecer con marcadores como `ayer`, `la semana pasada`, `en 2020`, `anoche`.
 
+## usos frecuentes
+- eventos principales de una historia: lo que pasó nuevo
+- acciones puntuales o repentinas
+- periodos definidos: `ayer`, `el miércoles pasado`, `el año pasado`
+- acciones realizadas una vez o un número definido de veces
+- secuencias de acciones
+- interrupciones de otra acción en curso
+
 ## ejemplo base
 Verbo modelo: `asumir`
 
@@ -18,7 +26,32 @@ Verbo modelo: `asumir`
 - vosotros: `asumisteis`
 - ellos/ellas/ustedes: `asumieron`
 
+## formas regulares
+Verbos en `-ar`:
+- `hablé, hablaste, habló, hablamos, hablasteis, hablaron`
+
+Verbos en `-er/-ir`:
+- `comí, comiste, comió, comimos, comisteis, comieron`
+- `viví, viviste, vivió, vivimos, vivisteis, vivieron`
+
+## irregulares frecuentes
+- `ser/ir`: `fui, fuiste, fue, fuimos, fuisteis, fueron`
+- `estar`: `estuve, estuviste, estuvo, estuvimos, estuvisteis, estuvieron`
+- `dar`: `di, diste, dio, dimos, disteis, dieron`
+- `leer`: `leí, leíste, leyó, leímos, leísteis, leyeron`
+- `hacer`: `hice, hiciste, hizo, hicimos, hicisteis, hicieron`
+- `dormir`: `dormí, dormiste, durmió, dormimos, dormisteis, durmieron`
+- `sentir`: `sentí, sentiste, sintió, sentimos, sentisteis, sintieron`
+
 ## ejemplos de uso
+De [[Indefinido]]:
+- `Ayer fui al cine con Cristina.`  
+  Gestern ging ich mit Cristina ins Kino.
+- `Viví tres años en España.`  
+  Ich lebte drei Jahre in Spanien.
+- `El año pasado estuve tres veces en Mallorca.`  
+  Letztes Jahr war ich dreimal auf Mallorca.
+
 De [[Noticias]]:
 - `El ministro asumió el cargo la semana pasada.`  
   Der Minister übernahm letzte Woche das Amt.
@@ -40,3 +73,4 @@ De [[El Barça se mete en un lío en China por una polémica foto en sus redes s
 ## contraste rápido
 - [[Preterito Perfecto]]: pasado conectado con el presente
 - [[Presente]]: descripción actual o habitual
+- [[Imperfecto]]: marco, hábito o descripción en el pasado

@@ -22,6 +22,8 @@ Según [[Subjuntivo – Wikipedia]], una forma útil de entender la diferencia e
 - `esperar que`
 - `pedir que`
 - `exigir que`
+- `te aconsejo que`
+- `te recomiendo que`
 
 ### emoción y valoración
 - `es una lástima que`
@@ -39,6 +41,8 @@ Según [[Subjuntivo – Wikipedia]], una forma útil de entender la diferencia e
 - `es probable que`
 - `es necesario que`
 - `es importante que`
+- `es frecuente que`
+- `está previsto que`
 
 ### estructuras de tiempo o marco no cerrado
 - `cuando` para una acción futura no realizada
@@ -63,6 +67,10 @@ Según [[Subjuntivo – Wikipedia]], una forma útil de entender la diferencia e
   Ej.: `Ojalá lo hubiera sabido antes.`
 
 ## presente de subjuntivo
+Regla de formación:
+- verbos en `-ar`: cambian a vocal `e`
+- verbos en `-er/-ir`: cambian a vocal `a`
+
 Verbo modelo: `desistir`
 
 - yo: `desista`
@@ -71,6 +79,16 @@ Verbo modelo: `desistir`
 - nosotros: `desistamos`
 - vosotros: `desistáis`
 - ellos/ellas/ustedes: `desistan`
+
+Ejemplos regulares:
+- `hablar` -> `hable, hables, hable, hablemos, habléis, hablen`
+- `comer` -> `coma, comas, coma, comamos, comáis, coman`
+- `vivir` -> `viva, vivas, viva, vivamos, viváis, vivan`
+
+Cambios ortográficos frecuentes:
+- `buscar` -> `busque`
+- `pagar` -> `pague`
+- `empezar` -> `empiece`
 
 ## imperfecto de subjuntivo
 Dos series habituales:

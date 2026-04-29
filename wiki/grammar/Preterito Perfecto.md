@@ -15,7 +15,54 @@ El pretérito perfecto se usa para acciones pasadas que:
 - vosotros: `habéis`
 - ellos/ellas/ustedes: `han`
 
+Ejemplos modelo:
+- `he hablado`
+- `has vivido`
+- `ha sido`
+- `hemos trabajado`
+
+## marcadores frecuentes
+- `alguna vez`
+- `hasta ahora`
+- `nunca`
+- `todavía no`
+- `ya`
+- `este año`
+- `este mes`
+- `esta semana`
+- `hoy`
+
+## participios irregulares útiles
+- `abrir` -> `abierto`
+- `decir` -> `dicho`
+- `escribir` -> `escrito`
+- `hacer` -> `hecho`
+- `morir` -> `muerto`
+- `poner` -> `puesto`
+- `romper` -> `roto`
+- `volver` -> `vuelto`
+- `ver` -> `visto`
+- `freír` -> `frito`
+- `resolver` -> `resuelto`
+
+## sintaxis con reflexivos y modales
+Con verbos reflexivos, el pronombre va antes de `haber`:
+- `me he levantado temprano`
+- `te has duchado`
+- `nos hemos acostado tarde`
+
+Con verbos modales + infinitivo, el infinitivo puede mantener el pronombre:
+- `no he querido levantarme temprano`
+- `ha podido lavarse los dientes`
+- `han tenido que quedarse en casa`
+
 ## ejemplos de uso
+De [[Pretérito Perfecto]]:
+- `Esta semana he trabajado mucho.`  
+  Diese Woche habe ich viel gearbeitet.
+- `Este año no he ido de vacaciones.`  
+  Dieses Jahr bin ich nicht in den Urlaub gefahren.
+
 De [[Rebajas para Lewandowski]]:
 - `...desde el club azulgrana ya han dado los primeros pasos.`  
   ...beim blaugrana Verein hat man bereits die ersten Schritte unternommen.
@@ -33,3 +80,4 @@ De [[Última hora de la guerra]]:
 ## contraste rápido
 - [[Presente]]: aktuelle Zustände, Gewohnheiten, allgemeine Aussagen
 - [[Preterito-Indefinido]]: abgeschlossene Handlung in einem klar abgeschlossenen Zeitraum
+- [[Pluscuamperfecto]]: Handlung, die schon vor einem anderen Punkt in der Vergangenheit passiert war
