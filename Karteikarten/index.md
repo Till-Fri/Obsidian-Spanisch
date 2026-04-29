@@ -3,9 +3,16 @@
 Nur dieser Ordner wird nach Anki exportiert.
 
 ## Grammatik
+- [[Karteikarten/Grammatik/Adverbios]]
 - [[Karteikarten/Grammatik/Basiszeiten]]
+- [[Karteikarten/Grammatik/Condicional-y-Futuro]]
+- [[Karteikarten/Grammatik/Gerundio]]
+- [[Karteikarten/Grammatik/Imperativo]]
+- [[Karteikarten/Grammatik/Nominalizacion]]
+- [[Karteikarten/Grammatik/Por-Para-y-Ser-Estar]]
+- [[Karteikarten/Grammatik/Pronombres-y-Conectores]]
 - [[Karteikarten/Grammatik/Subjuntivo]]
-- [[Karteikarten/Grammatik/Weitere-Grammatik]]
+- [[Karteikarten/Grammatik/Tiempos-Avanzados]]
 
 ## Vokabeln
 - [[Karteikarten/Vokabeln/Deporte-y-Negocios]]

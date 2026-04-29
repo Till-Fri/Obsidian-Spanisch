@@ -136,20 +136,13 @@ Contexto breve y link a la fuente.
 ### Karteikarten
 - usar `# Obsidian_to_Anki` en archivos exportables
 - usar `::` solo en `Karteikarten/`
-<!--ID: 1776813638624-->
-
-- para tarjetas explicativas o respuestas largas se puede usar el formato de bloque `START ... END`
 - formato preferido:
   - vocabulario: `prompt en alemán :: respuesta en español`
-<!--ID: 1776813638628-->
-
   - vocabulario inverso: `prompt en español :: respuesta en alemán`
-<!--ID: 1776813638629-->
-
   - gramática: `pregunta o pista en alemán :: forma o regla en español`
-<!--ID: 1776813638630-->
-
 - se puede añadir una línea breve de ejemplo con `<br>Ej.: ...`
+- para respuestas largas, listas, explicaciones o conjugaciones completas se puede usar formato multilínea `START ... END`
+- no poner comentarios `<!--ID: ...-->` manualmente fuera de `Karteikarten/`; esos IDs pertenecen a tarjetas exportables
 
 #### Plantilla de archivo de vocabulario (Karteikarten)
 ```markdown
@@ -166,7 +159,13 @@ respuesta en español :: prompt en alemán<br>Ej.: ... [[Fuente]]
 Welche Form passt? `Oracion con hueco.` / Gegenbeispiel: `Oracion contrastante.` :: respuesta correcta / respuesta incorrecta<br>Explicacion breve en aleman. [[Fuente]]
 ```
 
-#### Plantilla de tarjeta explicativa larga (multilínea START...END)
+#### Plantilla de tarjeta multilínea (START...END)
+Usar esta opción cuando una respuesta de una línea sería difícil de leer:
+- explicaciones largas
+- contrastes con varios ejemplos
+- listas de desencadenantes
+- conjugaciones completas con `yo, tú, él/ella, nosotros, vosotros, ellos`
+
 ```markdown
 START
 Basic
@@ -178,7 +177,23 @@ Back: Explicación o regla en español (puede incluir listas, contrastes, ejempl
 
 Ejemplo:
 `Frase de ejemplo.`
-<!--ID: 1777472005618-->
+END
+```
+
+#### Plantilla de conjugación completa (multilínea)
+```markdown
+START
+Basic
+Front: Konjugiere `verbo` im tiempo: yo, tú, él/ella, nosotros, vosotros, ellos
+Back:
+- yo: forma
+- tú: forma
+- él/ella/usted: forma
+- nosotros: forma
+- vosotros: forma
+- ellos/ellas/ustedes: forma
+
+Nota breve sobre uso o irregularidad.
 END
 ```
 
