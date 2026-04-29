@@ -27,4 +27,5 @@ Nur dieser Ordner wird nach Anki exportiert.
 - [[Karteikarten/Vokabeln/Medioambiente-y-Sociedad]]
 - [[Karteikarten/Vokabeln/Redes-y-Controversia]]
 - [[Karteikarten/Vokabeln/Tecnologia-y-Medios]]
+- [[Karteikarten/Vokabeln/Urbanismo-y-Permisos]]
 - [[Karteikarten/Vokabeln/Vida-Cotidiana-y-Estudios]]

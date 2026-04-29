@@ -1,3 +1,9 @@
+## [2026-04-29] ingest | Vocab.md
+Processed short raw vocabulary file about permits, local administration, venues, roads and construction.
+- Created [[Urbanismo-y-Permisos]] in the wiki.
+- Added all raw items to [[Karteikarten/Vokabeln/Urbanismo-y-Permisos]] in both directions.
+- Normalized obvious learning forms: `atraíga` -> `atraiga` and `carretera de peaja` -> `carretera de peaje`.
+
 ## [2026-04-29] ingest | Gramática, vocabulario por unidades y preparación B2
 Processed the new raw batch added to `raw/`.
 - Created missing grammar reference pages: [[Adverbios]], [[Conectores]], [[Condicional]], [[Futuro Imperfecto]], [[Gerundio]], [[Imperativo]], [[Imperfecto]], [[Pluscuamperfecto]], [[Por-y-Para]], [[Pronombres Relativos]], [[Ser-y-Estar]], [[Nominalizacion]], [[Numeros]] and [[Estilo Indirecto]].

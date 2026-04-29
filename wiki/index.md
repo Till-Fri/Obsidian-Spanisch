@@ -33,6 +33,7 @@ Reglas de trabajo para preguntas y respuestas: [[Codex]].
 - [[Guerra-y-Geopolitica]] - Términos de guerra, geopolítica, militar y diplomacia.
 - [[Redes-y-Controversia]] - Términos de redes sociales, comunicación institucional y controversia pública.
 - [[Tecnologia-y-Medios]] - Internet, archivos, riesgos digitales y comunicación.
+- [[Urbanismo-y-Permisos]] - Permisos, obras, aforo, tráfico y administración local.
 - [[Vida-Cotidiana-y-Estudios]] - Rutina, estudios, trabajo, vivienda y relaciones.
 
 ## 🧭 Entidades y preparación
@@ -94,4 +95,5 @@ Reglas de trabajo para preguntas y respuestas: [[Codex]].
 - [[Vokabeln Unidad 15]] - Vocabulario raw por unidad.
 - [[Vokabeln Unidad 16]] - Vocabulario raw por unidad.
 - [[Vokabeln Unidad 18]] - Vocabulario raw por unidad.
+- [[Vocab]] - Vocabulario raw sobre urbanismo, permisos y obras.
 - [[Zahlen]] - Apuntes raw sobre números.
