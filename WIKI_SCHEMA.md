@@ -123,14 +123,14 @@ Reglas:
 # tema-en-minusculas
 
 ## panorama
-Contexto breve y link a la fuente.
+Contexto breve y enlace a la fuente.
 
 ## sección temática 1
 - `palabra`: Traducción alemana
   Ej.: `Frase de ejemplo de la fuente.`
 
 ## gramática relacionada
-- PaginaDeGramatica
+- PaginaDeGramática
 ```
 
 ### Karteikarten
@@ -142,12 +142,12 @@ Contexto breve y link a la fuente.
   - gramática: `pregunta o pista en alemán :: forma o regla en español`
 - se puede añadir una línea breve de ejemplo con `<br>Ej.: ...`
 - para respuestas largas, listas, explicaciones o conjugaciones completas se puede usar formato multilínea `START ... END`
-- no poner comentarios `<!--ID: ...-->` manualmente fuera de `Karteikarten/`; esos IDs pertenecen a tarjetas exportables
+- no poner comentarios HTML de ID de Anki manualmente fuera de `Karteikarten/`; esos IDs pertenecen a tarjetas exportables
 
 #### Plantilla de archivo de vocabulario (Karteikarten)
 ```markdown
 # Obsidian_to_Anki
-# tema-en-minusculas
+# tema-en-minúsculas
 
 prompt en alemán :: respuesta en español<br>Ej.: ... [[Fuente]]
 
