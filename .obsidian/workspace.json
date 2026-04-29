@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/grammar/Ser-y-Estar.md",
+                "file": "raw/Vocab.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ser-y-Estar"
+              "title": "Vocab"
             }
           }
         ]
@@ -195,8 +195,10 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "6d01f5724b477a3c",
+  "active": "059cb21b8fa162e2",
   "lastOpenFiles": [
+    "wiki/grammar/Ser-y-Estar.md",
+    "raw/Vocab.md",
     "Unbenannt.base",
     "Karteikarten/Vokabeln/Altbestand-Wortschatz-Komprimiert.md",
     "Karteikarten/Vokabeln/Altbestand-Verben-und-Muster.md",
@@ -222,7 +224,6 @@
     "Karteikarten/Grammatik/Adverbios.md",
     "Karteikarten/Vokabeln/Vida-Cotidiana-y-Estudios.md",
     "Karteikarten/Grammatik/Basiszeiten.md",
-    "Karteikarten/Grammatik/Weitere-Grammatik.md",
     "raw/RemNoteExport_Till-Friedrich_anki_2026-04-29_03-58.apkg",
     "raw/incoming/Clippings",
     "copilot/copilot-conversations",
