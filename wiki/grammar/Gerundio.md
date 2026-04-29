@@ -1,7 +1,7 @@
 # gerundio
 
 ## uso principal
-El gerundio expresa una accion en desarrollo, una accion temporalmente relevante o una accion paralela.
+El gerundio expresa una acción en desarrollo, una acción temporalmente relevante o una acción paralela.
 
 Fuentes principales: [[GERUNDIO]], [[Grammatik]] y [[Spanisch]].
 
@@ -27,9 +27,9 @@ Con verbos en `-aer`, `-eer`, `-ir`, `-oir`, `-uir` puede aparecer `-yendo`:
 - `oir` -> `oyendo`
 
 ## usos
-- accion que ocurre ahora: `Estoy leyendo.`
-- accion temporal actual: `Estoy preparando el examen.`
-- acciones simultaneas: `Cocina escuchando musica.`
+- acción que ocurre ahora: `Estoy leyendo.`
+- acción temporal actual: `Estoy preparando el examen.`
+- acciones simultáneas: `Cocina escuchando música.`
 - circunstancia en una narracion: `Estaba lloviendo cuando salimos.`
 
 ## tiempos progresivos utiles
@@ -39,5 +39,5 @@ Con verbos en `-aer`, `-eer`, `-ir`, `-oir`, `-uir` puede aparecer `-yendo`:
 - pluscuamperfecto: `habia estado + gerundio`
 
 ## contraste rapido
-- [[Imperfecto]] describe el marco o una accion habitual en el pasado.
+- [[Imperfecto]] describe el marco o una acción habitual en el pasado.
 - [[Preterito-Indefinido]] presenta un evento cerrado o puntual.

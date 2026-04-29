@@ -40,8 +40,16 @@ Reglas de trabajo para preguntas y respuestas: [[Codex]].
 
 ## 🗂️ Karteikarten
 - [[Karteikarten/index]] - Karten exportables a Anki.
+- [[Karteikarten/Grammatik/Adverbios]] - Formación y uso de adverbios.
 - [[Karteikarten/Grammatik/Basiszeiten]] - Tiempos base y contraste de uso.
+- [[Karteikarten/Grammatik/Condicional-y-Futuro]] - Condicional, futuro y contraste con subjuntivo.
+- [[Karteikarten/Grammatik/Gerundio]] - Gerundio y formas progresivas.
+- [[Karteikarten/Grammatik/Imperativo]] - Imperativo afirmativo y pronombres.
+- [[Karteikarten/Grammatik/Nominalizacion]] - Nominalización para registro B2.
+- [[Karteikarten/Grammatik/Por-Para-y-Ser-Estar]] - Contrastes de alto valor.
+- [[Karteikarten/Grammatik/Pronombres-y-Conectores]] - Relativos y conectores.
 - [[Karteikarten/Grammatik/Subjuntivo]] - Triggers y formas de alto valor.
+- [[Karteikarten/Grammatik/Tiempos-Avanzados]] - Imperfecto, pluscuamperfecto y narración.
 - [[Karteikarten/Vokabeln/Deporte-y-Negocios]] - Vocabulario productivo de deporte y negocios.
 - [[Karteikarten/Vokabeln/Noticias-y-Politica]] - Vocabulario productivo de noticias y política.
 - [[Karteikarten/Vokabeln/Guerra-y-Geopolitica]] - Vocabulario productivo de conflicto y diplomacia.

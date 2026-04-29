@@ -1,7 +1,7 @@
 # conectores
 
 ## panorama
-Los conectores organizan causas, consecuencias, oposiciones, tiempo y adicion. Son muy utiles para textos B1/B2 y respuestas de examen.
+Los conectores organizan causas, consecuencias, oposiciones, tiempo y adición. Son muy útiles para textos B1/B2 y respuestas de examen.
 
 Fuentes principales: [[Conectores]], [[Satzverbinder]], [[Vokabeln Unidad 13]] y [[Spanisch]].
 
@@ -28,7 +28,7 @@ Ejemplo:
 Ejemplo:
 - `El precio subio; por lo tanto, compramos menos.`
 
-## oposicion y contraste
+## oposición y contraste
 - `pero`: aber
 - `sin embargo`: dennoch, jedoch
 - `no obstante`: trotzdem
@@ -54,7 +54,7 @@ Ejemplo:
 Nota:
 - Con referencia futura no realizada, conectores como `cuando`, `hasta que`, `tan pronto como` suelen ir con [[Subjuntivo]]: `Te llamare cuando llegue.`
 
-## adicion
+## adición
 - `y` / `e`: und
 - `tambien`: auch
 - `tampoco`: auch nicht
@@ -64,14 +64,14 @@ Nota:
 - `incluso`: sogar
 - `ni ... ni`: weder ... noch
 
-## condicion con subjuntivo
+## condición con subjuntivo
 - `en caso de que`: falls
 - `a menos que`: es sei denn, dass
-- `a condicion de que`: unter der Bedingung, dass
+- `a condición de que`: unter der Bedingung, dass
 - `para que`: damit
 - `a fin de que`: zu dem Zweck, dass
 
-## gramatica relacionada
+## gramática relacionada
 - [[Subjuntivo]]
 - [[Por-y-Para]]
 - [[Preparacion-B2]]

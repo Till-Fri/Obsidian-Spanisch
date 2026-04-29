@@ -1,7 +1,7 @@
-# preparacion B2
+# preparación B2
 
 ## objetivo
-Esta nota resume el plan de preparacion de [[Prüfungsvorbereitung]] y [[B2]].
+Esta nota resume el plan de preparación de [[Prüfungsvorbereitung]] y [[B2]].
 
 ## trabajo escrito
 - escribir textos propios
@@ -21,7 +21,7 @@ Esta nota resume el plan de preparacion de [[Prüfungsvorbereitung]] y [[B2]].
 ## foco linguistico
 - [[Conectores]] para ordenar argumentos
 - [[Nominalizacion]] para registro mas abstracto
-- [[Subjuntivo]] para valoracion, finalidad y duda
+- [[Subjuntivo]] para valoración, finalidad y duda
 - [[Ser-y-Estar]] para precision descriptiva
 
 ## vocabulario relacionado

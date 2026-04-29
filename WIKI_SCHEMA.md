@@ -125,11 +125,11 @@ Reglas:
 ## panorama
 Contexto breve y link a la fuente.
 
-## seccion tematica 1
-- `palabra`: Traduccion alemana
+## sección temática 1
+- `palabra`: Traducción alemana
   Ej.: `Frase de ejemplo de la fuente.`
 
-## gramatica relacionada
+## gramática relacionada
 - PaginaDeGramatica
 ```
 
@@ -156,7 +156,7 @@ respuesta en español :: prompt en alemán<br>Ej.: ... [[Fuente]]
 
 #### Plantilla de tarjeta de gramática (decisión/contraste, 1 línea)
 ```markdown
-Welche Form passt? `Oracion con hueco.` / Gegenbeispiel: `Oracion contrastante.` :: respuesta correcta / respuesta incorrecta<br>Explicacion breve en aleman. [[Fuente]]
+Welche Form passt? `Oración con hueco.` / Gegenbeispiel: `Oración contrastante.` :: respuesta correcta / respuesta incorrecta<br>Explicación breve en alemán. [[Fuente]]
 ```
 
 #### Plantilla de tarjeta multilínea (START...END)

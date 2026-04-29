@@ -1,7 +1,7 @@
-# numeros
+# números
 
 ## panorama
-Esta pagina recoge reglas y vocabulario de numeros de [[Zahlen]].
+Esta página recoge reglas y vocabulario de números de [[Zahlen]].
 
 ## cardinales
 Usar para contar cantidades:
@@ -16,13 +16,13 @@ Usar para contar cantidades:
 
 Las centenas concuerdan con el sustantivo:
 - `doscientos libros`
-- `doscientas paginas`
+- `doscientas páginas`
 
 ## fechas y cantidades
 - En fechas se usa normalmente cardinal: `el dos de mayo`.
 - Para anos: `dos mil veintiseis`.
 - Para porcentajes: `el siete coma tres por ciento` o `un 7,3 %`.
 
-## gramatica relacionada
+## gramática relacionada
 - [[Preterito Perfecto]]
 - [[Preterito-Indefinido]]

@@ -1,7 +1,7 @@
 # pluscuamperfecto
 
 ## uso principal
-El pluscuamperfecto expresa una accion anterior a otra accion o situacion del pasado.
+El pluscuamperfecto expresa una acción anterior a otra acción o situación del pasado.
 
 Fuente principal: [[Pluscuamperfecto]] y [[Grammatik]].
 
@@ -35,5 +35,5 @@ Ejemplos:
 
 ## contraste rapido
 - [[Preterito Perfecto]]: pasado conectado con el presente.
-- [[Preterito-Indefinido]]: accion cerrada en el pasado.
-- [[Imperfecto]]: fondo, descripcion o habito en el pasado.
+- [[Preterito-Indefinido]]: acción cerrada en el pasado.
+- [[Imperfecto]]: fondo, descripción o hábito en el pasado.

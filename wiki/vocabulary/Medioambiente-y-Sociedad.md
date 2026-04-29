@@ -60,7 +60,7 @@ Vocabulario de [[Vokabeln Unidad 13]], [[Vokabeln Klausurvorbereitung]] y otras 
 - `por lo tanto`: deshalb
 - `de manera que`: sodass
 
-## gramatica relacionada
+## gramática relacionada
 - [[Conectores]]
 - [[Nominalizacion]]
 - [[Subjuntivo]]

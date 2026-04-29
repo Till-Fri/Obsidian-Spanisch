@@ -27,6 +27,6 @@ Sufijos frecuentes:
 - escribir con registro formal: `la proteccion del medioambiente`
 - evitar frases demasiado largas con muchos verbos
 
-## gramatica relacionada
+## gramática relacionada
 - [[Preparacion-B2]]
 - [[Conectores]]

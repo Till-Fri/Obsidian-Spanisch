@@ -15,7 +15,7 @@ Vocabulario de las unidades 12, 15, 18 y de [[Vokabeln Klausurvorbereitung]] sob
 - `ocupado`: beschaftigt
 - `anotar citas`: Termine eintragen
 - `imprescindible`: unverzichtbar
-- `la obligacion`: die Verpflichtung
+- `la obligación`: die Verpflichtung
 
 ## estudios y trabajo
 - `la asignatura`: das Fach
@@ -57,7 +57,7 @@ Vocabulario de las unidades 12, 15, 18 y de [[Vokabeln Klausurvorbereitung]] sob
 - `brindar por`: anstossen auf
 - `conformarse con`: sich mit etwas zufriedengeben
 
-## gramatica relacionada
+## gramática relacionada
 - [[Preterito Perfecto]]
 - [[Imperfecto]]
 - [[Imperativo]]

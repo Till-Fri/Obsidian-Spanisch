@@ -10,7 +10,7 @@ Fuentes principales: [[Imperfecto]], [[Grammatik]] y [[Spanisch]].
 - periodo indefinido en el pasado: `Cuando era niño...`
 - descripción de personas, objetos, clima o lugares: `La casa era pequeña.`
 - hábitos y rutinas: `Todos los días iba al colegio.`
-- acciones paralelas: `Hacia los deberes mientras veia la television.`
+- acciones paralelas: `Hacía los deberes mientras veía la televisión.`
 - circunstancias que explican un evento: `Estaba lloviendo cuando salimos.`
 
 ## forma regular

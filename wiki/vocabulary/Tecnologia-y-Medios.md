@@ -34,7 +34,7 @@ Vocabulario de [[Vokabeln Unidad 16]], [[Redes-y-Controversia]] y listas raw sob
 - `demostrar`: beweisen
 - `establecer`: festlegen / grunden / etablieren
 
-## gramatica relacionada
+## gramática relacionada
 - [[Conectores]]
 - [[Subjuntivo]]
 - [[Redes-y-Controversia]]

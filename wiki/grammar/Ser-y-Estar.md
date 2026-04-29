@@ -18,7 +18,7 @@ Fuentes principales: [[Ser vs. Estar]], [[Grammatik]] y [[Spanisch]].
 - emociones o estados temporales: `Estoy cansado.`
 - resultado de un proceso: `La puerta esta cerrada.`
 - ubicacion fisica: `Estoy en casa.`
-- valoracion de comida o experiencias: `La sopa esta rica.`
+- valoración de comida o experiencias: `La sopa está rica.`
 - actividad temporal con `estar de`: `Estoy de camarero en un bar.`
 
 ## casos con cambio de significado
@@ -35,6 +35,6 @@ El estado civil puede aparecer con ambos, pero `estar soltero/casado` es muy com
 - `El libro esta escrito.`
 - `Lola esta estresada.`
 
-## gramatica relacionada
+## gramática relacionada
 - [[Adverbios]]
 - [[Subjuntivo]]

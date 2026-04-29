@@ -23,13 +23,13 @@ Fuentes principales: [[Relativ Pronomen]], [[Grammatik]] y [[Spanisch]].
 - `cuyo` concuerda con la cosa poseida, no con el poseedor: `el hombre cuya hija`.
 
 ## comas
-- Con comas: informacion adicional.
+- Con comas: información adicional.
 - Sin comas: informacion necesaria para identificar.
 
 Ejemplos:
 - `Los estudiantes que aprobaron celebraron.` Solo celebraron los que aprobaron.
 - `Los estudiantes, que aprobaron, celebraron.` Todos aprobaron y celebraron.
 
-## gramatica relacionada
+## gramática relacionada
 - [[Subjuntivo]]
 - [[Conectores]]

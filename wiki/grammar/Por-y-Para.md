@@ -39,7 +39,7 @@ Fuente principal: [[Por y Para]] y [[Spanisch]].
 `para que` nimmt normalerweise Subjuntivo, wenn das Subjekt im Hauptsatz und Nebensatz verschieden ist:
 - `Lo explico para que lo entiendas.`
 
-## gramatica relacionada
+## gramática relacionada
 - [[Subjuntivo]]
 - [[Conectores]]
 - [[Expresiones-y-Locuciones]]

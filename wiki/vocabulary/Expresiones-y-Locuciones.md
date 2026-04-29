@@ -1,7 +1,7 @@
 # expresiones y locuciones
 
 ## panorama
-Esta pagina reune expresiones funcionales de [[Expresiones con la palabra tiempo]], [[Por y Para]], [[Redewendungen]] y otras listas raw.
+Esta página reúne expresiones funcionales de [[Expresiones con la palabra tiempo]], [[Por y Para]], [[Redewendungen]] y otras listas raw.
 
 ## tiempo
 - `a tiempo`: rechtzeitig
@@ -35,7 +35,7 @@ Esta pagina reune expresiones funcionales de [[Expresiones con la palabra tiempo
 - `arrepentirse de`: etwas bereuen
 - `acostumbrarse a`: sich an etwas gewohnen
 
-## gramatica relacionada
+## gramática relacionada
 - [[Por-y-Para]]
 - [[Conectores]]
 - [[Subjuntivo]]

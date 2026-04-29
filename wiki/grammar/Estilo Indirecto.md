@@ -1,7 +1,7 @@
 # estilo indirecto
 
 ## estado de la fuente
-La fuente [[La Voz indirecta]] contiene solo imagenes exportadas desde RemNote, sin texto recuperable. Esta pagina queda como marcador para completar cuando haya apuntes textuales o una explicacion nueva.
+La fuente [[La Voz indirecta]] contiene solo imágenes exportadas desde RemNote, sin texto recuperable. Esta página queda como marcador para completar cuando haya apuntes textuales o una explicación nueva.
 
 ## idea central
 El estilo indirecto sirve para reproducir lo que alguien dijo, penso o pregunto sin citarlo literalmente.
@@ -16,7 +16,7 @@ Ejemplos generales:
 - preguntas indirectas
 - imperativo en estilo indirecto
 
-## gramatica relacionada
+## gramática relacionada
 - [[Preterito-Indefinido]]
 - [[Imperfecto]]
 - [[Subjuntivo]]

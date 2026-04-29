@@ -35,10 +35,10 @@ La terminacion es regular, pero cambia la raiz:
 - `venir`: `vendre, vendras, vendra, vendremos, vendreis, vendran`
 
 ## futuro y subjuntivo
-Despues de conectores temporales con una accion futura todavia no realizada, el subordinado suele ir en presente de subjuntivo:
+Después de conectores temporales con una acción futura todavía no realizada, el subordinado suele ir en presente de subjuntivo:
 - `Te llamare cuando llegue.`
 - `Esperare hasta que termine.`
 
 ## contraste rapido
-- [[Condicional]]: hipotesis, cortesia o deseo.
-- [[Subjuntivo]]: futuro dependiente de una condicion, finalidad o valoracion.
+- [[Condicional]]: hipótesis, cortesía o deseo.
+- [[Subjuntivo]]: futuro dependiente de una condición, finalidad o valoración.

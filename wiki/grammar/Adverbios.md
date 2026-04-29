@@ -1,7 +1,7 @@
 # adverbios
 
 ## uso principal
-Los adverbios describen como se hace una accion o matizan un verbo, un adjetivo u otro adverbio. No modifican directamente a un sustantivo.
+Los adverbios describen cómo se hace una acción o matizan un verbo, un adjetivo u otro adverbio. No modifican directamente a un sustantivo.
 
 Fuente principal: [[Adverbien]] y [[Grammatik]].
 
@@ -34,6 +34,6 @@ En la lengua cotidiana muchas veces se usa `con + sustantivo`:
 - `especialmente`: besonders
 - `claramente`: deutlich / klar
 
-## gramatica relacionada
+## gramática relacionada
 - [[Conectores]]
 - [[Gerundio]]

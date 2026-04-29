@@ -1,7 +1,7 @@
 # emociones y caracter
 
 ## panorama
-Vocabulario de [[Vokabeln Unidad 18]], [[El Poder de Palabra]] y [[Vokabeln Klausurvorbereitung]] sobre emociones, caracter, percepcion y valoracion.
+Vocabulario de [[Vokabeln Unidad 18]], [[El Poder de Palabra]] y [[Vokabeln Klausurvorbereitung]] sobre emociones, carácter, percepción y valoración.
 
 ## emociones basicas
 - `alegre`: frohlich
@@ -34,7 +34,7 @@ Vocabulario de [[Vokabeln Unidad 18]], [[El Poder de Palabra]] y [[Vokabeln Klau
 - `dar envidia`: Neid auslosen
 - `dar angustia`: Angst machen
 
-## caracter y valoracion
+## carácter y valoración
 - `tierno`: zart / zartlich
 - `chistoso`: lustig
 - `fiestero`: Partylowe
@@ -54,7 +54,7 @@ Vocabulario de [[Vokabeln Unidad 18]], [[El Poder de Palabra]] y [[Vokabeln Klau
 - `avergonzarse de`: sich schamen fur
 - `enfadarse con/por`: sauer sein auf / sich argern wegen
 
-## gramatica relacionada
+## gramática relacionada
 - [[Ser-y-Estar]]
 - [[Subjuntivo]]
 - [[Nominalizacion]]

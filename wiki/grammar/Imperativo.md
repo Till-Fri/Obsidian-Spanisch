@@ -48,6 +48,6 @@ Regla importante:
 - `le/les` cambia a `se` delante de `lo/la/los/las`.
 - `Trae el periodico a el.` -> `Traeselo.`
 
-## gramatica relacionada
+## gramática relacionada
 - [[Pronombres Relativos]]
 - [[Subjuntivo]]

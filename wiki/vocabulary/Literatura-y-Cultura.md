@@ -46,7 +46,7 @@ Vocabulario de [[Sin noticias de Gurb]], [[El Poder de Palabra]] y listas de uni
 - `exitoso`: erfolgreich
 - `jamas`: niemals / jemals
 
-## gramatica relacionada
+## gramática relacionada
 - [[Imperfecto]]
 - [[Preterito-Indefinido]]
 - [[Subjuntivo]]
