@@ -17,3 +17,9 @@ opinión
 imán
 desarrollo
 apoyo
+compremeter
+expropiación
+a no ser que
+propietarios
+peaje
+gratuito
