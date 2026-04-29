@@ -85,3 +85,74 @@ atraiga :: presente de subjuntivo de `atraer`<br>Ej.: No creo que atraiga a tant
 presente de subjuntivo de `atraer` :: atraiga<br>Ej.: No creo que atraiga a tantos visitantes. [[Vocab]]
 <!--ID: 1777200000028-->
 
+die Bewertung, Einschätzung :: la valoración<br>Ej.: El informe incluye una valoración del proyecto. [[Vocab]]
+<!--ID: 1777200000029-->
+
+la valoración :: die Bewertung, Einschätzung<br>Ej.: El informe incluye una valoración del proyecto. [[Vocab]]
+<!--ID: 1777200000030-->
+
+der Reporter / die Reporterin :: el reportero / la reportera<br>Ej.: El reportero preguntó por las obras. [[Vocab]]
+<!--ID: 1777200000031-->
+
+el reportero / la reportera :: der Reporter / die Reporterin<br>Ej.: El reportero preguntó por las obras. [[Vocab]]
+<!--ID: 1777200000032-->
+
+die Meinung :: la opinión<br>Ej.: La opinión de los vecinos es importante. [[Vocab]]
+<!--ID: 1777200000033-->
+
+la opinión :: die Meinung<br>Ej.: La opinión de los vecinos es importante. [[Vocab]]
+<!--ID: 1777200000034-->
+
+der Magnet / Anziehungspunkt :: el imán<br>Ej.: La macrodiscoteca puede ser un imán para visitantes. [[Vocab]]
+<!--ID: 1777200000035-->
+
+el imán :: der Magnet / Anziehungspunkt<br>Ej.: La macrodiscoteca puede ser un imán para visitantes. [[Vocab]]
+<!--ID: 1777200000036-->
+
+die Entwicklung :: el desarrollo<br>Ej.: El desarrollo del proyecto depende del permiso. [[Vocab]]
+<!--ID: 1777200000037-->
+
+el desarrollo :: die Entwicklung<br>Ej.: El desarrollo del proyecto depende del permiso. [[Vocab]]
+<!--ID: 1777200000038-->
+
+die Unterstützung :: el apoyo<br>Ej.: El proyecto cuenta con apoyo vecinal. [[Vocab]]
+<!--ID: 1777200000039-->
+
+el apoyo :: die Unterstützung<br>Ej.: El proyecto cuenta con apoyo vecinal. [[Vocab]]
+<!--ID: 1777200000040-->
+
+gefährden / verpflichten / kompromittieren :: comprometer<br>Ej.: El proyecto puede comprometer la seguridad vial. [[Vocab]]
+<!--ID: 1777200000041-->
+
+comprometer :: gefährden / verpflichten / kompromittieren<br>Ej.: El proyecto puede comprometer la seguridad vial. [[Vocab]]
+<!--ID: 1777200000042-->
+
+die Enteignung :: la expropiación<br>Ej.: La expropiación de terrenos generó polémica. [[Vocab]]
+<!--ID: 1777200000043-->
+
+la expropiación :: die Enteignung<br>Ej.: La expropiación de terrenos generó polémica. [[Vocab]]
+<!--ID: 1777200000044-->
+
+es sei denn, dass :: a no ser que<br>Ej.: No abrirán la carretera a no ser que terminen las obras. [[Vocab]]
+<!--ID: 1777200000045-->
+
+a no ser que :: es sei denn, dass<br>Ej.: No abrirán la carretera a no ser que terminen las obras. [[Vocab]]
+<!--ID: 1777200000046-->
+
+die Eigentümer :: los propietarios<br>Ej.: Los propietarios rechazaron la propuesta. [[Vocab]]
+<!--ID: 1777200000047-->
+
+los propietarios :: die Eigentümer<br>Ej.: Los propietarios rechazaron la propuesta. [[Vocab]]
+<!--ID: 1777200000048-->
+
+die Maut, die Mautgebühr :: el peaje<br>Ej.: El peaje será gratuito durante el primer mes. [[Vocab]]
+<!--ID: 1777200000049-->
+
+el peaje :: die Maut, die Mautgebühr<br>Ej.: El peaje será gratuito durante el primer mes. [[Vocab]]
+<!--ID: 1777200000050-->
+
+kostenlos / gebührenfrei :: gratuito<br>Ej.: El aparcamiento será gratuito. [[Vocab]]
+<!--ID: 1777200000051-->
+
+gratuito :: kostenlos / gebührenfrei<br>Ej.: El aparcamiento será gratuito. [[Vocab]]
+<!--ID: 1777200000052-->

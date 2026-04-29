@@ -1,3 +1,8 @@
+## [2026-04-29] update | Vocab.md
+Added new words from the updated raw vocabulary file to [[Urbanismo-y-Permisos]] and [[Karteikarten/Vokabeln/Urbanismo-y-Permisos]].
+- Added: valoración, reportero, opinión, imán, desarrollo, apoyo, comprometer, expropiación, a no ser que, propietarios, peaje, gratuito.
+- Normalized obvious learning forms: `volaración` -> `valoración` and `compremeter` -> `comprometer`.
+
 ## [2026-04-29] ingest | Vocab.md
 Processed short raw vocabulary file about permits, local administration, venues, roads and construction.
 - Created [[Urbanismo-y-Permisos]] in the wiki.
