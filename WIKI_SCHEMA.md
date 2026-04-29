@@ -142,10 +142,18 @@ Contexto breve y enlace a la fuente.
 ### Karteikarten
 - usar `# Obsidian_to_Anki` en archivos exportables
 - usar `::` solo en `Karteikarten/`
+<!--ID: 1777473574601-->
+
 - formato preferido:
   - vocabulario: `prompt en alemán :: respuesta en español`
+<!--ID: 1777473574606-->
+
   - vocabulario inverso: `prompt en español :: respuesta en alemán`
+<!--ID: 1777473574613-->
+
   - gramática: `pregunta o pista en alemán :: forma o regla en español`
+<!--ID: 1777473574617-->
+
 - se puede añadir una línea breve de ejemplo con `<br>Ej.: ...`
 - para respuestas largas, listas, explicaciones o conjugaciones completas se puede usar formato multilínea `START ... END`
 - el formato multilínea es especialmente adecuado para paradigmas verbales completos y bloques de vocabulario comprimido
@@ -184,6 +192,7 @@ Back: Explicación o regla en español (puede incluir listas, contrastes, ejempl
 
 Ejemplo:
 `Frase de ejemplo.`
+<!--ID: 1777473574585-->
 END
 ```
 
@@ -201,6 +210,7 @@ Back:
 - ellos/ellas/ustedes: forma
 
 Nota breve sobre uso o irregularidad.
+<!--ID: 1777473574592-->
 END
 ```
 
@@ -215,6 +225,7 @@ Back:
 - palabra alemana 3 -> palabra española 3
 
 Fuente o nota breve.
+<!--ID: 1777473574597-->
 END
 ```
 
