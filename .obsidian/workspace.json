@@ -11,14 +11,10 @@
             "id": "059cb21b8fa162e2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "raw/Vocab.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Vocab"
+              "title": "Neuer Tab"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "macrodiscoteca",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/grammar/Subjuntivo.md",
+                "file": "wiki/vocabulary/Sports-and-Business.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise auf Subjuntivo"
+              "title": "Rückverweise auf Sports-and-Business"
             }
           },
           {
@@ -171,11 +167,12 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -184,6 +181,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
       "switcher:Schnellauswahl öffnen": false,
       "graph:Graph-Ansicht öffnen": false,
       "canvas:Neuen Canvas erstellen": false,
@@ -191,46 +189,46 @@
       "templates:Vorlage einfügen": false,
       "command-palette:Befehlspalette öffnen": false,
       "bases:Neue Base erstellen": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "059cb21b8fa162e2",
+  "active": "6d01f5724b477a3c",
   "lastOpenFiles": [
-    "wiki/vocabulary/Urbanismo-y-Permisos.md",
-    "raw/Vocab.md",
-    "Karteikarten/Vokabeln/Urbanismo-y-Permisos.md",
-    "wiki/grammar/Ser-y-Estar.md",
-    "Unbenannt.base",
-    "Karteikarten/Vokabeln/Altbestand-Wortschatz-Komprimiert.md",
-    "Karteikarten/Vokabeln/Altbestand-Verben-und-Muster.md",
-    "Karteikarten/Grammatik/Paradigmen-Altbestand.md",
-    "wiki/grammar/Preterito-Indefinido.md",
-    "wiki/grammar/Presente.md",
-    "wiki/grammar/Pluscuamperfecto.md",
-    "Karteikarten/Grammatik/Subjuntivo.md",
-    "Karteikarten/Grammatik/Pronombres-y-Conectores.md",
-    "Karteikarten/Grammatik/Nominalizacion.md",
-    "Karteikarten/Grammatik/Imperativo.md",
-    "wiki/grammar/Conectores.md",
-    "raw/Vokabeln Unidad 13.md",
-    "raw/Satzverbinder.md",
+    "wiki/grammar/Imperfecto.md",
+    "wiki/grammar/Imperativo.md",
+    "wiki/grammar/Gerundio.md",
+    "wiki/grammar/Futuro Imperfecto.md",
     "wiki/grammar/Estilo Indirecto.md",
-    "raw/Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo  Irán ataca con drones a buques militares de Estados Unidos, al que acusa de romper el alto el fuego.md",
+    "wiki/grammar/Conectores.md",
+    "wiki/grammar/Condicional.md",
+    "wiki/grammar/Adverbios.md",
+    "wiki/entities/Preparacion-B2.md",
+    "raw/Zahlen.md",
     "raw/Vokabeln Unidad 18.md",
-    "Karteikarten/Vokabeln/Tecnologia-y-Medios.md",
-    "Karteikarten/Grammatik/Por-Para-y-Ser-Estar.md",
-    "Karteikarten/Grammatik/Condicional-y-Futuro.md",
-    "Karteikarten/Grammatik/Gerundio.md",
-    "Karteikarten/Grammatik/Tiempos-Avanzados.md",
-    "Karteikarten/Grammatik/Adverbios.md",
+    "raw/Vokabeln Unidad 16.md",
+    "raw/Vokabeln Unidad 15.md",
+    "raw/Vokabeln Unidad 14.md",
+    "raw/Vokabeln Unidad 13.md",
+    "raw/Vokabeln Unidad 12.md",
+    "raw/Vokabeln Klausurvorbereitung.md",
+    "raw/Vocab.md",
+    "raw/Tiempos.md",
+    "raw/Subjuntivo.md",
+    "raw/Spanisch.md",
+    "raw/Sin noticias de Gurb.md",
+    "raw/Ser vs. Estar.md",
+    "raw/Satzverbinder.md",
     "raw/RemNoteExport_Till-Friedrich_anki_2026-04-29_03-58.apkg",
+    "raw/Relativ Pronomen.md",
+    "raw/Redewendungen.md",
+    "Karteikarten/Vokabeln",
+    "Karteikarten/Grammatik",
+    "Karteikarten",
     "raw/incoming/Clippings",
     "copilot/copilot-conversations",
     "copilot/copilot-custom-prompts",
     "copilot",
     "raw/incoming/Clippings",
-    "raw/incoming",
-    "raw/archive"
+    "raw/incoming"
   ]
 }
